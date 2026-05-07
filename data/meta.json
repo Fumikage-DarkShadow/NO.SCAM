@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-05-07T23:28:37.085353+00:00",
+  "total": 428233,
+  "stats": {
+    "by_type": {
+      "email": 1397,
+      "url": 426836
+    },
+    "by_source": {
+      "ABE Info Service": 9406,
+      "Phishing.Database": 391103,
+      "URLhaus (abuse.ch)": 27480,
+      "OpenPhish": 272
+    },
+    "by_category": {
+      "Crédits / Épargne / Assurance · Usurpation professionnelle": 2921,
+      "Usurpation professionnelle": 773,
+      "Crédits / Épargne / Assurance": 3542,
+      "Usurpation d'autorités": 234,
+      "Crédits / Épargne / Assurance · Usurpation d'autorités": 128,
+      "Usurpation professionnelle · Financement participatif": 44,
+      "Crédits / Épargne / Assurance · Usurpation professionnelle · Financement participatif": 3,
+      "Usurpation d'autorités · Financement participatif": 4,
+      "Autres": 48,
+      "Phishing": 391347,
+      "Malware (malware_download)": 27480,
+      "Forex / Trading / Crypto": 1229,
+      "Biens divers": 330,
+      "Forex / Trading / Crypto · Biens divers": 51,
+      "Financement participatif": 21,
+      "Crédits / Épargne / Assurance · Usurpation d'autorités · Biens divers": 4,
+      "Forex / Trading / Crypto · Usurpation professionnelle": 15,
+      "Crédits / Épargne / Assurance · Usurpation professionnelle · Biens divers": 14,
+      "Usurpation professionnelle · Biens divers": 26,
+      "Forex / Trading / Crypto · Usurpation d'autorités": 2,
+      "Forex / Trading / Crypto · Usurpation professionnelle · Biens divers": 2,
+      "Crédits / Épargne / Assurance · Forex / Trading / Crypto": 6,
+      "Crédits / Épargne / Assurance · Financement participatif": 2,
+      "Plateformes de partage de revenus immobiliers": 2,
+      "Crédits / Épargne / Assurance · Biens divers": 1,
+      "Crédits / Épargne / Assurance · Forex / Trading / Crypto · Usurpation d'autorités · Biens divers": 1,
+      "Crédits / Épargne / Assurance · Usurpation professionnelle / Phishing": 1,
+      "Crédits / Épargne / Assurance · Forex / Trading / Crypto · Usurpation professionnelle · Biens divers": 1,
+      "Crédits / Épargne / Assurance · Forex / Trading / Crypto · Usurpation professionnelle": 1
+    }
+  },
+  "sources": [
+    {
+      "name": "ABE Info Service",
+      "url": "https://www.abe-infoservice.fr/liste-noire/listes-noires-et-mises-en-garde",
+      "description": "Liste noire officielle AMF / ACPR / Banque de France (épargne, crédit, assurance, forex)."
+    },
+    {
+      "name": "URLhaus (abuse.ch)",
+      "url": "https://urlhaus.abuse.ch/",
+      "description": "URLs distribuant des malwares — mise à jour permanente."
+    },
+    {
+      "name": "OpenPhish",
+      "url": "https://openphish.com/",
+      "description": "Flux d'URLs de phishing récemment identifiées."
+    },
+    {
+      "name": "Phishing.Database",
+      "url": "https://github.com/mitchellkrogza/Phishing.Database",
+      "description": "Base communautaire de domaines de phishing actifs."
+    }
+  ]
+}
