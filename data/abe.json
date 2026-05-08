@@ -1,5 +1,5 @@
 {
-  "total": 9406,
+  "total": 9423,
   "entries": [
     {
       "value": "2f-credit@2fcredit.com",
@@ -396,6 +396,12 @@
       "type": "email",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+    },
+    {
+      "value": "amf-france.finance@tuta.com",
+      "type": "email",
+      "source": "ABE Info Service",
+      "category": "Usurpation d'autorités"
     },
     {
       "value": "amf-france@info-help.team",
@@ -1004,6 +1010,12 @@
       "category": "Usurpation d'autorités"
     },
     {
+      "value": "blockchain@support-finance.world",
+      "type": "email",
+      "source": "ABE Info Service",
+      "category": "Usurpation d'autorités"
+    },
+    {
       "value": "blockchaine2k23@gmail.com",
       "type": "email",
       "source": "ABE Info Service",
@@ -1323,6 +1335,12 @@
     },
     {
       "value": "cogepfiinance@gmail.com",
+      "type": "email",
+      "source": "ABE Info Service",
+      "category": "Usurpation professionnelle"
+    },
+    {
+      "value": "coinbase@centresinfo.me",
       "type": "email",
       "source": "ABE Info Service",
       "category": "Usurpation professionnelle"
@@ -3968,6 +3986,12 @@
       "category": "Crédits / Épargne / Assurance"
     },
     {
+      "value": "hello@traderepublicnews.online",
+      "type": "email",
+      "source": "ABE Info Service",
+      "category": "Usurpation professionnelle"
+    },
+    {
       "value": "help.amf@gmail.com",
       "type": "email",
       "source": "ABE Info Service",
@@ -5169,6 +5193,12 @@
     },
     {
       "value": "me-sebire-cms@consultant.com",
+      "type": "email",
+      "source": "ABE Info Service",
+      "category": "Usurpation d'autorités"
+    },
+    {
+      "value": "media@amf-gov.com",
       "type": "email",
       "source": "ABE Info Service",
       "category": "Usurpation d'autorités"
@@ -8762,6 +8792,12 @@
       "category": "Crédits / Épargne / Assurance"
     },
     {
+      "value": "abl-finance.com",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Usurpation professionnelle"
+    },
+    {
       "value": "abmonde.online",
       "type": "url",
       "source": "ABE Info Service",
@@ -10796,6 +10832,12 @@
       "category": "Usurpation professionnelle"
     },
     {
+      "value": "altior-capital.io",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Biens divers"
+    },
+    {
       "value": "altitradingltd.com",
       "type": "url",
       "source": "ABE Info Service",
@@ -12060,6 +12102,12 @@
       "type": "url",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+    },
+    {
+      "value": "auclimited.cc",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Forex / Trading / Crypto"
     },
     {
       "value": "audis-invest.com",
@@ -19656,6 +19704,12 @@
       "type": "url",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance"
+    },
+    {
+      "value": "conseil-ltd.com",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Usurpation professionnelle"
     },
     {
       "value": "conseil.fonds-investissement-arquant.com",
@@ -35486,6 +35540,12 @@
       "category": "Forex / Trading / Crypto"
     },
     {
+      "value": "investproai.fr",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Forex / Trading / Crypto"
+    },
+    {
       "value": "investrendite.com",
       "type": "url",
       "source": "ABE Info Service",
@@ -39002,6 +39062,12 @@
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
     },
     {
+      "value": "lyveroscentrix.com",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Forex / Trading / Crypto"
+    },
+    {
       "value": "lyxorassetmanagement.com",
       "type": "url",
       "source": "ABE Info Service",
@@ -41840,6 +41906,12 @@
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
     },
     {
+      "value": "myexness.net",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Usurpation d'autorités"
+    },
+    {
       "value": "myfbankaccess.com",
       "type": "url",
       "source": "ABE Info Service",
@@ -41946,6 +42018,12 @@
       "type": "url",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance"
+    },
+    {
+      "value": "myquoteswiss.com",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Usurpation professionnelle"
     },
     {
       "value": "myrevconnect.com",
@@ -44831,7 +44909,7 @@
       "value": "paris-titrisation.fr",
       "type": "url",
       "source": "ABE Info Service",
-      "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+      "category": "Crédits / Épargne / Assurance · Usurpation d'autorités"
     },
     {
       "value": "parisgroupe-investissement.com",
@@ -45540,6 +45618,12 @@
       "type": "url",
       "source": "ABE Info Service",
       "category": "Usurpation professionnelle"
+    },
+    {
+      "value": "pioneersxs.com",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Forex / Trading / Crypto"
     },
     {
       "value": "pionex.com",
@@ -52046,6 +52130,12 @@
       "category": "Forex / Trading / Crypto"
     },
     {
+      "value": "tellidex.io",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Forex / Trading / Crypto"
+    },
+    {
       "value": "tenecomins.com",
       "type": "url",
       "source": "ABE Info Service",
@@ -52554,6 +52644,12 @@
       "type": "url",
       "source": "ABE Info Service",
       "category": "Forex / Trading / Crypto"
+    },
+    {
+      "value": "trade.republicgestion.cc",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Usurpation professionnelle"
     },
     {
       "value": "trade.republicgestion.com",
@@ -54582,6 +54678,12 @@
       "type": "url",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+    },
+    {
+      "value": "vinvestissement.com",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Biens divers"
     },
     {
       "value": "vipaccount.net",

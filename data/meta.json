@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-07T23:28:37.085353+00:00",
-  "total": 428233,
+  "generated_at": "2026-05-08T05:56:15.494533+00:00",
+  "total": 427873,
   "stats": {
     "by_type": {
-      "email": 1397,
-      "url": 426836
+      "email": 1402,
+      "url": 426471
     },
     "by_source": {
-      "ABE Info Service": 9406,
+      "ABE Info Service": 9423,
       "Phishing.Database": 391103,
-      "URLhaus (abuse.ch)": 27480,
-      "OpenPhish": 272
+      "URLhaus (abuse.ch)": 27060,
+      "OpenPhish": 294
     },
     "by_category": {
-      "Crédits / Épargne / Assurance · Usurpation professionnelle": 2921,
-      "Usurpation professionnelle": 773,
+      "Crédits / Épargne / Assurance · Usurpation professionnelle": 2920,
+      "Usurpation professionnelle": 779,
       "Crédits / Épargne / Assurance": 3542,
-      "Usurpation d'autorités": 234,
-      "Crédits / Épargne / Assurance · Usurpation d'autorités": 128,
+      "Usurpation d'autorités": 238,
+      "Crédits / Épargne / Assurance · Usurpation d'autorités": 129,
       "Usurpation professionnelle · Financement participatif": 44,
       "Crédits / Épargne / Assurance · Usurpation professionnelle · Financement participatif": 3,
       "Usurpation d'autorités · Financement participatif": 4,
       "Autres": 48,
-      "Phishing": 391347,
-      "Malware (malware_download)": 27480,
-      "Forex / Trading / Crypto": 1229,
-      "Biens divers": 330,
+      "Phishing": 391390,
+      "Malware (malware_download)": 27060,
+      "Forex / Trading / Crypto": 1234,
+      "Biens divers": 332,
       "Forex / Trading / Crypto · Biens divers": 51,
       "Financement participatif": 21,
       "Crédits / Épargne / Assurance · Usurpation d'autorités · Biens divers": 4,
@@ -47,7 +47,7 @@
   "sources": [
     {
       "name": "ABE Info Service",
-      "url": "https://www.abe-infoservice.fr/liste-noire/listes-noires-et-mises-en-garde",
+      "url": "https://www.abe-infoservice.fr/fr/liste-noire",
       "description": "Liste noire officielle AMF / ACPR / Banque de France (épargne, crédit, assurance, forex)."
     },
     {
