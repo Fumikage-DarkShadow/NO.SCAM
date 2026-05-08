@@ -99,22 +99,3 @@ Puis ouvre **http://localhost:8000** dans ton navigateur.
 │   └── update-blacklist.yml   # Mise à jour automatique quotidienne
 └── deploy.ps1                 # Script de déploiement (Windows)
 ```
-
----
-
-## 🔒 Confidentialité & limites
-
-- **100 % statique** : aucun backend, aucune analytique, aucun cookie. Toute
-  vérification se fait dans ton navigateur.
-- **Limites** : l'absence d'un domaine ou d'un e-mail dans la base ne garantit
-  *pas* qu'il soit fiable — les escrocs créent en permanence de nouveaux domaines.
-  En cas de doute, vérifie directement sur
-  [abe-infoservice.fr](https://www.abe-infoservice.fr/).
-- L'outil est fourni **à but informatif** et **sans garantie**.
-
----
-
-## 📜 Licence
-
-Code MIT. Les listes noires proviennent de bases publiques — chaque source a sa
-propre licence (voir leurs pages d'origine).
