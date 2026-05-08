@@ -281,7 +281,7 @@ def main() -> int:
         },
         "sources": [
             {"name": "ABE Info Service",
-             "url": "https://www.abe-infoservice.fr/liste-noire/listes-noires-et-mises-en-garde",
+             "url": "https://www.abe-infoservice.fr/fr/liste-noire",
              "description": "Liste noire officielle AMF / ACPR / Banque de France (épargne, crédit, assurance, forex)."},
             {"name": "URLhaus (abuse.ch)",
              "url": "https://urlhaus.abuse.ch/",
