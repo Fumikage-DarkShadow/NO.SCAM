@@ -11,7 +11,7 @@ bases internationales de phishing et malware (**URLhaus**, **OpenPhish**, **Phis
 
 ## 🌐 Tester directement en ligne
 
-# 👉 **[https://fumikage-darkshadow.github.io/noscam/](https://fumikage-darkshadow.github.io/noscam/)**
+# 👉 **[https://fumikage-darkshadow.github.io/NO.SCAM/](https://fumikage-darkshadow.github.io/NO.SCAM/)**
 
 Aucune installation nécessaire. Ouvrez le lien, collez une URL ou un e-mail, cliquez
 sur **Vérifier** — c'est tout.
@@ -63,8 +63,8 @@ Pour modifier le code ou tester sans déployer :
 
 ```bash
 # 1) Cloner le repo
-git clone https://github.com/Fumikage-DarkShadow/noscam.git
-cd noscam
+git clone https://github.com/Fumikage-DarkShadow/NO.SCAM.git
+cd NO.SCAM
 
 # 2) (Optionnel) Régénérer la base de données depuis les sources fraîches
 #    Aucune dépendance Python à installer : juste la lib standard.
