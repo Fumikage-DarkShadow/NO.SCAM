@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-11T07:39:43.582756+00:00",
-  "total": 428801,
+  "generated_at": "2026-05-12T06:36:03.813065+00:00",
+  "total": 428700,
   "stats": {
     "by_type": {
       "email": 1402,
-      "url": 427399
+      "url": 427298
     },
     "by_source": {
       "ABE Info Service": 9423,
-      "Phishing.Database": 391110,
-      "URLhaus (abuse.ch)": 27993,
-      "OpenPhish": 292
+      "Phishing.Database": 391288,
+      "URLhaus (abuse.ch)": 27704,
+      "OpenPhish": 297
     },
     "by_category": {
       "Crédits / Épargne / Assurance · Usurpation professionnelle": 2920,
@@ -22,8 +22,8 @@
       "Crédits / Épargne / Assurance · Usurpation professionnelle · Financement participatif": 3,
       "Usurpation d'autorités · Financement participatif": 4,
       "Autres": 48,
-      "Phishing": 391385,
-      "Malware (malware_download)": 27993,
+      "Phishing": 391573,
+      "Malware (malware_download)": 27704,
       "Forex / Trading / Crypto": 1234,
       "Biens divers": 332,
       "Forex / Trading / Crypto · Biens divers": 51,
