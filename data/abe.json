@@ -1,5 +1,5 @@
 {
-  "total": 9423,
+  "total": 9424,
   "entries": [
     {
       "value": "2f-credit@2fcredit.com",
@@ -50115,6 +50115,12 @@
     },
     {
       "value": "sj-finance.fr",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+    },
+    {
+      "value": "skalrett.fr",
       "type": "url",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
