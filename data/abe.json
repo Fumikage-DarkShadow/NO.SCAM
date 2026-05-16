@@ -1,5 +1,5 @@
 {
-  "total": 9424,
+  "total": 9426,
   "entries": [
     {
       "value": "2f-credit@2fcredit.com",
@@ -4683,6 +4683,12 @@
     },
     {
       "value": "infos@deutschebanks.org",
+      "type": "email",
+      "source": "ABE Info Service",
+      "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+    },
+    {
+      "value": "infos@fafinance.fr",
       "type": "email",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
@@ -26073,6 +26079,12 @@
     },
     {
       "value": "facilesplacements.fr/crypto-paypal2",
+      "type": "url",
+      "source": "ABE Info Service",
+      "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
+    },
+    {
+      "value": "fafinancesarl.com",
       "type": "url",
       "source": "ABE Info Service",
       "category": "Crédits / Épargne / Assurance · Usurpation professionnelle"
