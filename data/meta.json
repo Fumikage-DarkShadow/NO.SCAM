@@ -1,47 +1,19 @@
 {
-  "generated_at": "2026-05-19T07:44:05.422252+00:00",
-  "total": 424762,
+  "generated_at": "2026-05-20T07:42:06.235914+00:00",
+  "total": 415192,
   "stats": {
     "by_type": {
-      "email": 1403,
-      "url": 423359
+      "email": 0,
+      "url": 415192
     },
     "by_source": {
-      "ABE Info Service": 9426,
-      "Phishing.Database": 391289,
-      "URLhaus (abuse.ch)": 23763,
-      "OpenPhish": 289
+      "Phishing.Database": 391327,
+      "URLhaus (abuse.ch)": 23573,
+      "OpenPhish": 294
     },
     "by_category": {
-      "Crédits / Épargne / Assurance · Usurpation professionnelle": 2923,
-      "Usurpation professionnelle": 779,
-      "Crédits / Épargne / Assurance": 3542,
-      "Usurpation d'autorités": 238,
-      "Crédits / Épargne / Assurance · Usurpation d'autorités": 129,
-      "Usurpation professionnelle · Financement participatif": 44,
-      "Crédits / Épargne / Assurance · Usurpation professionnelle · Financement participatif": 3,
-      "Usurpation d'autorités · Financement participatif": 4,
-      "Autres": 48,
-      "Phishing": 391573,
-      "Malware (malware_download)": 23763,
-      "Forex / Trading / Crypto": 1234,
-      "Biens divers": 332,
-      "Forex / Trading / Crypto · Biens divers": 51,
-      "Financement participatif": 21,
-      "Crédits / Épargne / Assurance · Usurpation d'autorités · Biens divers": 4,
-      "Forex / Trading / Crypto · Usurpation professionnelle": 15,
-      "Crédits / Épargne / Assurance · Usurpation professionnelle · Biens divers": 14,
-      "Usurpation professionnelle · Biens divers": 26,
-      "Forex / Trading / Crypto · Usurpation d'autorités": 2,
-      "Forex / Trading / Crypto · Usurpation professionnelle · Biens divers": 2,
-      "Crédits / Épargne / Assurance · Forex / Trading / Crypto": 6,
-      "Crédits / Épargne / Assurance · Financement participatif": 2,
-      "Plateformes de partage de revenus immobiliers": 2,
-      "Crédits / Épargne / Assurance · Biens divers": 1,
-      "Crédits / Épargne / Assurance · Forex / Trading / Crypto · Usurpation d'autorités · Biens divers": 1,
-      "Crédits / Épargne / Assurance · Usurpation professionnelle / Phishing": 1,
-      "Crédits / Épargne / Assurance · Forex / Trading / Crypto · Usurpation professionnelle · Biens divers": 1,
-      "Crédits / Épargne / Assurance · Forex / Trading / Crypto · Usurpation professionnelle": 1
+      "Phishing": 391619,
+      "Malware (malware_download)": 23573
     }
   },
   "sources": [
