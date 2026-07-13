@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-12T06:31:32.169669+00:00",
-  "total": 412626,
+  "generated_at": "2026-07-13T06:51:37.086333+00:00",
+  "total": 412606,
   "stats": {
     "by_type": {
       "email": 0,
-      "url": 412626
+      "url": 412606
     },
     "by_source": {
       "Phishing.Database": 391399,
-      "URLhaus (abuse.ch)": 20933,
-      "OpenPhish": 295
+      "URLhaus (abuse.ch)": 20911,
+      "OpenPhish": 296
     },
     "by_category": {
-      "Phishing": 391693,
-      "Malware (malware_download)": 20933
+      "Phishing": 391695,
+      "Malware (malware_download)": 20911
     }
   },
   "sources": [
