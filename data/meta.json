@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:21:10.002375+00:00",
+  "generated_at": "2026-10-29T10:42:39.765817+00:00",
   "total": 392272,
   "stats": {
     "by_type": {
@@ -8,7 +8,7 @@
     },
     "by_source": {
       "Phishing.Database": 391977,
-      "OpenPhish": 295
+      "OpenPhish": 296
     },
     "by_category": {
       "Phishing": 392272
