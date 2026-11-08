@@ -1417,6 +1417,7 @@ u|08880123-19000.000webhostapp.com|Phishing.Database|Phishing
 u|0888naveankorea-oneinamillion-class.vercel.app|Phishing.Database|Phishing
 u|088invoice.online|Phishing.Database|Phishing
 u|088vxghmm.richardl.xyz|Phishing.Database|Phishing
+u|088wk-ete-fhrc-8tho6-10-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|089014235-reviewpage-pages.pages.dev|Phishing.Database|Phishing
 u|0890aab0.ieybfs7j447b.org.cn|Phishing.Database|Phishing
 u|089105.duniyahaigol.com|Phishing.Database|Phishing
@@ -2134,6 +2135,7 @@ u|0mkjrhaalxe5nvh91ylbhswuhz.qwo231sdx.club|Phishing.Database|Phishing
 u|0mkrfcun19rqfzoz5pa.qwo231sdx.club|Phishing.Database|Phishing
 u|0mlnkvz12fyfv8jlsgo.qwo231sdx.club|Phishing.Database|Phishing
 u|0mmhp5jy.duckdns.org|Phishing.Database|Phishing
+u|0mnz0i.top|OpenPhish|Phishing
 u|0moc4s.corvettesandbids.com|Phishing.Database|Phishing
 u|0mqheqplq.richardl.xyz|Phishing.Database|Phishing
 u|0mt-online.webcindario.com|Phishing.Database|Phishing
@@ -4941,6 +4943,7 @@ u|1352421-00.000webhostapp.com|Phishing.Database|Phishing
 u|1352d5fc.9d96w4.shop|Phishing.Database|Phishing
 u|1354.455.crystalnatura.com|Phishing.Database|Phishing
 u|135461223.site|Phishing.Database|Phishing
+u|135461223.site/sv/405/27465835442616359-25532370922651/47031/x|OpenPhish|Phishing
 u|135538.vip|Phishing.Database|Phishing
 u|1355529367864456688778900922335687.filesusr.com|Phishing.Database|Phishing
 u|13586637418863628710299.jamb2022.co|Phishing.Database|Phishing
@@ -5399,7 +5402,6 @@ u|14642746f3dc128e56c0a2f92df6c88f-dot-gle9392420309493993.rj.r.appspot.com|Phis
 u|1468497336799157.ga|Phishing.Database|Phishing
 u|1469-squid.com|Phishing.Database|Phishing
 u|1469714697-146971469714697.moosecamp.net|Phishing.Database|Phishing
-u|146a3.nikens.at/kraken|OpenPhish|Phishing
 u|146c15b3.bdvfvw-aj7.shop|Phishing.Database|Phishing
 u|147-79-74-14.cprapid.com|Phishing.Database|Phishing
 u|147.124.211.85|Phishing.Database|Phishing
@@ -6406,8 +6408,8 @@ u|166.226.205.92.host.secureserver.net|Phishing.Database|Phishing
 u|16612b8e12a86471840ca6c9a3b2dd28-dot-656757657-306609.df.r.homelandfoundation.org|Phishing.Database|Phishing
 u|16636506-checkpointaccount.work.gd|Phishing.Database|Phishing
 u|166373867580314.graficaaoquadrado.com.br|Phishing.Database|Phishing
-u|16653311.com/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
-u|16653311.com/m|OpenPhish|Phishing
+u|16654422.com/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
+u|16654422.com/m|OpenPhish|Phishing
 u|16666601.awi.za.com|Phishing.Database|Phishing
 u|1667.noumaceta.eu|Phishing.Database|Phishing
 u|16672.co|Phishing.Database|Phishing
@@ -6886,8 +6888,6 @@ u|1775114384.jclecardinal.com|Phishing.Database|Phishing
 u|1775148712.rsc.cdn77.org|Phishing.Database|Phishing
 u|17755588.com|Phishing.Database|Phishing
 u|177559.com|Phishing.Database|Phishing
-u|17759900.com/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
-u|17759900.com/m|OpenPhish|Phishing
 u|1775ee.com|Phishing.Database|Phishing
 u|1776-vgd.safefile.icu|Phishing.Database|Phishing
 u|17767-1885.s1.webspace.re|Phishing.Database|Phishing
@@ -7463,6 +7463,7 @@ u|183b4625-f3f2-4ebf-9866-96f605cc6b97.usrfiles.com|Phishing.Database|Phishing
 u|183cb7da.hsduecinfj.com.cn|Phishing.Database|Phishing
 u|183d151a1b939c63b1f7c79514a5639d.cdn.bubble.io|Phishing.Database|Phishing
 u|183da2ac-98c9-41cf-9f59-0c377e76b19b.htmlcomponentservice.com|Phishing.Database|Phishing
+u|183s74-ytt-sj8o54-7j18x5.pages.dev|OpenPhish|Phishing
 u|184-72-107-150.cprapid.com|Phishing.Database|Phishing
 u|184-73-49-192.cprapid.com|Phishing.Database|Phishing
 u|184.154.88.243|Phishing.Database|Phishing
@@ -10760,8 +10761,6 @@ u|22.jinhufu01.workers.dev|Phishing.Database|Phishing
 u|220-server.d-tv.tv|Phishing.Database|Phishing
 u|220-server.full-out.net|Phishing.Database|Phishing
 u|2200000001212.cloud|Phishing.Database|Phishing
-u|22001565.com:1565|OpenPhish|Phishing
-u|22001565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|2200275.wixsite.com|Phishing.Database|Phishing
 u|22006-4446.s3.webspace.re|Phishing.Database|Phishing
 u|2204four.pages.dev|Phishing.Database|Phishing
@@ -10779,8 +10778,6 @@ u|221-clothing.com|Phishing.Database|Phishing
 u|221.120.219.3|Phishing.Database|Phishing
 u|221.150.115.216|Phishing.Database|Phishing
 u|22110a81.hsduecinfj.com.cn|Phishing.Database|Phishing
-u|22111565.com/m|OpenPhish|Phishing
-u|22111565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|22115jj.com|Phishing.Database|Phishing
 u|22120-4671.s2.webspace.re|Phishing.Database|Phishing
 u|221223497904587.work.gd|Phishing.Database|Phishing
@@ -10806,7 +10803,6 @@ u|2220.pages.net.br|Phishing.Database|Phishing
 u|222009.atwebpages.com|Phishing.Database|Phishing
 u|22212-4618.s1.webspace.re|Phishing.Database|Phishing
 u|2221272922212729.koreacosland.com|Phishing.Database|Phishing
-u|22221565.com:1565|OpenPhish|Phishing
 u|22221998.000webhostapp.com|Phishing.Database|Phishing
 u|22222-4623.s2.webspace.re|Phishing.Database|Phishing
 u|22222222222222.loseyourip.com|Phishing.Database|Phishing
@@ -10829,8 +10825,6 @@ u|222p.krk678kkrft.cloudns.biz|Phishing.Database|Phishing
 u|222xmnx4-4n4.pages.dev|Phishing.Database|Phishing
 u|22317b7a.dj-hd5kfu.shop|Phishing.Database|Phishing
 u|223300099.findyourjacket.com|Phishing.Database|Phishing
-u|22331565.com/nosupportie.html|OpenPhish|Phishing
-u|22331565.com:1565|OpenPhish|Phishing
 u|22334211.weebly.com|Phishing.Database|Phishing
 u|22339487545.weebly.com|Phishing.Database|Phishing
 u|223710-xxdazbvqvqyzgkvu.sepa-00980-force-drop.oa.r.appspot.com|Phishing.Database|Phishing
@@ -10850,6 +10844,9 @@ u|22494-4867.s1.webspace.re|Phishing.Database|Phishing
 u|224smpi.yaztechs.com|Phishing.Database|Phishing
 u|225412021514myaccount.co.vu|Phishing.Database|Phishing
 u|225512.cf-pann.biz.id|Phishing.Database|Phishing
+u|22551565.com/m|OpenPhish|Phishing
+u|22551565.com/wp-admin|OpenPhish|Phishing
+u|22551565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|2255countryroad.com|Phishing.Database|Phishing
 u|225ef6f747d1d0f1a35fd40d60667f411f15.pages.dev|Phishing.Database|Phishing
 u|225fa690.sscyl212.cn|Phishing.Database|Phishing
@@ -10864,6 +10861,8 @@ u|22697356497131517727960848.hanefra7bikiemta.com|Phishing.Database|Phishing
 u|227121.com|Phishing.Database|Phishing
 u|22716.43811.wap.shuaihu99.com|Phishing.Database|Phishing
 u|22769e5851.nxcli.io|Phishing.Database|Phishing
+u|22771565.com/m|OpenPhish|Phishing
+u|22771565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|227777.jp|Phishing.Database|Phishing
 u|227819shop.com|Phishing.Database|Phishing
 u|22788-5071.s2.webspace.re|Phishing.Database|Phishing
@@ -10878,7 +10877,6 @@ u|22869466.cc|Phishing.Database|Phishing
 u|22875-5147.s2.webspace.re|Phishing.Database|Phishing
 u|22875.cn|Phishing.Database|Phishing
 u|22881-5155.s2.webspace.re|Phishing.Database|Phishing
-u|22881565.com/nosupportie.html|OpenPhish|Phishing
 u|228j-casefb531949.vercel.app|Phishing.Database|Phishing
 u|229.237.205.92.host.secureserver.net|Phishing.Database|Phishing
 u|22918.abizillion.com|Phishing.Database|Phishing
@@ -11847,6 +11845,7 @@ u|2634a490-839f-4c9e-9074-6bb9bbf546f2.id.repl.co|Phishing.Database|Phishing
 u|26357.pages.dev|Phishing.Database|Phishing
 u|263656.915vip25.xyz|Phishing.Database|Phishing
 u|26368.ru.com|Phishing.Database|Phishing
+u|26372987.app|OpenPhish|Phishing
 u|26389.top|Phishing.Database|Phishing
 u|264.200.64.2.mail.cansukolukirik.com|Phishing.Database|Phishing
 u|264.nhksf.com|Phishing.Database|Phishing
@@ -12224,7 +12223,12 @@ u|295940895026123-dot-wetransfer-auth-file-343.appspot.com|Phishing.Database|Phi
 u|295bet.cc|Phishing.Database|Phishing
 u|295e0c5e-85fb-4b8e-bf71-f26cadaa71c3.id.repl.co|Phishing.Database|Phishing
 u|2964-5-90-70-250.ngrok.io|Phishing.Database|Phishing
-u|29642.top/downapp|OpenPhish|Phishing
+u|29642.top/downapp/r/29642.top|OpenPhish|Phishing
+u|29642.top/downappr/29642.top|OpenPhish|Phishing
+u|29642.top/downappr/29642.topr/29642.top|OpenPhish|Phishing
+u|29642.top/downappr/29642.topr/29642.top/r/29642.top|OpenPhish|Phishing
+u|29642.top/downappr/29642.topr/29642.top/r/29642.topr/29642.top|OpenPhish|Phishing
+u|29642.top/downappr/29642.topr/29642.topr/29642.top|OpenPhish|Phishing
 u|2964815d03a032c8ca37ac5d557647da.com|Phishing.Database|Phishing
 u|2964815d03a032c8ca37ac5d557647dc.com|Phishing.Database|Phishing
 u|2965e3380f97af245.southernweyr.us|Phishing.Database|Phishing
@@ -13092,7 +13096,6 @@ u|2v.jeansbestlawnservice.com|Phishing.Database|Phishing
 u|2v12si.worksbcm.com|Phishing.Database|Phishing
 u|2v28y.csb.app|Phishing.Database|Phishing
 u|2v2lobby.pro|Phishing.Database|Phishing
-u|2v3os-8df-j82r-dk3y2-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|2vdwyfxu7ixziojpvstu2ivojymo.qwo231sdx.club|Phishing.Database|Phishing
 u|2via-clientefiel.xyz|Phishing.Database|Phishing
 u|2viafaturahiperltau.com|Phishing.Database|Phishing
@@ -13294,6 +13297,7 @@ u|3-bill-help.com|Phishing.Database|Phishing
 u|3-bill-uk.com|Phishing.Database|Phishing
 u|3-billing-alert.com|Phishing.Database|Phishing
 u|3-billing-alerts.co.uk|Phishing.Database|Phishing
+u|3-date-vote.pages.dev|OpenPhish|Phishing
 u|3-esecure.dynamic-dns.net|Phishing.Database|Phishing
 u|3-marketers.com|Phishing.Database|Phishing
 u|3-mtb.serveirc.com|Phishing.Database|Phishing
@@ -14328,12 +14332,11 @@ u|330en.cc|Phishing.Database|Phishing
 u|330ji.cc|Phishing.Database|Phishing
 u|330li.cc|Phishing.Database|Phishing
 u|3310.dpd.loginto.me|Phishing.Database|Phishing
+u|33111565.com:1565|OpenPhish|Phishing
 u|3312708.supervisioncenter.com|Phishing.Database|Phishing
 u|3317000.com|Phishing.Database|Phishing
 u|33178.cc|Phishing.Database|Phishing
 u|331fa.cn|Phishing.Database|Phishing
-u|33221565.com/nosupportie.html|OpenPhish|Phishing
-u|33221565.com:1565|OpenPhish|Phishing
 u|332316.com|Phishing.Database|Phishing
 u|33295384.com|Phishing.Database|Phishing
 u|332augustwebmaillahsydb344553578webmaillahsydb3445535789udndnd.weebly.com|Phishing.Database|Phishing
@@ -14347,6 +14350,9 @@ u|33300.icu|Phishing.Database|Phishing
 u|3333.kimberlywoodrich.workers.dev|Phishing.Database|Phishing
 u|3333.pages.net.br|Phishing.Database|Phishing
 u|3333009-00.000webhostapp.com|Phishing.Database|Phishing
+u|33331565.com/m|OpenPhish|Phishing
+u|33331565.com/wp-admin|OpenPhish|Phishing
+u|33331565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|333333333three33.s3.us-east-2.amazonaws.com|Phishing.Database|Phishing
 u|3333564131.cloud|Phishing.Database|Phishing
 u|333359347543857333333.345435345345345.repl.co|Phishing.Database|Phishing
@@ -14370,6 +14376,8 @@ u|334793ee791419.lhr.life|Phishing.Database|Phishing
 u|334r34rd334c34c3c434.github.io|Phishing.Database|Phishing
 u|335166.com|Phishing.Database|Phishing
 u|3352248.webku.buzz|Phishing.Database|Phishing
+u|33551565.com/m|OpenPhish|Phishing
+u|33551565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|3355tt.com|Phishing.Database|Phishing
 u|3358117-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com|Phishing.Database|Phishing
 u|3358aed87718db0a84af6adbed4a7e10.homelandfoundation.org|Phishing.Database|Phishing
@@ -14380,6 +14388,9 @@ u|3360.xg4ken.com|Phishing.Database|Phishing
 u|336305.cc|Phishing.Database|Phishing
 u|3365365.vip|Phishing.Database|Phishing
 u|33655bet.com|Phishing.Database|Phishing
+u|33661565.com/m|OpenPhish|Phishing
+u|33661565.com/wp-admin/.wp-languages/.wjpl95qv_mlr.php|OpenPhish|Phishing
+u|33661565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|336655.915vip27.xyz|Phishing.Database|Phishing
 u|336655.915vip29.xyz|Phishing.Database|Phishing
 u|336655v.co|Phishing.Database|Phishing
@@ -14394,9 +14405,6 @@ u|337302241920827245573956762077574739.hanefra7bikiemta.com|Phishing.Database|Ph
 u|337362558598298.graficaaoquadrado.com.br|Phishing.Database|Phishing
 u|337620-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com|Phishing.Database|Phishing
 u|33765.cc|Phishing.Database|Phishing
-u|33771565.com/m|OpenPhish|Phishing
-u|33771565.com/nosupportie.html|OpenPhish|Phishing
-u|33771565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|3379.mabelmarketing.com|Phishing.Database|Phishing
 u|337dm.hp.peraichi.com|Phishing.Database|Phishing
 u|337powiwebsbm.ga|Phishing.Database|Phishing
@@ -14404,6 +14412,10 @@ u|3384567.com|Phishing.Database|Phishing
 u|338677.com|Phishing.Database|Phishing
 u|3386f734.ieybfs7j447b.org.cn|Phishing.Database|Phishing
 u|33872.43811.wap.shuaihu99.com|Phishing.Database|Phishing
+u|33881565.com/m|OpenPhish|Phishing
+u|33881565.com/wp-admin/.wp-languages|OpenPhish|Phishing
+u|33881565.com:1565|OpenPhish|Phishing
+u|33881565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|338975.com|Phishing.Database|Phishing
 u|338goldensky.com|Phishing.Database|Phishing
 u|3392461133924611.columbiauniversityinpictures.com|Phishing.Database|Phishing
@@ -15437,8 +15449,6 @@ u|365.qwe123-asd456-zxc789.0355bet.com|Phishing.Database|Phishing
 u|365.qwe123-asd456-zxc789.365611.top|Phishing.Database|Phishing
 u|365.qwe123-asd456-zxc789.365618.top|Phishing.Database|Phishing
 u|365.qwe123-asd456-zxc789.365645.top|Phishing.Database|Phishing
-u|365.qwe123-asd456-zxc789.365682.top/downapp|OpenPhish|Phishing
-u|365.qwe123-asd456-zxc789.365696.top/downapp|OpenPhish|Phishing
 u|365.qwe123-asd456-zxc789.hongguwu.com|Phishing.Database|Phishing
 u|365.qwe123-asd456-zxc789.pxjy.fun|Phishing.Database|Phishing
 u|365.qwe123-asd456-zxc789.sunwayland-lkys.net|Phishing.Database|Phishing
@@ -15572,6 +15582,7 @@ u|36563.tv|Phishing.Database|Phishing
 u|36563656.club|Phishing.Database|Phishing
 u|36564.tv|Phishing.Database|Phishing
 u|365646.com|Phishing.Database|Phishing
+u|365648.top/downapp|OpenPhish|Phishing
 u|365656.915vip03.xyz|Phishing.Database|Phishing
 u|365656.mgua099.xyz|Phishing.Database|Phishing
 u|36566.top|Phishing.Database|Phishing
@@ -15826,10 +15837,10 @@ u|36595555.com|Phishing.Database|Phishing
 u|3659661.com|Phishing.Database|Phishing
 u|36596666.com|Phishing.Database|Phishing
 u|36596666.net|Phishing.Database|Phishing
-u|365972.top/downapp|OpenPhish|Phishing
+u|365973.top/downapp|OpenPhish|Phishing
 u|365974.com|Phishing.Database|Phishing
+u|365976.top/downapp|OpenPhish|Phishing
 u|3659771.com|Phishing.Database|Phishing
-u|365978.top/downapp|OpenPhish|Phishing
 u|36599.at|Phishing.Database|Phishing
 u|365990.vip|Phishing.Database|Phishing
 u|365999.bet|Phishing.Database|Phishing
@@ -18737,6 +18748,8 @@ u|440440688980429-dot-wetransfer-auth-file-344.appspot.com|Phishing.Database|Phi
 u|44054ebf.shoproyal.ro|Phishing.Database|Phishing
 u|440880116694683845.weebly.com|Phishing.Database|Phishing
 u|441.360-insurance.com|Phishing.Database|Phishing
+u|44111565.com/m|OpenPhish|Phishing
+u|44111565.com:1565/403.html?i=164.92.212.136&c=nl|OpenPhish|Phishing
 u|4412651hta5s.441as7a4111a4s2.repl.co|Phishing.Database|Phishing
 u|441528689665750.kitlanchesisa.com.br|Phishing.Database|Phishing
 u|44199aa9.dragit.email|Phishing.Database|Phishing
@@ -24489,6 +24502,7 @@ u|5pss.short.gy|Phishing.Database|Phishing
 u|5pybv9rj76i7fv8.53244ds.xyz|Phishing.Database|Phishing
 u|5pymk.weblium.site|Phishing.Database|Phishing
 u|5q2ycjb3lpuh.waterloojenniferwu.com|Phishing.Database|Phishing
+u|5q3cs3.top|OpenPhish|Phishing
 u|5q5d.short.gy|Phishing.Database|Phishing
 u|5q65.com|Phishing.Database|Phishing
 u|5q70.com|Phishing.Database|Phishing
@@ -25058,7 +25072,6 @@ u|61a778705e12390c5d193c35--mystifying-bassi-997fdf.netlify.app|Phishing.Databas
 u|61a7b3963c57d355a00f4fce--jolly-sammet-8c968f.netlify.app|Phishing.Database|Phishing
 u|61ac6d95c124c9bd8389b0cd0fbdf6a1.ceramicwatchshop.com|Phishing.Database|Phishing
 u|61ada8ae.g91d90.shop|Phishing.Database|Phishing
-u|61aes-m3m-pr7u-dbvmn-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|61b002fe.simptrue.com.cn|Phishing.Database|Phishing
 u|61b2cd001527128807b4c1e0--focused-blackwell-c6f8d2.netlify.app|Phishing.Database|Phishing
 u|61b97f384b88f753b9b714fd--practical-mestorf-cabd56.netlify.app|Phishing.Database|Phishing
@@ -25529,6 +25542,7 @@ u|64849236.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com|Phishing.Datab
 u|6484fdf44816c6a2fc5ef6e9749fc21d904.pages.dev|Phishing.Database|Phishing
 u|64863babf1e5e15afafd96cf--venerable-alfajores-95b3ab.netlify.app|Phishing.Database|Phishing
 u|6486469d.voag.cn|Phishing.Database|Phishing
+u|64866.xyz|OpenPhish|Phishing
 u|6486pbridges.sahibkarol.biz|Phishing.Database|Phishing
 u|64880.wt30cd.edu.cn.shuaihu99.com|Phishing.Database|Phishing
 u|648823.weebly.com|Phishing.Database|Phishing
@@ -27202,6 +27216,8 @@ u|6q2n8.guzhibo.cn|Phishing.Database|Phishing
 u|6q4at.r.bh.d.sendibt3.com|Phishing.Database|Phishing
 u|6q5d2-2iaaa-aaaad-qdhta-cai.raw.ic0.app|Phishing.Database|Phishing
 u|6q8ho84gryvw.wisuda.ump.ac.id|Phishing.Database|Phishing
+u|6qjtkx-gv.myshopify.com/ht|OpenPhish|Phishing
+u|6qjtkx-gv.myshopify.com/password|OpenPhish|Phishing
 u|6qlebi.n0c.world|Phishing.Database|Phishing
 u|6qllu.qwo231sdx.club|Phishing.Database|Phishing
 u|6qmsvxy326hnmejp.qwo231sdx.club|Phishing.Database|Phishing
@@ -29015,7 +29031,6 @@ u|7j2vausd1z7cinqrusl.qwo231sdx.club|Phishing.Database|Phishing
 u|7j4a-casefb014536.vercel.app|Phishing.Database|Phishing
 u|7j6ha-fff.wasmer.app|Phishing.Database|Phishing
 u|7jat5-miaaa-aaaad-qeyhq-cai.raw.ic0.app|Phishing.Database|Phishing
-u|7jiw7b-devtb-i29br-4jfa-bllc4.pages.dev|OpenPhish|Phishing
 u|7jn5fuheg.liusanjie.cc|Phishing.Database|Phishing
 u|7jowo9k5.sibpages.com|Phishing.Database|Phishing
 u|7jszvbrrlskyw4nrt2v8tg6.yipf2a.cn|Phishing.Database|Phishing
@@ -29061,6 +29076,7 @@ u|7mdkq2h0ba.s3.us-south.objectstorage.softlayer.net|Phishing.Database|Phishing
 u|7me.4ce.mywebsitetransfer.com|Phishing.Database|Phishing
 u|7mkead6.cn|Phishing.Database|Phishing
 u|7mljv.anqi88.cn|Phishing.Database|Phishing
+u|7mmru-3ce-3zrs-nxd5f-07-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|7mp8-izay8f-oxm0.anjaan.com.np|Phishing.Database|Phishing
 u|7mrjpmuig7pg.qwo231sdx.club|Phishing.Database|Phishing
 u|7mupdate.com|Phishing.Database|Phishing
@@ -29305,6 +29321,7 @@ u|7z0qu.qwo231sdx.club|Phishing.Database|Phishing
 u|7z2wgz.ytyukai.cn|Phishing.Database|Phishing
 u|7z3-iyzdk1raj3tpjisqgrgah0nn-0763xsqv8acz-gib4sa1qro5k-6o1.pages.dev|Phishing.Database|Phishing
 u|7z31w9g.xxoht18.cn|Phishing.Database|Phishing
+u|7z4xz.github.io/financetracker/login.html|OpenPhish|Phishing
 u|7z52r.csb.app|Phishing.Database|Phishing
 u|7z72ney.tokenapp.download|Phishing.Database|Phishing
 u|7z8g621neck75.53244ds.xyz|Phishing.Database|Phishing
@@ -29443,7 +29460,6 @@ u|8080247dg3-487dn37.duckdns.org|Phishing.Database|Phishing
 u|8081.co.uk|Phishing.Database|Phishing
 u|808211188ad0ed.localhost.run|Phishing.Database|Phishing
 u|80822133665255.skom.id|Phishing.Database|Phishing
-u|80856136365.com|OpenPhish|Phishing
 u|8087.yajiangguoye.com|Phishing.Database|Phishing
 u|80879270.webku.buzz|Phishing.Database|Phishing
 u|808918.selcdn.ru|Phishing.Database|Phishing
@@ -30145,7 +30161,6 @@ u|86u750988760000.querita.repl.co|Phishing.Database|Phishing
 u|86v.enadupratibha.com|Phishing.Database|Phishing
 u|86v2v6.duckdns.org|Phishing.Database|Phishing
 u|86xa5rxb6.qwo231sdx.club|Phishing.Database|Phishing
-u|87-106-236-104.plesk.page|OpenPhish|Phishing
 u|87-106-78-9.cprapid.com|Phishing.Database|Phishing
 u|87-107340.weeblysite.com|Phishing.Database|Phishing
 u|87-me.us|Phishing.Database|Phishing
@@ -30283,7 +30298,6 @@ u|87h1q.weblium.site|Phishing.Database|Phishing
 u|87h4gnp.esyabankasi.org|Phishing.Database|Phishing
 u|87hg8.com|Phishing.Database|Phishing
 u|87i.keyxxmcrdpfu283.workers.dev|Phishing.Database|Phishing
-u|87ie6-rt6-fg7e-k0ls1-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|87k5t.app.link|Phishing.Database|Phishing
 u|87l7s55uzzxkg23swld.lspower.xyz|Phishing.Database|Phishing
 u|87pz.red.belarusmart.ru|Phishing.Database|Phishing
@@ -31186,6 +31200,11 @@ u|8quest.com|Phishing.Database|Phishing
 u|8r13tbbn19148-tsyhliqnqrl-9zrevo68qg1o34huz2nocg9-dos38x5j.pages.dev|Phishing.Database|Phishing
 u|8r3a9.github.io|Phishing.Database|Phishing
 u|8r5p3cvcxno.wusps.xyz|Phishing.Database|Phishing
+u|8r5p6e-qw177a-2k8z1p9m4s-8p2m1s.pages.dev|OpenPhish|Phishing
+u|8r5p6e-qw177a-mbtz8p9m1z2-3s8m.pages.dev|OpenPhish|Phishing
+u|8r5p6e-qw177a-mbtz8x9p1m2-3s1m.pages.dev|OpenPhish|Phishing
+u|8r5p6e-qw644c24y-7k1z9p8m2s-2s9m.pages.dev|OpenPhish|Phishing
+u|8r5p6e-qw999agreg-mbtz2p8m1z9-9m1p.pages.dev|OpenPhish|Phishing
 u|8r6ltbj1tqfjoyptyzniilnb0b4fn.qwo231sdx.club|Phishing.Database|Phishing
 u|8r6r07.dbpyzc.81935.m.shuaihu99.com|Phishing.Database|Phishing
 u|8rabm6d1.square.site|Phishing.Database|Phishing
@@ -31211,6 +31230,11 @@ u|8s5m53xi0.top|Phishing.Database|Phishing
 u|8s5ovmzpkkag5p7tj1tpwzt93l6wz.53244ds.xyz|Phishing.Database|Phishing
 u|8s73iffkn43rmy35rng.we9ixzz.co|Phishing.Database|Phishing
 u|8s77zutpvq34zftdbe3qm.qwo231sdx.club|Phishing.Database|Phishing
+u|8s7q0g-1v9m2p8a-mbtz9p8m1z2-fsgc.pages.dev|OpenPhish|Phishing
+u|8s7q0g-qw644c24y-7k8p1m9z2s-fsgc.pages.dev|OpenPhish|Phishing
+u|8s7q0g-qw644c24y-9z1p8k2m4s-fsgc.pages.dev|OpenPhish|Phishing
+u|8s7q0g-qw644c24y-mbtz1m8p9z2-fsgc.pages.dev|OpenPhish|Phishing
+u|8s7q0g-qw999agreg-1z8p9k2m4s-fsgc.pages.dev|OpenPhish|Phishing
 u|8s8cyak8emzp3qvvwmgx5qnqjjr17xltp4haci3m.s3.ap-northeast-2.amazonaws.com|Phishing.Database|Phishing
 u|8s9.org|Phishing.Database|Phishing
 u|8s9a6rrd024n7ds6drsr853yhaoke.com|Phishing.Database|Phishing
@@ -31247,6 +31271,7 @@ u|8tx4xmqfjz49wns.salvagervs.net|Phishing.Database|Phishing
 u|8txkwluihj5473.monitorminor.com.tr|Phishing.Database|Phishing
 u|8tyi.kmugjxbaa5245.workers.dev|Phishing.Database|Phishing
 u|8u4es34l9tvczycqrlccxcbl.qwo231sdx.club|Phishing.Database|Phishing
+u|8u5m9c-qw644c24y-mbtz8k9p1m2-qwxk.pages.dev|OpenPhish|Phishing
 u|8u6iriqloshwymv.dautzeuz.com|Phishing.Database|Phishing
 u|8u7j4km43k.chidscompany.com|Phishing.Database|Phishing
 u|8u9l2eyu9.top|Phishing.Database|Phishing
@@ -32352,6 +32377,7 @@ u|97d232e0-1a97-4348-876f-d97e9237a8b9-00-ozz9wncruk7j.riker.replit.dev|Phishing
 u|97dauvuw4r.4328.gencmert.com|Phishing.Database|Phishing
 u|97df-3984ac0d3f28.github.io|Phishing.Database|Phishing
 u|97df79aa4e9485322.temporary.link|Phishing.Database|Phishing
+u|97ee1.ralind.at/cnbcard/?b=yto0ontzoju6imxhymvsijtzoja6iii7czozoij1c3iio2k6mtcxmdtzojq6im5vcgqio3m6mtm6injzcy5yyxntzxmuyxqio3m6mtoibyi7atoymtm1o30=|OpenPhish|Phishing
 u|97ee6.catex.at|Phishing.Database|Phishing
 u|97h70.com|Phishing.Database|Phishing
 u|97h88.com|Phishing.Database|Phishing
@@ -33148,6 +33174,7 @@ u|9joaoel10c5rxvadystoxyjohea4je.richardl.xyz|Phishing.Database|Phishing
 u|9jsbj9h.xxoht18.cn|Phishing.Database|Phishing
 u|9jtj.short.gy|Phishing.Database|Phishing
 u|9jujgpvmvybsu5c.wisuda.ump.ac.id|Phishing.Database|Phishing
+u|9jwcap-fodyyl-fnk-ptx4-iqw.pages.dev|OpenPhish|Phishing
 u|9jygdygpiq36cgb6ek0rzq-on.drv.tw|Phishing.Database|Phishing
 u|9jygdygpiq36cgb6ek0rzq.on.drv.tw|Phishing.Database|Phishing
 u|9k10faoovebgzziqw7gvrywsxnwzg.barclayis.co|Phishing.Database|Phishing
@@ -33374,11 +33401,6 @@ u|9z6dfvttas.jimdofree.com|Phishing.Database|Phishing
 u|9zadg.xxoht18.cn|Phishing.Database|Phishing
 u|9zfrucsed.qwo231sdx.club|Phishing.Database|Phishing
 u|9zxcul.qwo231sdx.club|Phishing.Database|Phishing
-u|_adsp._domainkey.goofy-cray.87-106-236-104.plesk.page|OpenPhish|Phishing
-u|_bimi.goofy-cray.87-106-236-104.plesk.page|OpenPhish|Phishing
-u|_dmarc.87-106-236-104.plesk.page|OpenPhish|Phishing
-u|_dmarc.goofy-cray.87-106-236-104.plesk.page|OpenPhish|Phishing
-u|_domainkey.goofy-cray.87-106-236-104.plesk.page|OpenPhish|Phishing
 u|a-1-a.lyzx.my.id|Phishing.Database|Phishing
 u|a-1-a.tulisku.eu.org|Phishing.Database|Phishing
 u|a-1.top|Phishing.Database|Phishing
@@ -43905,6 +43927,7 @@ u|ad.programtts.top|Phishing.Database|Phishing
 u|ad03b.weebly.com|Phishing.Database|Phishing
 u|ad0466dc.iwiowmnc-1.shop|Phishing.Database|Phishing
 u|ad0be.east32.tokyo85.ap-south-1.linodeobjects.com|Phishing.Database|Phishing
+u|ad0pp-w0s-5tzz-qqvux-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|ad11.biz|Phishing.Database|Phishing
 u|ad13c866.89dduvdjsi.shop|Phishing.Database|Phishing
 u|ad25c7d9-eeb4-4067-a480-f7afdf914626.id.repl.co|Phishing.Database|Phishing
@@ -45196,6 +45219,8 @@ u|admin.sitesumo.com|Phishing.Database|Phishing
 u|admin.sminthe.eu|Phishing.Database|Phishing
 u|admin.spotify.canigiadmin.com|Phishing.Database|Phishing
 u|admin.staging.online.gatecoachingarc.com|Phishing.Database|Phishing
+u|admin.stampsforever.staged-website.com|OpenPhish|Phishing
+u|admin.stampsforever.staged-website.com/login|OpenPhish|Phishing
 u|admin.summareconsmile.com|Phishing.Database|Phishing
 u|admin.support-agency-8203172039.com|Phishing.Database|Phishing
 u|admin.swisscom.ch-customer-shop.buy-53b51f56a.ais-it.org|Phishing.Database|Phishing
@@ -45983,7 +46008,6 @@ u|adobeflashkeysbridgesevradapter.s3.eu-west-2.amazonaws.com|Phishing.Database|P
 u|adobeflashplayer.ir|Phishing.Database|Phishing
 u|adobeguadalupe.com|Phishing.Database|Phishing
 u|adobeimage.netlify.app|Phishing.Database|Phishing
-u|adobeinstaller-virid.vercel.app|OpenPhish|Phishing
 u|adobeinvoice-com.firebaseapp.com|Phishing.Database|Phishing
 u|adobeli.pages.dev|Phishing.Database|Phishing
 u|adobemail-secondary.z13.web.core.windows.net|Phishing.Database|Phishing
@@ -46010,7 +46034,9 @@ u|adobesecurequotelink.ru|Phishing.Database|Phishing
 u|adobeservices-onmicrosoft3291ec88ae4615bbab6ce4adobe.enic3.com|Phishing.Database|Phishing
 u|adobesfile.com|Phishing.Database|Phishing
 u|adobesharefilevalidation.z13.web.core.windows.net|Phishing.Database|Phishing
+u|adobesign-coral.vercel.app|OpenPhish|Phishing
 u|adobesign-f8f1e.firebaseapp.com|Phishing.Database|Phishing
+u|adobesign-review.vercel.app|OpenPhish|Phishing
 u|adobesignsecurefiles.onrender.com|Phishing.Database|Phishing
 u|adobeworkspace86878686835.sdwza.org|Phishing.Database|Phishing
 u|adobexfiled.duckdns.org|Phishing.Database|Phishing
@@ -46153,7 +46179,6 @@ u|adpagesupportservicehub.vercel.app|Phishing.Database|Phishing
 u|adpanel-hub-id-31046278914-3ts9.vercel.app|Phishing.Database|Phishing
 u|adpanel-hub-id-310462789145-885d.vercel.app|Phishing.Database|Phishing
 u|adpanel-hub-id-310462789145-hfj1.vercel.app|Phishing.Database|Phishing
-u|adpdf-download.vercel.app|OpenPhish|Phishing
 u|adpebrfb0ax1op1enle9ct9owv6.lspower.xyz|Phishing.Database|Phishing
 u|adphlox.com|Phishing.Database|Phishing
 u|adpick.co.kr|Phishing.Database|Phishing
@@ -52823,6 +52848,8 @@ u|aktivasi-dana-paylater.systim.web.id.51-79-175-155.cpanel.site|Phishing.Databa
 u|aktivasi-dana-paylater.xjaksel.web.id|Phishing.Database|Phishing
 u|aktivasi-dana-sekarang.resmi-id.art|Phishing.Database|Phishing
 u|aktivasi-dana.atomeindo.com|Phishing.Database|Phishing
+u|aktivasi-dana.getx1cm.biz.id|OpenPhish|Phishing
+u|aktivasi-dana.getx1cm.biz.id/danaweb|OpenPhish|Phishing
 u|aktivasi-danafaylater.floxs6.web.id|Phishing.Database|Phishing
 u|aktivasi-danakagetid.from33.biz.id|Phishing.Database|Phishing
 u|aktivasi-dnax.kempinski.my.id|Phishing.Database|Phishing
@@ -57434,6 +57461,7 @@ u|amamzzuon.vip|Phishing.Database|Phishing
 u|amamzzxon.vip|Phishing.Database|Phishing
 u|aman-934016.github.io|Phishing.Database|Phishing
 u|aman-aj123.github.io|Phishing.Database|Phishing
+u|aman-jha2007.github.io/leetcode|OpenPhish|Phishing
 u|aman-tiwari12.github.io|Phishing.Database|Phishing
 u|aman-yadav41.github.io|Phishing.Database|Phishing
 u|aman.com.ng|Phishing.Database|Phishing
@@ -58843,7 +58871,6 @@ u|amazon-clone-ten-rust.vercel.app|Phishing.Database|Phishing
 u|amazon-clone-three-ashen.vercel.app|Phishing.Database|Phishing
 u|amazon-clone-three-sandy.vercel.app|Phishing.Database|Phishing
 u|amazon-clone-two-delta.vercel.app|Phishing.Database|Phishing
-u|amazon-clone-two-tan-37.vercel.app|OpenPhish|Phishing
 u|amazon-clone-umber-delta.vercel.app|Phishing.Database|Phishing
 u|amazon-clone-v1-eight.vercel.app|Phishing.Database|Phishing
 u|amazon-clone-v2-vert.vercel.app|Phishing.Database|Phishing
@@ -62320,6 +62347,7 @@ u|amethyst-parallel-soapwort.glitch.me|Phishing.Database|Phishing
 u|amethyst-rustic-whip.glitch.me|Phishing.Database|Phishing
 u|amethyst-veiled-decimal.glitch.me|Phishing.Database|Phishing
 u|amethystefilms.com|Phishing.Database|Phishing
+u|amethystnapa.spahotel.guru|OpenPhish|Phishing
 u|ametrine-rose.com|Phishing.Database|Phishing
 u|ameumpet.org|Phishing.Database|Phishing
 u|amever.org.mx|Phishing.Database|Phishing
@@ -62487,6 +62515,7 @@ u|amhsd.com|Phishing.Database|Phishing
 u|amht38eh3e3f98ox0ld1rc4h3fjcowz98ldjp5hek8.pages.dev|Phishing.Database|Phishing
 u|amhub.aiesec.org.pa|Phishing.Database|Phishing
 u|amhuhqzgv.5q5e5o.cn|Phishing.Database|Phishing
+u|amhystnapa.spahotel.guru|OpenPhish|Phishing
 u|amhz0n.com|Phishing.Database|Phishing
 u|ami.majalengkakab.go.id|Phishing.Database|Phishing
 u|amiable.online|Phishing.Database|Phishing
@@ -63780,7 +63809,6 @@ u|analytics.sandbox.jimpike.com.au|Phishing.Database|Phishing
 u|analytics.staging.jimpike.com.au|Phishing.Database|Phishing
 u|analytics.tapad.com|Phishing.Database|Phishing
 u|analytics.test.hpsafety.com.au|Phishing.Database|Phishing
-u|analytics.whatsapp-zhapp.com|OpenPhish|Phishing
 u|analytics84.com|Phishing.Database|Phishing
 u|analyticscenterbeta.pages.dev|Phishing.Database|Phishing
 u|analyticselevata.pages.dev|Phishing.Database|Phishing
@@ -64924,7 +64952,6 @@ u|animated-gelato-39d832.netlify.app|Phishing.Database|Phishing
 u|animated-itau.netlify.app|Phishing.Database|Phishing
 u|animated-natural-busby.glitch.me|Phishing.Database|Phishing
 u|animated-pegasus-0803c8.netlify.app|Phishing.Database|Phishing
-u|animated-raindrop-998963.netlify.app|OpenPhish|Phishing
 u|animated-rustic-bearskin.glitch.me|Phishing.Database|Phishing
 u|animated-smakager-f30ef0.netlify.app|Phishing.Database|Phishing
 u|animateyvive.com|Phishing.Database|Phishing
@@ -69324,6 +69351,7 @@ u|app-5277721142fp.3dvlu74hjq-ypj68noxe6l2.p.temp-site.link|Phishing.Database|Ph
 u|app-56-qpltnv-2748-secure-hub-09.starbearingcentre.com|Phishing.Database|Phishing
 u|app-57e51348-47fc-4042-ab41-6831843d8b69.cleverapps.io|Phishing.Database|Phishing
 u|app-58593263.sinilind.ee|Phishing.Database|Phishing
+u|app-5b070ea2-5a4c-4c79-95b4-027f986c342d.cleverapps.io|OpenPhish|Phishing
 u|app-5b1fcd2d-7a06-433d-b7c1-5963cdee0fdd.cleverapps.io|Phishing.Database|Phishing
 u|app-5cbae1e4-849a-4e8a-a1bf-73d457954ca3.cleverapps.io|Phishing.Database|Phishing
 u|app-5decbc84f911cb0cdc3f1532.closte.com|Phishing.Database|Phishing
@@ -69659,7 +69687,6 @@ u|app-desk-aauth-ledger.webflow.io|Phishing.Database|Phishing
 u|app-desktop--auth-ledger.webflow.io|Phishing.Database|Phishing
 u|app-desktop--liveledger.webflow.io|Phishing.Database|Phishing
 u|app-desktop-auth-livledger.webflow.io|Phishing.Database|Phishing
-u|app-desktop.pages.dev|OpenPhish|Phishing
 u|app-device-cancellation.com|Phishing.Database|Phishing
 u|app-devices.in|Phishing.Database|Phishing
 u|app-dgerlivecr.webflow.io|Phishing.Database|Phishing
@@ -75537,7 +75564,6 @@ u|appsign.xyz|Phishing.Database|Phishing
 u|appsiteblindado-seguro.com|Phishing.Database|Phishing
 u|appsjda.link|Phishing.Database|Phishing
 u|appskottage.com|Phishing.Database|Phishing
-u|appsky.money|OpenPhish|Phishing
 u|appslatam-america.vercel.app|Phishing.Database|Phishing
 u|appsloor7ki.site|Phishing.Database|Phishing
 u|appsloor7ki.site.global.prod.fastly.net|Phishing.Database|Phishing
@@ -76490,6 +76516,7 @@ u|ar0ntoacc0unt.serveftp.com|Phishing.Database|Phishing
 u|ar0uoiuhln.we9ixzz.co|Phishing.Database|Phishing
 u|ar12352.cc|Phishing.Database|Phishing
 u|ar15dvd.com|Phishing.Database|Phishing
+u|ar24-five.vercel.app|OpenPhish|Phishing
 u|ar24courrier.squarespace.com|Phishing.Database|Phishing
 u|ar24courrier24.instawp.site|Phishing.Database|Phishing
 u|ar2day.com|Phishing.Database|Phishing
@@ -77273,7 +77300,6 @@ u|aresscz.000webhostapp.com|Phishing.Database|Phishing
 u|aresult02h.temp.swtest.ru|Phishing.Database|Phishing
 u|aresune.com|Phishing.Database|Phishing
 u|aresvz.000webhostapp.com|Phishing.Database|Phishing
-u|aresxx.serv00.net/giris.turkiye.gov.tr/giris|OpenPhish|Phishing
 u|aresync.com|Phishing.Database|Phishing
 u|areszaaa.000webhostapp.com|Phishing.Database|Phishing
 u|areszcs.000webhostapp.com|Phishing.Database|Phishing
@@ -82606,6 +82632,7 @@ u|atomi.cwallet.cc|Phishing.Database|Phishing
 u|atomic--wallet--sso--auth.teachable.com|Phishing.Database|Phishing
 u|atomic--wallet-io.teachable.com|Phishing.Database|Phishing
 u|atomic-connect.com|Phishing.Database|Phishing
+u|atomic-en.uncody.site/en-us|OpenPhish|Phishing
 u|atomic-law.com|Phishing.Database|Phishing
 u|atomic-wallct-sso.webflow.io|Phishing.Database|Phishing
 u|atomic-walle--apps.webflow.io|Phishing.Database|Phishing
@@ -99158,6 +99185,8 @@ u|ayra.fun|Phishing.Database|Phishing
 u|ayrarrow.com|Phishing.Database|Phishing
 u|ayraskbidpnxbxlh-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|ayrislogic.com|Phishing.Database|Phishing
+u|ays-mpts.duckdns.org|OpenPhish|Phishing
+u|ays-mpts.duckdns.org/departement|OpenPhish|Phishing
 u|ays.ubpages.com|Phishing.Database|Phishing
 u|aysafaya.sajedmohammadpour.workers.dev|Phishing.Database|Phishing
 u|aysagduaysgdiuagsdiao.ml|Phishing.Database|Phishing
@@ -99553,7 +99582,6 @@ u|azo.hfw2zbq.cn|Phishing.Database|Phishing
 u|azo.nb1yp96.cn|Phishing.Database|Phishing
 u|azo.qhon90r.cn|Phishing.Database|Phishing
 u|azofhfkapinahdi.w3spaces.com|Phishing.Database|Phishing
-u|azogue.org/indexxx.html?eta=norum@e507cac0996dc39b17eacbf2d836cd80d8e0.com|OpenPhish|Phishing
 u|azoliadkfe.duckdns.org|Phishing.Database|Phishing
 u|azomnebfdd.hentaiwonderland.com|Phishing.Database|Phishing
 u|azomzaozm.szrxgzs.com|Phishing.Database|Phishing
@@ -99793,7 +99821,6 @@ u|azure676827.studio.site|Phishing.Database|Phishing
 u|azurebucjetr56.s3.eu-de.cloud-object-storage.appdomain.cloud|Phishing.Database|Phishing
 u|azuredapperruntime.daravicltd.repl.co|Phishing.Database|Phishing
 u|azuredocs-ext-coinbasehelp.webflow.io|Phishing.Database|Phishing
-u|azurefd-net-fbcode-1.vercel.app|OpenPhish|Phishing
 u|azuregateway-cbc40077-30b5-4012-a29c-94cfbb1f1a58-804d977eed67.prodbvt.vpn.azure.com|Phishing.Database|Phishing
 u|azurehttp.s3-website-us-east-1.amazonaws.com|Phishing.Database|Phishing
 u|azureoauth365.elementor.cloud|Phishing.Database|Phishing
@@ -108547,7 +108574,6 @@ u|bancol.colombiaonli.repl.co|Phishing.Database|Phishing
 u|bancol.ombia.link|Phishing.Database|Phishing
 u|bancol.ombia.online|Phishing.Database|Phishing
 u|bancol0mbiasa.webcindario.com|Phishing.Database|Phishing
-u|bancolandiasurcusar.vercel.app|OpenPhish|Phishing
 u|bancoldinamin.byethost7.com|Phishing.Database|Phishing
 u|bancolinter.gq|Phishing.Database|Phishing
 u|bancoll-virtuall-sucur4.w3spaces.com|Phishing.Database|Phishing
@@ -109501,7 +109527,6 @@ u|bankofamericasusa.ezua.com|Phishing.Database|Phishing
 u|bankofamericasvg.webcindario.com|Phishing.Database|Phishing
 u|bankofamericasw2.webcindario.com|Phishing.Database|Phishing
 u|bankofamericatec.webcindario.com|Phishing.Database|Phishing
-u|bankofamericaverify.pagekite.me/wells/?v=2|OpenPhish|Phishing
 u|bankofamericaverify.sunface.ae|Phishing.Database|Phishing
 u|bankofamericaverify.tk.grupopescaroli.com.br|Phishing.Database|Phishing
 u|bankofamericaworks.com|Phishing.Database|Phishing
@@ -110670,6 +110695,7 @@ u|basic-react-project-euup-b6hjnuuur-meshacharinze.vercel.app|Phishing.Database|
 u|basic-retention-125132.framer.app|Phishing.Database|Phishing
 u|basic-statuses-212850.framer.app|Phishing.Database|Phishing
 u|basic-us-ledger.typedream.app|Phishing.Database|Phishing
+u|basic365.freepage.cc/?i=1|OpenPhish|Phishing
 u|basically-unhabitable-3607a1263bda-87ff41648f9d29caaf98-9c.pages.dev|Phishing.Database|Phishing
 u|basicattpage.square.site|Phishing.Database|Phishing
 u|basicbakes.com|Phishing.Database|Phishing
@@ -112421,7 +112447,6 @@ u|bdvenlinea-banvenez-beram.pages.dev|Phishing.Database|Phishing
 u|bdvenlinea-banvenez-beras.pages.dev|Phishing.Database|Phishing
 u|bdvenlinea-banvenez-valida.pages.dev|Phishing.Database|Phishing
 u|bdvenlinea-banvenez.azurewebsites.net|Phishing.Database|Phishing
-u|bdvenlinea-banvenez.vercel.app|OpenPhish|Phishing
 u|bdvenlinea-banvenez11.pages.dev|Phishing.Database|Phishing
 u|bdvenlinea-banvenez5.pages.dev|Phishing.Database|Phishing
 u|bdvenlinea-banvenez54x.pages.dev|Phishing.Database|Phishing
@@ -114639,7 +114664,6 @@ u|beroptush.es|Phishing.Database|Phishing
 u|beroudtdui5dp8dn1v6ylpgrr.filesusr.com|Phishing.Database|Phishing
 u|berpasangan-dengan-siapapun.duckdns.org|Phishing.Database|Phishing
 u|berqoqjmxa.duckdns.org|Phishing.Database|Phishing
-u|berqumi-gld-felmora-p9t2hc84.pages.dev|OpenPhish|Phishing
 u|berradoc-splashket-hostingerapp.net|Phishing.Database|Phishing
 u|berraktulperde.com|Phishing.Database|Phishing
 u|berrienelementary.myspapp.com|Phishing.Database|Phishing
@@ -116355,8 +116379,6 @@ u|bgreenhomeservices.com|Phishing.Database|Phishing
 u|bgrehty.gq|Phishing.Database|Phishing
 u|bgreng.blogspot.fi|Phishing.Database|Phishing
 u|bgreng.blogspot.lu|Phishing.Database|Phishing
-u|bgrfd69qlo-mtvljplx-8i1j5g-bgr327.pages.dev|OpenPhish|Phishing
-u|bgrfd84nwp-mtvljqwe-2j6k8g-bgr519.pages.dev|OpenPhish|Phishing
 u|bgrht.blogspot.fi|Phishing.Database|Phishing
 u|bgrhtw.blogspot.md|Phishing.Database|Phishing
 u|bgrktersopkegyqo-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -117791,6 +117813,7 @@ u|binance2.xv82.cn|Phishing.Database|Phishing
 u|binanceairdrop.pages.dev|Phishing.Database|Phishing
 u|binanceannouncement.com|Phishing.Database|Phishing
 u|binanceexpert.indexcm-t.com|Phishing.Database|Phishing
+u|binanceidentityportal.com|OpenPhish|Phishing
 u|binancelisting.help|Phishing.Database|Phishing
 u|binancemegadrop-lista.com|Phishing.Database|Phishing
 u|binanceno.com|Phishing.Database|Phishing
@@ -118257,7 +118280,6 @@ u|bisthicwwaqdyeax-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|bistremane.nremitshuatanmyhterli.link|Phishing.Database|Phishing
 u|bistunna.cyou|Phishing.Database|Phishing
 u|bisu1566-001-site1.ftempurl.com|Phishing.Database|Phishing
-u|biswa04.github.io/netflix-ui-clone|OpenPhish|Phishing
 u|biswadip200.github.io|Phishing.Database|Phishing
 u|biswajit-pal1.github.io|Phishing.Database|Phishing
 u|biswap.app-2v.com|Phishing.Database|Phishing
@@ -118927,7 +118949,6 @@ u|bjnxucinizlkgwwh-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|bjoceanus.com|Phishing.Database|Phishing
 u|bjogs.dk.nonagenius.com|Phishing.Database|Phishing
 u|bjohnston.atozgroup.ir|Phishing.Database|Phishing
-u|bjohrtpuy.freehosting.dev/?naps|OpenPhish|Phishing
 u|bjomxqnprk.web.app|Phishing.Database|Phishing
 u|bjornkroll45.com|Phishing.Database|Phishing
 u|bjosemoore.com|Phishing.Database|Phishing
@@ -122292,6 +122313,7 @@ u|boettcher.serveirc.com|Phishing.Database|Phishing
 u|boev27y2ueonl.qwo231sdx.club|Phishing.Database|Phishing
 u|boewpeowqiea324.ga|Phishing.Database|Phishing
 u|boewqpoewq424.ga|Phishing.Database|Phishing
+u|boezsmanz.com|OpenPhish|Phishing
 u|bof-panaderiaamer.com|Phishing.Database|Phishing
 u|bof849u2302323.zapto.org|Phishing.Database|Phishing
 u|bofa-confirms02.sytes.net|Phishing.Database|Phishing
@@ -123890,6 +123912,7 @@ u|bordenpools.com|Phishing.Database|Phishing
 u|border-fd.smartertechnologies.com|Phishing.Database|Phishing
 u|bordercarriers.co.za|Phishing.Database|Phishing
 u|borderclick.com|Phishing.Database|Phishing
+u|borderclick.com/bc/media/borderclick/files/robux-roblox.html|OpenPhish|Phishing
 u|bordercollie-9111.vercel.app|Phishing.Database|Phishing
 u|bordercreation.it|Phishing.Database|Phishing
 u|bordereaudedepostsecurise.com|Phishing.Database|Phishing
@@ -125358,7 +125381,6 @@ u|brasilpgs.com|Phishing.Database|Phishing
 u|brasilsemjuizodomes.shop|Phishing.Database|Phishing
 u|brasiltocantins.com.br|Phishing.Database|Phishing
 u|braskomotorsports.com|Phishing.Database|Phishing
-u|braslectra.com.br/midia/protocol/contract_proposal_document2026511301.html|OpenPhish|Phishing
 u|brasoftes.com.br|Phishing.Database|Phishing
 u|brasov.adventist.ro|Phishing.Database|Phishing
 u|brasreaincu.firebaseapp.com|Phishing.Database|Phishing
@@ -126827,7 +126849,6 @@ u|brouveitrayommou-6859.vercel.app|Phishing.Database|Phishing
 u|brouwtech.com|Phishing.Database|Phishing
 u|brovaria.com.pk|Phishing.Database|Phishing
 u|brow.vip|Phishing.Database|Phishing
-u|browardcourtpdf-viewer.vercel.app|OpenPhish|Phishing
 u|browdy.youdeh.co.za|Phishing.Database|Phishing
 u|broweillsfafrgovewss.000webhostapp.com|Phishing.Database|Phishing
 u|browencel-de25a4.ingress-haven.ewp.live|Phishing.Database|Phishing
@@ -127137,6 +127158,7 @@ u|bscompany.es|Phishing.Database|Phishing
 u|bscqroup.com|Phishing.Database|Phishing
 u|bscs.jp|Phishing.Database|Phishing
 u|bscsa.pe|Phishing.Database|Phishing
+u|bscscan-usdt-security2353.vercel.app|OpenPhish|Phishing
 u|bscsmartchainvn.com|Phishing.Database|Phishing
 u|bscusdtaa.pages.dev|Phishing.Database|Phishing
 u|bscusdtcc.pages.dev|Phishing.Database|Phishing
@@ -130056,7 +130078,6 @@ u|buraru.com|Phishing.Database|Phishing
 u|burbanise.com.au|Phishing.Database|Phishing
 u|burbschicboutique.com|Phishing.Database|Phishing
 u|burbureau3.temp.swtest.ru|Phishing.Database|Phishing
-u|burc.gdmaoka.com|OpenPhish|Phishing
 u|burchetteandburchette.com|Phishing.Database|Phishing
 u|burdi.store|Phishing.Database|Phishing
 u|bureauofleague.tk|Phishing.Database|Phishing
@@ -131248,6 +131269,7 @@ u|buyer-fadhilnihbos.duckdns.org|Phishing.Database|Phishing
 u|buyer-mengontol.duckdns.org|Phishing.Database|Phishing
 u|buyer.imshopapp.cc|Phishing.Database|Phishing
 u|buyerfinderpro.com|Phishing.Database|Phishing
+u|buyerhub.pk/product/dell-xps-15-9550-precision-55104-1p6kd-4gvgh-84wh-100-oem-original-laptop-battery-4-months-warranty|OpenPhish|Phishing
 u|buyers.buyers.utdllc.com|Phishing.Database|Phishing
 u|buyfbcomments.com|Phishing.Database|Phishing
 u|buyguy.gb.net|Phishing.Database|Phishing
@@ -131848,6 +131870,10 @@ u|c04f99997f.temp.swtest.ru|Phishing.Database|Phishing
 u|c066b573.smrta.pages.dev|Phishing.Database|Phishing
 u|c067.000webhostapp.com|Phishing.Database|Phishing
 u|c06l6m60m6owae.du.r.appspot.com|Phishing.Database|Phishing
+u|c07m.top/downapp|OpenPhish|Phishing
+u|c07m.top/downappr/c07m.top|OpenPhish|Phishing
+u|c07m.top/downappr/c07m.top/r/c07m.top|OpenPhish|Phishing
+u|c07m.top/downappr/c07m.topr/c07m.top|OpenPhish|Phishing
 u|c08d1d39.00agt8.shop|Phishing.Database|Phishing
 u|c0aa7fe732e9.ngrok.io|Phishing.Database|Phishing
 u|c0ast-sim.com|Phishing.Database|Phishing
@@ -133465,7 +133491,10 @@ u|caninevelvetyglueware.agrico0las.repl.co|Phishing.Database|Phishing
 u|caninewhimsicalpixel.oscarnuez13.repl.co|Phishing.Database|Phishing
 u|caniparc.net|Phishing.Database|Phishing
 u|canismajor.co.za|Phishing.Database|Phishing
-u|canjepremios.click/bac.pa|OpenPhish|Phishing
+u|canjeonline.click/bac.pa|OpenPhish|Phishing
+u|canjepuntos365.click/bac.pa|OpenPhish|Phishing
+u|canjepuntosdirecto.click/bac.pa|OpenPhish|Phishing
+u|canjepuntosnet.click/bac.pa|OpenPhish|Phishing
 u|cankiei.com|Phishing.Database|Phishing
 u|canliiyayin.xyz|Phishing.Database|Phishing
 u|canlisohpetgiris.online|Phishing.Database|Phishing
@@ -134874,8 +134903,6 @@ u|caseidrecoverfeedbackcaseid5456465456.dykl158oajn2l.amplifyapp.com|Phishing.Da
 u|caseidrecoverhelp.dt5eyccq92cl4.amplifyapp.com|Phishing.Database|Phishing
 u|caseidrecoverhelprecovercase2112121.d2nzcczv6x1b27.amplifyapp.com|Phishing.Database|Phishing
 u|caselguisector-secondary.z28.web.core.windows.net|Phishing.Database|Phishing
-u|casenumber0311tbnaaavgqd.policyviolationhub.com|OpenPhish|Phishing
-u|casenumber0311tbnaaavgqd.policyviolationhub.com/public/index?ref=business-support-center-dasdfdsyuyee43fjdshfsdfsetting%25popup%3fclient_id=889943718806-ual26tplnot2ea8b7n5t4p77keo8eb|OpenPhish|Phishing
 u|casercaloo.ga|Phishing.Database|Phishing
 u|caserecoverid57885454help.d1ffmf29j9yg8k.amplifyapp.com|Phishing.Database|Phishing
 u|caserecoveridfeedbackhelp565.d2gmcma71x164m.amplifyapp.com|Phishing.Database|Phishing
@@ -136273,6 +136300,7 @@ u|cecauf.es|Phishing.Database|Phishing
 u|cecdtuuagloujgaf-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|cecfuentedevida.net|Phishing.Database|Phishing
 u|cecilandrayhomes.com|Phishing.Database|Phishing
+u|cecilejeanne.alwaysdata.net/app|OpenPhish|Phishing
 u|cecilion.pages.dev|Phishing.Database|Phishing
 u|cecilroad.pages.dev|Phishing.Database|Phishing
 u|cecingenieria.com.ar|Phishing.Database|Phishing
@@ -136695,7 +136723,6 @@ u|cerdder.com|Phishing.Database|Phishing
 u|cerebroconsulting.ro|Phishing.Database|Phishing
 u|cerebrumgroup.in|Phishing.Database|Phishing
 u|ceremonialvoyage.com|Phishing.Database|Phishing
-u|cereosei.click|OpenPhish|Phishing
 u|ceresciudad.com|Phishing.Database|Phishing
 u|ceresdigital.co|Phishing.Database|Phishing
 u|cereto.net|Phishing.Database|Phishing
@@ -136716,7 +136743,6 @@ u|cerradoadventure.tur.br|Phishing.Database|Phishing
 u|cerradomalte.com.br|Phishing.Database|Phishing
 u|cerrajeroscabrils.es|Phishing.Database|Phishing
 u|cerrayllare.com|Phishing.Database|Phishing
-u|cerroesis.click|OpenPhish|Phishing
 u|cert-accounts-recovery-support-amazon.com|Phishing.Database|Phishing
 u|cert-protection-account-appleid-apple.com|Phishing.Database|Phishing
 u|cert-recovery-support-account-amazon.com|Phishing.Database|Phishing
@@ -136853,7 +136879,6 @@ u|cettakmuanmdirifstvll.klikdisiini.web.id|Phishing.Database|Phishing
 u|cetulloupaprei-5463.vercel.app|Phishing.Database|Phishing
 u|cetylevhcp.com|Phishing.Database|Phishing
 u|ceu.edu.mx|Phishing.Database|Phishing
-u|ceu.spheremama.com|OpenPhish|Phishing
 u|ceui.8072211.xyz|Phishing.Database|Phishing
 u|ceum567567edweu.ru|Phishing.Database|Phishing
 u|ceuntasoportmic134.0hi.me|Phishing.Database|Phishing
@@ -140982,7 +141007,6 @@ u|cktflhkmtssjskgq-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|cktlomcdrw.duckdns.org|Phishing.Database|Phishing
 u|cktt.fr|Phishing.Database|Phishing
 u|ckuhkgqanz.duckdns.org|Phishing.Database|Phishing
-u|ckvptc.com|OpenPhish|Phishing
 u|ckwfnkafauvitysg-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|ckwkohpsrvrjwfwe-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|ckwqtvaicmbuluql-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -142263,7 +142287,6 @@ u|click-americafirst.web.app|Phishing.Database|Phishing
 u|click-approve.authentication-request1026529.com|Phishing.Database|Phishing
 u|click-card.top|Phishing.Database|Phishing
 u|click-claimskindm8.duckdns.org|Phishing.Database|Phishing
-u|click-e-sixt.netlify.app|OpenPhish|Phishing
 u|click-here-108291.weeblysite.com|Phishing.Database|Phishing
 u|click-link.top|Phishing.Database|Phishing
 u|click-media-prize.org|Phishing.Database|Phishing
@@ -144724,6 +144747,7 @@ u|codasshop-event12.duckdns.org|Phishing.Database|Phishing
 u|codasshop-vfreefire999.duckdns.org|Phishing.Database|Phishing
 u|codasshop7614.gotolinks.my.id|Phishing.Database|Phishing
 u|codatopupgratis.duckdns.org|Phishing.Database|Phishing
+u|codatopups.speciallshop.com|OpenPhish|Phishing
 u|codaung14ajmlpjv.subdokhusus.cfd|Phishing.Database|Phishing
 u|codaunggu314diixwdb.terbaru-2023.com|Phishing.Database|Phishing
 u|codaunggu314hzofjwh.terbaru-2023.com|Phishing.Database|Phishing
@@ -144751,6 +144775,7 @@ u|codecaptain139.github.io|Phishing.Database|Phishing
 u|codecis.net|Phishing.Database|Phishing
 u|codecraft7.github.io|Phishing.Database|Phishing
 u|coded404-see.mdbgo.io|Phishing.Database|Phishing
+u|codedakshmalviya.github.io/ecommerce|OpenPhish|Phishing
 u|codedrop.thevisionpoints.com|Phishing.Database|Phishing
 u|codeearthenginegooglecom.gif001.workers.dev|Phishing.Database|Phishing
 u|codeeezzz.github.io|Phishing.Database|Phishing
@@ -149276,6 +149301,7 @@ u|connectwf.ignorelist.com|Phishing.Database|Phishing
 u|connectwllt.gitbook.io|Phishing.Database|Phishing
 u|connectwlt.gitbook.io|Phishing.Database|Phishing
 u|connectxauthenticated.com|Phishing.Database|Phishing
+u|connectxfinity.vercel.app|OpenPhish|Phishing
 u|connectyouraccountfortransaction.000webhostapp.com|Phishing.Database|Phishing
 u|connecui.beget.tech|Phishing.Database|Phishing
 u|connecwll.gitbook.io|Phishing.Database|Phishing
@@ -149545,6 +149571,7 @@ u|consutefatura.com|Phishing.Database|Phishing
 u|cont-fb-13854679.ecocoating.net|Phishing.Database|Phishing
 u|cont-fb-42914898.ecocoating.net|Phishing.Database|Phishing
 u|cont-fb-68699340.ecocoating.net|Phishing.Database|Phishing
+u|cont17ct-nurami-biz-zakel-vunra.pages.dev|OpenPhish|Phishing
 u|conta-2020.online|Phishing.Database|Phishing
 u|conta-caixa.br-informa.email|Phishing.Database|Phishing
 u|conta-hstone.com|Phishing.Database|Phishing
@@ -149904,7 +149931,6 @@ u|content-yj25p4xr1.contextura.co|Phishing.Database|Phishing
 u|content-z1k7sxmrvd.unnf.pk|Phishing.Database|Phishing
 u|content.am-technewz.com|Phishing.Database|Phishing
 u|content.demo.ihbsoft.com|Phishing.Database|Phishing
-u|content.login.adsbillinghub.com|OpenPhish|Phishing
 u|content.monopo.nyc|Phishing.Database|Phishing
 u|content43532522.texservis.su|Phishing.Database|Phishing
 u|contentadlab.vercel.app|Phishing.Database|Phishing
@@ -152183,6 +152209,7 @@ u|crecyrvip004.byethost18.com|Phishing.Database|Phishing
 u|cred-agricoleapp.cleverapps.io|Phishing.Database|Phishing
 u|cred-card-info-mobile.com|Phishing.Database|Phishing
 u|cred-mot.web.app|Phishing.Database|Phishing
+u|cred53462.blogspot.com|OpenPhish|Phishing
 u|credagrc02.temp.swtest.ru|Phishing.Database|Phishing
 u|credagri48.temp.swtest.ru|Phishing.Database|Phishing
 u|credagric7.temp.swtest.ru|Phishing.Database|Phishing
@@ -153179,6 +153206,7 @@ u|csr110112203eur.click|Phishing.Database|Phishing
 u|csr110112204eur.click|Phishing.Database|Phishing
 u|csrcom.com|Phishing.Database|Phishing
 u|csrdf.serpgold.com|Phishing.Database|Phishing
+u|csrdrywallss.vercel.app|OpenPhish|Phishing
 u|csrf-guard-handler.vercel.app|Phishing.Database|Phishing
 u|csrpa.xyz|Phishing.Database|Phishing
 u|css-ausstehendeversicherung.lazafra.mx|Phishing.Database|Phishing
@@ -153291,6 +153319,7 @@ u|ctdfmsk.np9q2f3.sbs|Phishing.Database|Phishing
 u|ctdtxmtcklumshji-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|ctdynamics.com.sg|Phishing.Database|Phishing
 u|cte2dto.beth4ere.9hego.vern.ors3arein.tot5alc.ontrol.s3-website.us-east-2.amazonaws.com|Phishing.Database|Phishing
+u|ctea.gdmaoka.com|OpenPhish|Phishing
 u|cteak.com.my|Phishing.Database|Phishing
 u|cteamcommunity.xyz|Phishing.Database|Phishing
 u|ctec-test.com|Phishing.Database|Phishing
@@ -154317,6 +154346,7 @@ u|customer-sp-custodiocristoforo.pages.dev|Phishing.Database|Phishing
 u|customer-sp-edmeevermont.pages.dev|Phishing.Database|Phishing
 u|customer-sp-hebertolamarre.pages.dev|Phishing.Database|Phishing
 u|customer-sp-hernandespule.pages.dev|Phishing.Database|Phishing
+u|customer-sp-hernandespule.pages.dev/help/contact/5304963336725962606%3a4700%3a310c%3a%3aac42%3a2edf/appeals/submit-appeal-formappeals/submit-appeal-form/return|OpenPhish|Phishing
 u|customer-sp-ines.pages.dev|Phishing.Database|Phishing
 u|customer-sp-jeanabarranger.pages.dev|Phishing.Database|Phishing
 u|customer-sp-kleberhutchinson05.pages.dev|Phishing.Database|Phishing
@@ -155392,6 +155422,7 @@ u|d1804046.vsdjyumne.org.cn|Phishing.Database|Phishing
 u|d185f03b29388833ceea740517c9552e-dot-gle9392420309493993.rj.r.appspot.com|Phishing.Database|Phishing
 u|d18795a6cd4b6a3d9bf93127490a4c73-dot-cloud-365-000.el.r.appspot.com|Phishing.Database|Phishing
 u|d195f0883f05941e3a8a70eda22f2d1deb1688e25954661c9fcaecfbd6.pages.dev|Phishing.Database|Phishing
+u|d1a5blym15569s.cloudfront.net/gx/index.html?phone=%2b1-888-902-2872|OpenPhish|Phishing
 u|d1awards.com|Phishing.Database|Phishing
 u|d1b2d7a7-30ba-4e40-bbe5-970b19795835.id.repl.co|Phishing.Database|Phishing
 u|d1bbfd1bbf.shalikbd.com|Phishing.Database|Phishing
@@ -157081,6 +157112,7 @@ u|dashboard-service-onlog-jpmorgn-cha.serveuser.com|Phishing.Database|Phishing
 u|dashboard-start-trzor.neocities.org|Phishing.Database|Phishing
 u|dashboard-viewaccount.com|Phishing.Database|Phishing
 u|dashboard.mdcomp.com.au|Phishing.Database|Phishing
+u|dashboard.phantom-wallet.to/home/import/index.html|OpenPhish|Phishing
 u|dashboard.topcloudsharing.com|Phishing.Database|Phishing
 u|dashboard.truevinebc93.com|Phishing.Database|Phishing
 u|dashboard.vonzglobal.com|Phishing.Database|Phishing
@@ -157490,8 +157522,13 @@ u|database-0884292994.ceipirippo.es|Phishing.Database|Phishing
 u|database-1895760360.ceipirippo.es|Phishing.Database|Phishing
 u|database-4136275861.ceipirippo.es|Phishing.Database|Phishing
 u|database-4735374620.ceipirippo.es|Phishing.Database|Phishing
+u|database-kavethra-121b.s2499648.workers.dev/analysis_center|OpenPhish|Phishing
+u|database-kelthorin-737e.s2499651-af3.workers.dev/analysis_center|OpenPhish|Phishing
+u|database-lyvarion-42c5.s2499648.workers.dev/analysis_center|OpenPhish|Phishing
 u|database-manage-local-git8412579601.vercel.app|Phishing.Database|Phishing
-u|database-summary-5466.69301210093.workers.dev/auth_center|OpenPhish|Phishing
+u|database-velnexis-3ecf.s2499648.workers.dev/analysis_center|OpenPhish|Phishing
+u|database-velzaryn-36a0.s2499648.workers.dev/analysis_center|OpenPhish|Phishing
+u|database-xavoryn-208d.s2499651-af3.workers.dev|OpenPhish|Phishing
 u|databasefb-ttqjsen1f5.domfilm.de|Phishing.Database|Phishing
 u|databaseservicealert.weebly.com|Phishing.Database|Phishing
 u|databreacheservicemanager.com|Phishing.Database|Phishing
@@ -157504,11 +157541,9 @@ u|datadrivensync.vercel.app|Phishing.Database|Phishing
 u|datadrone.ie|Phishing.Database|Phishing
 u|dataelements.co|Phishing.Database|Phishing
 u|datafamilyfedcuservice.pages.dev|Phishing.Database|Phishing
-u|dataflow-trends-c591.69301210091.workers.dev/auth_center|OpenPhish|Phishing
 u|datagivers.com|Phishing.Database|Phishing
 u|datagridltd.com|Phishing.Database|Phishing
 u|datagtqp.mipropia.com|Phishing.Database|Phishing
-u|datahub-center-d26a.69301020063.workers.dev/auth_center|OpenPhish|Phishing
 u|datahub-lake.vercel.app|Phishing.Database|Phishing
 u|datalink.inf.br|Phishing.Database|Phishing
 u|datalube.net|Phishing.Database|Phishing
@@ -157550,7 +157585,11 @@ u|datashieldoz-cagi17xc11d-authguardex.pages.dev|Phishing.Database|Phishing
 u|datashieldoz-cagid14z11-authguardex.pages.dev|Phishing.Database|Phishing
 u|datashielduwx-ai17i11d-ctrlguardio.pages.dev|Phishing.Database|Phishing
 u|datastack.co.in|Phishing.Database|Phishing
-u|datastation-zelkor-ba82.s2499641.workers.dev/identity_support_hub|OpenPhish|Phishing
+u|datastation-celthory-6c0c.s2499644.workers.dev/analysis_center|OpenPhish|Phishing
+u|datastation-kelzora-0151.s2499644.workers.dev/analysis_center|OpenPhish|Phishing
+u|datastation-nythera-17e9.s2499624.workers.dev/analysis_center|OpenPhish|Phishing
+u|datastation-vorythia-0422.s2499644.workers.dev/analysis_center|OpenPhish|Phishing
+u|datastation-zyndora-b380.s2499623.workers.dev/analysis_center|OpenPhish|Phishing
 u|datastreamx.giochathu.sa.com|Phishing.Database|Phishing
 u|datasynthes.com|Phishing.Database|Phishing
 u|datatwine.vercel.app|Phishing.Database|Phishing
@@ -157562,6 +157601,7 @@ u|datazoon.eu|Phishing.Database|Phishing
 u|datcareefdiving.com|Phishing.Database|Phishing
 u|datco.vn|Phishing.Database|Phishing
 u|date-on-14-01.totaltrackingimproveupscanada.com|Phishing.Database|Phishing
+u|date-vote.live|OpenPhish|Phishing
 u|datempus.pl|Phishing.Database|Phishing
 u|datemylove32.pages.dev|Phishing.Database|Phishing
 u|datenerweiterungsprozesslauf2222.xyz|Phishing.Database|Phishing
@@ -159293,6 +159333,7 @@ u|dehyzmyfhcmmzlrf-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|deiccui.nl|Phishing.Database|Phishing
 u|deiccuid.com|Phishing.Database|Phishing
 u|deific-associate.000webhostapp.com|Phishing.Database|Phishing
+u|deilo0e.minecraftr.us|OpenPhish|Phishing
 u|deimantukonse.com|Phishing.Database|Phishing
 u|dein-homeassistant.de|Phishing.Database|Phishing
 u|deine-fotos.herokuapp.com|Phishing.Database|Phishing
@@ -159460,7 +159501,6 @@ u|delightskateboards.de|Phishing.Database|Phishing
 u|deliitalia.se|Phishing.Database|Phishing
 u|delikrejosari.com|Phishing.Database|Phishing
 u|delindeboom.info|Phishing.Database|Phishing
-u|delinea.ar/dgd/login.htm|OpenPhish|Phishing
 u|delinquent-community-fla-dc9e6.firebaseapp.com|Phishing.Database|Phishing
 u|delirious-angry-mayflower.glitch.me|Phishing.Database|Phishing
 u|delirious-puzzle-ninja.glitch.me|Phishing.Database|Phishing
@@ -160588,7 +160628,6 @@ u|desktop-lives-ledger.webflow.io|Phishing.Database|Phishing
 u|desktop-lrdgrlive.webflow.io|Phishing.Database|Phishing
 u|desktop-start-ledged.webflow.io|Phishing.Database|Phishing
 u|desktop-trezor-start.webflow.io|Phishing.Database|Phishing
-u|desktop-us-web-ledger.pages.dev|OpenPhish|Phishing
 u|desktop-web--ledgerlive.webflow.io|Phishing.Database|Phishing
 u|desktop.anscxnyn.com|Phishing.Database|Phishing
 u|desktop.originalcartoes.com|Phishing.Database|Phishing
@@ -166099,6 +166138,7 @@ u|dmow.advslisboa.com.br|Phishing.Database|Phishing
 u|dmpbkh3izs.1328.vatanproje.com|Phishing.Database|Phishing
 u|dmpet.digital|Phishing.Database|Phishing
 u|dmpjo.com|Phishing.Database|Phishing
+u|dmpmnnu-smoky-96.vercel.app|OpenPhish|Phishing
 u|dmprintshop.com|Phishing.Database|Phishing
 u|dmqoikuuilbeaqdz-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|dmqqxuasgrujxeni-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -166460,6 +166500,8 @@ u|dobryanka.com.ua|Phishing.Database|Phishing
 u|doc----wallettconnect.gitbook.io|Phishing.Database|Phishing
 u|doc---cdn-suite-trizr.webflow.io|Phishing.Database|Phishing
 u|doc--bridge-trzzor-cdn.webflow.io|Phishing.Database|Phishing
+u|doc--exxodus--web.pages.dev|OpenPhish|Phishing
+u|doc--exxodus-web.pages.dev|OpenPhish|Phishing
 u|doc--ledgre--en-us-apps-cdn.webflow.io|Phishing.Database|Phishing
 u|doc--ledgre--en-us-apps.webflow.io|Phishing.Database|Phishing
 u|doc--ledgre-apps--en-us.webflow.io|Phishing.Database|Phishing
@@ -166705,7 +166747,6 @@ u|docs-cdn-trzs.webflow.io|Phishing.Database|Phishing
 u|docs-coinbasepro--o--auth.webflow.io|Phishing.Database|Phishing
 u|docs-com---ledger-cdn.webflow.io|Phishing.Database|Phishing
 u|docs-desk-ldgr-support.webflow.io|Phishing.Database|Phishing
-u|docs-desktop-ledgr.pages.dev|OpenPhish|Phishing
 u|docs-dew-6406.retupamyte.workers.dev|Phishing.Database|Phishing
 u|docs-en-us-trezor.webflow.io|Phishing.Database|Phishing
 u|docs-en-walletconnect.gitbook.io|Phishing.Database|Phishing
@@ -168043,10 +168084,8 @@ u|download-down.000.pe|Phishing.Database|Phishing
 u|download-file-speed-badboys-2024-usa.clashbadboyss.workers.dev|Phishing.Database|Phishing
 u|download-files-wetransfer-7uyhj3we8u887278429uhjew889.pages.dev|Phishing.Database|Phishing
 u|download-host.vercel.app|Phishing.Database|Phishing
-u|download-invoice.netlify.app|OpenPhish|Phishing
 u|download-ledgerlive.us|Phishing.Database|Phishing
 u|download-ledgerlive.us.t-trezorwallet.com|Phishing.Database|Phishing
-u|download-ledgre-live.pages.dev|OpenPhish|Phishing
 u|download-metamask.app|Phishing.Database|Phishing
 u|download-metamask.im|Phishing.Database|Phishing
 u|download-mm.com|Phishing.Database|Phishing
@@ -168622,6 +168661,7 @@ u|draksdepot.com|Phishing.Database|Phishing
 u|draliabano.com|Phishing.Database|Phishing
 u|dralife.com|Phishing.Database|Phishing
 u|dralix-meta-biz-sorven.pages.dev|Phishing.Database|Phishing
+u|dralm-sken-zlat-932-zleg-plinter-zog-615.pages.dev|OpenPhish|Phishing
 u|dralorenaapolinario.com.br|Phishing.Database|Phishing
 u|dralvarojimenez.com.mx|Phishing.Database|Phishing
 u|dralzainomara.com|Phishing.Database|Phishing
@@ -168683,6 +168723,7 @@ u|drbazvining.co.vu|Phishing.Database|Phishing
 u|drbear07.wixstudio.com|Phishing.Database|Phishing
 u|drbethwestie.com|Phishing.Database|Phishing
 u|drbgq.blogspot.am|Phishing.Database|Phishing
+u|drbill.cc/3deqny?k=dc508e0e96e0235b|OpenPhish|Phishing
 u|drbobsimpson.com|Phishing.Database|Phishing
 u|drbox.life|Phishing.Database|Phishing
 u|drbraptcynm.edu.in|Phishing.Database|Phishing
@@ -168815,7 +168856,6 @@ u|dreggiyts.myftp.org|Phishing.Database|Phishing
 u|dreigs-mccreauw-hyuierry.yolasite.com|Phishing.Database|Phishing
 u|dreirosiisicdnp.com|Phishing.Database|Phishing
 u|dreiz.ga|Phishing.Database|Phishing
-u|drel-froz-spag-312-vrik-klandos-zaz-764.pages.dev|OpenPhish|Phishing
 u|drelizabethrose.com|Phishing.Database|Phishing
 u|drellaerie.com|Phishing.Database|Phishing
 u|drembigq.webcindario.com|Phishing.Database|Phishing
@@ -168962,7 +169002,6 @@ u|drive.google.com.jdvz.net|Phishing.Database|Phishing
 u|drive.google.com.pdfdocument.bcuworks.com|Phishing.Database|Phishing
 u|drive.google.sepamate.fr|Phishing.Database|Phishing
 u|drive.google.webtechuanta.com|Phishing.Database|Phishing
-u|drive.login.adsbillinghub.com|OpenPhish|Phishing
 u|drive.sier.my.id|Phishing.Database|Phishing
 u|drive.sparkdrive.online|Phishing.Database|Phishing
 u|drive.timc.workers.dev|Phishing.Database|Phishing
@@ -170604,6 +170643,7 @@ u|dydx-app.co.com|Phishing.Database|Phishing
 u|dydx-trade.co.com|Phishing.Database|Phishing
 u|dydxex.org|Phishing.Database|Phishing
 u|dydzof.cn|Phishing.Database|Phishing
+u|dyecwp.com|OpenPhish|Phishing
 u|dyerdev.com|Phishing.Database|Phishing
 u|dyermerv.org|Phishing.Database|Phishing
 u|dyf-dfx.blogspot.com|Phishing.Database|Phishing
@@ -171337,7 +171377,6 @@ u|e56e89bb.2be9954bcc25342839f9be52.workers.dev|Phishing.Database|Phishing
 u|e571tn-nu.myshopify.com|Phishing.Database|Phishing
 u|e57oohfwuu5puyxk.cddental.com.au|Phishing.Database|Phishing
 u|e57xfrd-66.pages.dev|Phishing.Database|Phishing
-u|e57xfrd-66.pages.dev/gp/profile/amzn1.account.ahbcbuvtzvk7ynf5m2r5vnqh4vdq|OpenPhish|Phishing
 u|e586cd5b.hsduecinfj.com.cn|Phishing.Database|Phishing
 u|e58bhnd5bdyv.duckdns.org|Phishing.Database|Phishing
 u|e58dffc1b3309348bce76faf5ed967ec-dot-gle9392420309493993.rj.r.appspot.com|Phishing.Database|Phishing
@@ -171832,7 +171871,6 @@ u|easy-bank-delta.vercel.app|Phishing.Database|Phishing
 u|easy-bank-jjsdcghpj-blackpheonix.vercel.app|Phishing.Database|Phishing
 u|easy-bank-landing-page-eta.vercel.app|Phishing.Database|Phishing
 u|easy-bank-landing-page-gold.vercel.app|Phishing.Database|Phishing
-u|easy-bank-landing-page-omega.vercel.app|OpenPhish|Phishing
 u|easy-bank-landing-page-pi.vercel.app|Phishing.Database|Phishing
 u|easy-bank-landing-page-weblytic.vercel.app|Phishing.Database|Phishing
 u|easy-bank-peach.vercel.app|Phishing.Database|Phishing
@@ -173387,7 +173425,6 @@ u|ectmichiana.com|Phishing.Database|Phishing
 u|ectodermic-samples.000webhostapp.com|Phishing.Database|Phishing
 u|ecuablock.com|Phishing.Database|Phishing
 u|ecuadoradiario.com|Phishing.Database|Phishing
-u|ecuadorsalvanuevasvidas--nuevavidaecuado.replit.app|OpenPhish|Phishing
 u|ecuadorwed.000webhostapp.com|Phishing.Database|Phishing
 u|ecuamueble.com|Phishing.Database|Phishing
 u|ecuashiptrade.com|Phishing.Database|Phishing
@@ -174835,7 +174872,6 @@ u|ehuabo.ci|Phishing.Database|Phishing
 u|ehuhdujei-b6252c.ingress-daribow.ewp.live|Phishing.Database|Phishing
 u|ehuk.fa.us2.oraclecloud.com|Phishing.Database|Phishing
 u|ehumjbjlyczeotnxoamltipujqqlmcckzimr-dot-cryptic-now-290917.ey.r.appspot.com|Phishing.Database|Phishing
-u|ehvsjc.com|OpenPhish|Phishing
 u|ehxbdcwbprqabivx-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|ehxnilb.tokenapp.download|Phishing.Database|Phishing
 u|ehxw6dn8wpp9wp.qwo231sdx.club|Phishing.Database|Phishing
@@ -176538,7 +176574,6 @@ u|empresasone-b96935.ingress-comporellon.ewp.live|Phishing.Database|Phishing
 u|empresesbinargentina.com|Phishing.Database|Phishing
 u|empressmanifest.com|Phishing.Database|Phishing
 u|empressmichel.com|Phishing.Database|Phishing
-u|emprest-ltda.online/tsi|OpenPhish|Phishing
 u|emprisebank.corporacionfrm.org|Phishing.Database|Phishing
 u|empro90.sytes.net|Phishing.Database|Phishing
 u|emproproperties.com|Phishing.Database|Phishing
@@ -176737,6 +176772,7 @@ u|en-ledger-install.com|Phishing.Database|Phishing
 u|en-ledger-io.squarespace.com|Phishing.Database|Phishing
 u|en-ledger-learn.pages.dev|Phishing.Database|Phishing
 u|en-ledger-liive-wallet.pages.dev|Phishing.Database|Phishing
+u|en-ledger-live-downloadd.pages.dev|OpenPhish|Phishing
 u|en-ledger-live-login-us.pages.dev|Phishing.Database|Phishing
 u|en-ledger-live-login.blogspot.be|Phishing.Database|Phishing
 u|en-ledger-live-login.blogspot.com|Phishing.Database|Phishing
@@ -177300,6 +177336,7 @@ u|eng-coinbasepro-learn.daftpage.com|Phishing.Database|Phishing
 u|eng-coinbasepro-us.typedream.app|Phishing.Database|Phishing
 u|eng-coinbasewallet.typedream.app|Phishing.Database|Phishing
 u|eng-coinbaspro-en.framer.ai|Phishing.Database|Phishing
+u|eng-coinsquare.apper.so|OpenPhish|Phishing
 u|eng-crypto--cdn--auth.webflow.io|Phishing.Database|Phishing
 u|eng-dexscreener.net|Phishing.Database|Phishing
 u|eng-exodus.co.com|Phishing.Database|Phishing
@@ -182725,6 +182762,7 @@ u|exve-gqeabilplu.egyetemunk.com|Phishing.Database|Phishing
 u|exxa.co|Phishing.Database|Phishing
 u|exxaenekswcfljko-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|exxdouswallat.godaddysites.com|Phishing.Database|Phishing
+u|exxodus--we-doc.pages.dev|OpenPhish|Phishing
 u|exxodus-wallet-extension.teachable.com|Phishing.Database|Phishing
 u|exxoduswallat.weebly.com|Phishing.Database|Phishing
 u|exxoodus.com|Phishing.Database|Phishing
@@ -183415,7 +183453,6 @@ u|f.qtrip.cc|Phishing.Database|Phishing
 u|f.sms.md|Phishing.Database|Phishing
 u|f.vpncake.workers.dev|Phishing.Database|Phishing
 u|f001-90085nnm-wetra-nsfer-bfnnhjneu89sne.netlify.app|Phishing.Database|Phishing
-u|f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileid=4_z488504930608a266a41f0a1e_f100be89f294c5348_d20261104_m100004_c005_v0501051_t0011_u01793786404667#nelarz@59dd92da1e7437a917299bab33e29d108bab.net|OpenPhish|Phishing
 u|f008ev.horusian.com|Phishing.Database|Phishing
 u|f00da434.voag.cn|Phishing.Database|Phishing
 u|f00e9579.dhfiwmajda.cloud|Phishing.Database|Phishing
@@ -184189,6 +184226,8 @@ u|f6.san65.xyz|Phishing.Database|Phishing
 u|f6.san656.xyz|Phishing.Database|Phishing
 u|f607d0b8.jdhuwoskz.cloud|Phishing.Database|Phishing
 u|f608e4687b74.godaddysites.com|Phishing.Database|Phishing
+u|f60c.top/downapp|OpenPhish|Phishing
+u|f60c.top/downapp/r/www.f60c.top|OpenPhish|Phishing
 u|f62f2f2ggfyg.discloud.app|Phishing.Database|Phishing
 u|f6380a63.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com|Phishing.Database|Phishing
 u|f63sdasa.appspot.com|Phishing.Database|Phishing
@@ -184255,6 +184294,7 @@ u|f7gd6fgdfgh7ef6gh7erhg7erhgee6rhg86ehgrehgreg8reg7er6g7re.pages.dev|Phishing.D
 u|f7h00.supergoeducation.com|Phishing.Database|Phishing
 u|f7hug9.vonnda-app.com|Phishing.Database|Phishing
 u|f7lux.schaefer-overview.com|Phishing.Database|Phishing
+u|f7m93-qcr-kv7u-7gxjf-07-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|f7nre.com|Phishing.Database|Phishing
 u|f7rfx7db.duckdns.org|Phishing.Database|Phishing
 u|f7rhfflhvq1kluvyssh-msfhbfdvueieuk.q77.eu|Phishing.Database|Phishing
@@ -186988,7 +187028,6 @@ u|facebooklogin.ygto.com|Phishing.Database|Phishing
 u|facebooklogin12732771.github.io|Phishing.Database|Phishing
 u|facebooklogin15555.blogspot.com|Phishing.Database|Phishing
 u|facebooklogin159.webcindario.com|Phishing.Database|Phishing
-u|facebooklogin17.blogspot.com|OpenPhish|Phishing
 u|facebooklogin21.squirly.info|Phishing.Database|Phishing
 u|facebooklogina.blogspot.com|Phishing.Database|Phishing
 u|facebooklogina.blogspot.ug|Phishing.Database|Phishing
@@ -186998,7 +187037,6 @@ u|facebooklogineed.blogspot.bg|Phishing.Database|Phishing
 u|facebooklogineed.blogspot.cl|Phishing.Database|Phishing
 u|facebooklogineed.blogspot.com.ee|Phishing.Database|Phishing
 u|facebooklogingo.blogspot.com|Phishing.Database|Phishing
-u|facebookloginid.blogspot.com|OpenPhish|Phishing
 u|facebookloginid.com|Phishing.Database|Phishing
 u|facebookloginiid.blogspot.cl|Phishing.Database|Phishing
 u|facebookloginiid.blogspot.co.id|Phishing.Database|Phishing
@@ -187229,7 +187267,6 @@ u|facebooks-verificationns.tk|Phishing.Database|Phishing
 u|facebooks-vn.tk|Phishing.Database|Phishing
 u|facebooks.asia|Phishing.Database|Phishing
 u|facebooks.com.vn|Phishing.Database|Phishing
-u|facebooks.com.vn/dang-ky-du-thi-khao-sat-chat-luong-thang-10?wj|OpenPhish|Phishing
 u|facebooks.info-biil.com|Phishing.Database|Phishing
 u|facebooks.somoyersathe.com|Phishing.Database|Phishing
 u|facebooks.weblls.com|Phishing.Database|Phishing
@@ -193948,7 +193985,6 @@ u|fhyeyeydfhdfhf57457475.corporation-manager-team.my.id|Phishing.Database|Phishi
 u|fhyngnbsavqgyqmhdqpdorrply-dot-gl099898987fhkl.uk.r.appspot.com|Phishing.Database|Phishing
 u|fhyryryhrueuerygsdyery6436346346.corporation-manager-team.my.id|Phishing.Database|Phishing
 u|fhytreu1.pages.dev|Phishing.Database|Phishing
-u|fhytuie.xyz|OpenPhish|Phishing
 u|fhyxrmultsfltqsj-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|fhzz00.com|Phishing.Database|Phishing
 u|fi-agb-session-c3x1m6.xyz|Phishing.Database|Phishing
@@ -194034,7 +194070,6 @@ u|ficohsaahondurs01.atwebpages.com|Phishing.Database|Phishing
 u|ficohsascrl.webcindario.com|Phishing.Database|Phishing
 u|ficoo9980.atwebpages.com|Phishing.Database|Phishing
 u|ficoonlinealos.webcindario.com|Phishing.Database|Phishing
-u|ficos.com.br/nt/j3q1yx5idbxnbxh4mx11anh3|OpenPhish|Phishing
 u|ficoscorporacioy2022.atwebpages.com|Phishing.Database|Phishing
 u|ficsupport.itpolicy.co.za|Phishing.Database|Phishing
 u|fictionfate.com|Phishing.Database|Phishing
@@ -195628,6 +195663,7 @@ u|fitjourney.nyc|Phishing.Database|Phishing
 u|fitkingmady.com|Phishing.Database|Phishing
 u|fitlifebrands.ferreracademy.com|Phishing.Database|Phishing
 u|fitness-main-id1006732508.vercel.app|Phishing.Database|Phishing
+u|fitness-philosophy-wallpaper-task.trycloudflare.com|OpenPhish|Phishing
 u|fitness.applekandy.com|Phishing.Database|Phishing
 u|fitness.cekuj.net|Phishing.Database|Phishing
 u|fitnessbychunks.blogspot.com|Phishing.Database|Phishing
@@ -200068,7 +200104,6 @@ u|frescofish.in|Phishing.Database|Phishing
 u|fresh-7b92d.firebaseapp.com|Phishing.Database|Phishing
 u|fresh-brassy-mascara.glitch.me|Phishing.Database|Phishing
 u|fresh-class.com|Phishing.Database|Phishing
-u|fresh-experiences-537560.framer.app|OpenPhish|Phishing
 u|fresh-grateful-offer.glitch.me|Phishing.Database|Phishing
 u|fresh-grateful-seismosaurus.glitch.me|Phishing.Database|Phishing
 u|fresh-minty.onshared3-note.workers.dev|Phishing.Database|Phishing
@@ -201995,7 +202030,6 @@ u|g4wesfd222.blogspot.tw|Phishing.Database|Phishing
 u|g4wge.blogspot.hr|Phishing.Database|Phishing
 u|g4workplace.com|Phishing.Database|Phishing
 u|g4ycjleadm.9710.kidshield.gen.tr|Phishing.Database|Phishing
-u|g5.lu/52ecz|OpenPhish|Phishing
 u|g514gl.n0c.world|Phishing.Database|Phishing
 u|g551000.cc|Phishing.Database|Phishing
 u|g551000.com|Phishing.Database|Phishing
@@ -202814,7 +202848,6 @@ u|galiojo.my.id|Phishing.Database|Phishing
 u|galisupor.c1.biz|Phishing.Database|Phishing
 u|galitokensms.gfd3434.repl.co|Phishing.Database|Phishing
 u|galitsragfsadf.diguis02.repl.co|Phishing.Database|Phishing
-u|galixiaofficioinhresa.vercel.app|OpenPhish|Phishing
 u|galixwallet.co.com|Phishing.Database|Phishing
 u|galizone.000webhostapp.com|Phishing.Database|Phishing
 u|galjzmaugwhdpvznpzpihyyyzd-dot-gle39404049.rj.r.appspot.com|Phishing.Database|Phishing
@@ -205153,7 +205186,6 @@ u|gemnigemnilognss.webflow.io|Phishing.Database|Phishing
 u|gemnii-logn.godaddysites.com|Phishing.Database|Phishing
 u|gemniilloginn.webflow.io|Phishing.Database|Phishing
 u|gemniilog-inz.godaddysites.com|Phishing.Database|Phishing
-u|gemniilogcn.gitbook.io|OpenPhish|Phishing
 u|gemniixilogiem.gitbook.io|Phishing.Database|Phishing
 u|gemnilg.mystrikingly.com|Phishing.Database|Phishing
 u|gemnilgn-us.mystrikingly.com|Phishing.Database|Phishing
@@ -206558,7 +206590,6 @@ u|gfnnwrejj8sy1292hbavzel4evhg.qo115mqstsk5kp2kq.rockhopperexplorationplc.co.uk|
 u|gfogrrzlsnmydeyoookorxqyve-dot-gleowayel400503.uc.r.appspot.com|Phishing.Database|Phishing
 u|gforceimage.com|Phishing.Database|Phishing
 u|gfourie.atozgroup.ir|Phishing.Database|Phishing
-u|gfoy9-1nd-m0z8-4zteh-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|gfpconsults.co.uk|Phishing.Database|Phishing
 u|gfpupfxmtdifyoaccgcnqilfmu-dot-gleowayel400503.uc.r.appspot.com|Phishing.Database|Phishing
 u|gfqwefz.duckdns.org|Phishing.Database|Phishing
@@ -208579,7 +208610,6 @@ u|gmail.webaccess-alert.com|Phishing.Database|Phishing
 u|gmail0checkeracoountprivicy.us-be.com|Phishing.Database|Phishing
 u|gmailbb.webservis.ru|Phishing.Database|Phishing
 u|gmaill.netlify.app|Phishing.Database|Phishing
-u|gmailmsg.com/signin?t=eyjhbgcioijiuzi1nij9.eyj0cmfja2luz190b2tlbii6ijq0n2y3odnkltezowitndyzmy04zwe1ltm2ytk4ytk1yjvmmcisimnlbgwioijodhrwczovlzixzzzqznzoetyuzxhly3v0zs1hcgkudxmtzwfzdc0ylmftyxpvbmf3cy5jb20vchjvzc9hcgkvcghpc2hpbmdjyw1wywlnbiisimnhbxbhawdux3rva2vuijoimjuzy2e0mwitotq5my00ntu2ltljodmtngu1m2e5nzhkytfjiiwidgvzdf90b2tlbii6zmfsc2usimv4dgvybmfsx3ryywluaw5nijpmywxzzswizglyzwn0x2rlbgl2zxj5ijpmywxzzswiawf0ijoxnzkzmje3mty3lcjpc3mioijodhrwczovl2fwcc5waglzahrocmvhdc5jb20ilcjlehaioje4mda5otmxnjd9.259vg4gytj0bqtg37gvfvujmixgbsn3gdiaprtthwvq|OpenPhish|Phishing
 u|gmailqclh.ebpages.com|Phishing.Database|Phishing
 u|gmailupdadada.es.tl|Phishing.Database|Phishing
 u|gmalgogle.000webhostapp.com|Phishing.Database|Phishing
@@ -217592,7 +217622,6 @@ u|gv08rzl2gvwjkpe.53244ds.xyz|Phishing.Database|Phishing
 u|gv2cg.xyz|Phishing.Database|Phishing
 u|gv2q-ewh453-f321-f31-f31f.infura-ipfs.io|Phishing.Database|Phishing
 u|gv4564rtner.ru|Phishing.Database|Phishing
-u|gv8bjqoftd55e7es.87-106-236-104.plesk.page|OpenPhish|Phishing
 u|gva.cloudsigma.com|Phishing.Database|Phishing
 u|gvaewa.duckdns.org|Phishing.Database|Phishing
 u|gvaler.nl|Phishing.Database|Phishing
@@ -218138,6 +218167,8 @@ u|h3regb7njz.6437.chesham-bridleways.org.uk|Phishing.Database|Phishing
 u|h3xk1.shop|Phishing.Database|Phishing
 u|h4.myedsh.net|Phishing.Database|Phishing
 u|h42498.com|Phishing.Database|Phishing
+u|h42l.top/downapp|OpenPhish|Phishing
+u|h42l.top/downappr/www.h42l.top|OpenPhish|Phishing
 u|h46y60a45oim.lspower.xyz|Phishing.Database|Phishing
 u|h49wpzxosa.appspot.com|Phishing.Database|Phishing
 u|h4aj2gok.ytyukai.cn|Phishing.Database|Phishing
@@ -220844,7 +220875,6 @@ u|healtotoe.co.uk|Phishing.Database|Phishing
 u|healtycontrol.com|Phishing.Database|Phishing
 u|healyourselffromchronicillness.com|Phishing.Database|Phishing
 u|heaniatu.com|Phishing.Database|Phishing
-u|heao-3.pages.dev|OpenPhish|Phishing
 u|heapgozhlbjqdxop-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|heapslace.com|Phishing.Database|Phishing
 u|heard-kucion-cdn.pages.dev|Phishing.Database|Phishing
@@ -223462,7 +223492,7 @@ u|helpladger-live-us.webflow.io|Phishing.Database|Phishing
 u|helpldgestacart.webflow.io|Phishing.Database|Phishing
 u|helpledger--liveeload.webflow.io|Phishing.Database|Phishing
 u|helpledger-webstore.webflow.io|Phishing.Database|Phishing
-u|helpledger.live/login.php|OpenPhish|Phishing
+u|helpledger.live/login.php/privacy.php|OpenPhish|Phishing
 u|helpledgerdesktop.webflow.io|Phishing.Database|Phishing
 u|helpline-abuse-404-423.azurewebsites.net|Phishing.Database|Phishing
 u|helpline-aswzz.info|Phishing.Database|Phishing
@@ -224835,7 +224865,6 @@ u|hifzacademycenter.com|Phishing.Database|Phishing
 u|hig0.com|Phishing.Database|Phishing
 u|higasiyama.jp|Phishing.Database|Phishing
 u|higbg7.weebly.com|Phishing.Database|Phishing
-u|higbkr.vercel.app/m0c8mn865q9kmkq9/oewxlj34p722d2cr/kr2vd4700wtzunuk/sroh34oautzjs3gl/tanos7@c843487c5b63b0ee576386b78799143c837e.com|OpenPhish|Phishing
 u|higbvtsakmcurbyr-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|higdghxkcwemogxcxgraxldecc-dot-gloff849483.uk.r.appspot.com|Phishing.Database|Phishing
 u|higenerapp9.atwebpages.com|Phishing.Database|Phishing
@@ -225214,7 +225243,6 @@ u|hismail.ru|Phishing.Database|Phishing
 u|hisndaingsopeir356214.co.vu|Phishing.Database|Phishing
 u|hisob.evosoft.uz|Phishing.Database|Phishing
 u|hispaniceducationcoalitionpbc.org|Phishing.Database|Phishing
-u|hispeed-ch70.jimdofree.com|OpenPhish|Phishing
 u|hisrevere.com|Phishing.Database|Phishing
 u|hissing-airline-quick.on-fleek.app|Phishing.Database|Phishing
 u|hissing-carpet-shrilling.on-fleek.app|Phishing.Database|Phishing
@@ -225856,7 +225884,6 @@ u|hmicsric.com|Phishing.Database|Phishing
 u|hmidalorbikhwrmerto.bwpsites.com|Phishing.Database|Phishing
 u|hmidozen.kinsta.cloud|Phishing.Database|Phishing
 u|hmiinnovations.crystotechnologies.com|Phishing.Database|Phishing
-u|hmilp09kod.flazio.online|OpenPhish|Phishing
 u|hmjby.blogspot.md|Phishing.Database|Phishing
 u|hmjby.blogspot.sn|Phishing.Database|Phishing
 u|hmjgb.blogspot.fi|Phishing.Database|Phishing
@@ -227396,7 +227423,6 @@ u|hometax-naver.web.app|Phishing.Database|Phishing
 u|hometeamspringhill.com|Phishing.Database|Phishing
 u|hometerms2333.weeblysite.com|Phishing.Database|Phishing
 u|hometifin.com|Phishing.Database|Phishing
-u|hometown-herbal-ledger-13.pages.dev|OpenPhish|Phishing
 u|hometown-polyphonic-nt-younger.trycloudflare.com|Phishing.Database|Phishing
 u|hometowndelightsstore.com|Phishing.Database|Phishing
 u|hometowndentalinc.com|Phishing.Database|Phishing
@@ -227852,6 +227878,7 @@ u|hostmaster.ingenova.com.au|Phishing.Database|Phishing
 u|hostmaster.lectec.com.au|Phishing.Database|Phishing
 u|hostmaster.sspl.com.au|Phishing.Database|Phishing
 u|hostmaster.www.wrstarproperties.com|Phishing.Database|Phishing
+u|hostmyclaudehtml.com/p/reqjwm7gkn#galel1@f0e0d4e61f7b6a4d4672e0362b944f5c0ad6.com|OpenPhish|Phishing
 u|hostmysitegot.com|Phishing.Database|Phishing
 u|hostnamapageissue.myddns.me|Phishing.Database|Phishing
 u|hostname.d-tv.tv|Phishing.Database|Phishing
@@ -228124,7 +228151,6 @@ u|hotlinkwhatsap.000webhostapp.com|Phishing.Database|Phishing
 u|hotlivee1.weebly.com|Phishing.Database|Phishing
 u|hotlook.godaddysites.com|Phishing.Database|Phishing
 u|hotmaiil-verificate.sytes.net|Phishing.Database|Phishing
-u|hotmaiil2026.weebly.com|OpenPhish|Phishing
 u|hotmail-1--steedhjj.repl.co|Phishing.Database|Phishing
 u|hotmail-100253.weeblysite.com|Phishing.Database|Phishing
 u|hotmail-100276.weeblysite.com|Phishing.Database|Phishing
@@ -228348,7 +228374,6 @@ u|houmansfrf.temp.swtest.ru|Phishing.Database|Phishing
 u|houmasselloubeu.vercel.app|Phishing.Database|Phishing
 u|houndlabs.escapetheclassroom.com|Phishing.Database|Phishing
 u|hounds-important.duckdns.org|Phishing.Database|Phishing
-u|houndstrike.xyz|OpenPhish|Phishing
 u|hounnoffamoidi-3302.vercel.app|Phishing.Database|Phishing
 u|houquemmeudeza-2322.vercel.app|Phishing.Database|Phishing
 u|hour.menu|Phishing.Database|Phishing
@@ -230744,7 +230769,6 @@ u|hwarquitectos.cl|Phishing.Database|Phishing
 u|hwazen.com|Phishing.Database|Phishing
 u|hwbsjlbfnsklaiwa-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|hwcnonrrexpyhjwq-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
-u|hwcps37mzt-qnkxz728-8j3k6d-hwc675.pages.dev|OpenPhish|Phishing
 u|hwcyo91.associatedshipbroking-mc.com|Phishing.Database|Phishing
 u|hwdhv.blogspot.com|Phishing.Database|Phishing
 u|hwdnvrsojznxnbxc-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -230785,7 +230809,6 @@ u|hwkryqrvtzvigocf-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|hwlgmercquydskcn-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|hwlocker.klineschool.com|Phishing.Database|Phishing
 u|hwmqa.xin|Phishing.Database|Phishing
-u|hwn64-96kxv-zmb73-439pjq-8y1t2g-tdr52-62p.pages.dev|OpenPhish|Phishing
 u|hwna.areu.ir|Phishing.Database|Phishing
 u|hwnd.pr5b.cfd|Phishing.Database|Phishing
 u|hwnptn.cn|Phishing.Database|Phishing
@@ -230883,7 +230906,6 @@ u|hxyqkiqwjxmctqet-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|hy.fuckgwf.eu.org|Phishing.Database|Phishing
 u|hy.grupswhatsapp.duckdns.org|Phishing.Database|Phishing
 u|hy.kidnxjy9.sa.com|Phishing.Database|Phishing
-u|hy2-india.372177.xyz/retail/geniusbar|OpenPhish|Phishing
 u|hy2238.top|Phishing.Database|Phishing
 u|hy7322.top|Phishing.Database|Phishing
 u|hyapdgbibysshgyp-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -232151,6 +232173,7 @@ u|icloud-iphonee.ascee-server.com|Phishing.Database|Phishing
 u|icloud-iphonee.com|Phishing.Database|Phishing
 u|icloud-irecoverymaps.help|Phishing.Database|Phishing
 u|icloud-itu.top|Phishing.Database|Phishing
+u|icloud-jp8.xyz/apple-jp-card/jp/login.html|OpenPhish|Phishing
 u|icloud-la.com|Phishing.Database|Phishing
 u|icloud-library.herokuapp.com|Phishing.Database|Phishing
 u|icloud-live.info|Phishing.Database|Phishing
@@ -234578,6 +234601,7 @@ u|im.caq.com.au|Phishing.Database|Phishing
 u|im.daqiaomu8.com|Phishing.Database|Phishing
 u|im.imtokendls.com|Phishing.Database|Phishing
 u|im.nbpublic.com|Phishing.Database|Phishing
+u|im.nbpublic.com/loading_page/walmart/walmart_cf_28/index.html?lptoken=17e494f10573523e508d&cep=n4igdgpg7g%2bgfgswc4wqexalhanjqdgeyajnamwe4baqgdgbz8r6agwgqyvygmw0qyaznw58tbuxwqarnjaaaeadceaz2som2wouhsatixyd8gipubdif62wkd2ffm3qecxchaxk1gpagbbcfukdgcabywqfrz9hbpckhz8abvcfuxcfkxpfga6whzbac1vfxukahsaj00o6tjcqm5bfx5anbbmc2iqcnzbei4nrn0knhppbm5vcqj2babzmdrshcc0a318nbwcenziz3timnxpei9fmeq0cfwqfhgwbxu7mcqat3cvbaazdhgnaimclv63e7coalmbyadaj2eiaauopwtvghaadyqbhicbogbvx6gl4%2fkiaoegsgkulvryqfdoklrpg4dhufinpdsy4xnr6ft0chvznyj4va4qaaescwpo%2bvxaahkygqinvvhsguytlgnuncps1yi0hz8eqobhrhchhlngafj6er1pfriqwyrbgacuwkxaf8a4ootcyofkhuejvyzhqnwfdumwakaa5ceassbmqwleuxgqgkhweb3gc8orwzaahggobglxwcq1r9eeuaedvje41wa5aofgyowsaoiagga%3d%3d&cpid=690db227d664ab0012bf754e|OpenPhish|Phishing
 u|im.quicqkor.com|Phishing.Database|Phishing
 u|im.seoone.net|Phishing.Database|Phishing
 u|im.tokenwal.com|Phishing.Database|Phishing
@@ -234632,6 +234656,7 @@ u|image-pict.firebaseapp.com|Phishing.Database|Phishing
 u|image-pjliuda7hm.btlyngby.dk|Phishing.Database|Phishing
 u|image-qjgx6bwyz.btlyngby.dk|Phishing.Database|Phishing
 u|image-sfmmxwpz.btlyngby.dk|Phishing.Database|Phishing
+u|image-upscaling.net/%7cpid:2068|OpenPhish|Phishing
 u|image-yqgksynu.btlyngby.dk|Phishing.Database|Phishing
 u|image0928.com.tw|Phishing.Database|Phishing
 u|imagebuildingandcarpentry.com.au|Phishing.Database|Phishing
@@ -235078,7 +235103,6 @@ u|immo-concierge.com|Phishing.Database|Phishing
 u|immo-marhold.at|Phishing.Database|Phishing
 u|immobile-acres.000webhostapp.com|Phishing.Database|Phishing
 u|immobiliarebonetti.com|Phishing.Database|Phishing
-u|immobilien-mietwohnungen.top|OpenPhish|Phishing
 u|immobiliere-iyadh.tn|Phishing.Database|Phishing
 u|immonetfranken.de|Phishing.Database|Phishing
 u|immortal.rs|Phishing.Database|Phishing
@@ -236042,6 +236066,7 @@ u|in.orgstop.com|Phishing.Database|Phishing
 u|in.robinsonwalker1.repl.co|Phishing.Database|Phishing
 u|in.slavastores.xyz|Phishing.Database|Phishing
 u|in.therapie-op-maat.be|Phishing.Database|Phishing
+u|in.vahaninfoo.top|OpenPhish|Phishing
 u|in.yyyy.cf|Phishing.Database|Phishing
 u|in0tr988988.com|Phishing.Database|Phishing
 u|in100.info|Phishing.Database|Phishing
@@ -236366,7 +236391,6 @@ u|index-bridge-trezor-cdn.teachable.com|Phishing.Database|Phishing
 u|index-cb6.pages.dev|Phishing.Database|Phishing
 u|index-h33.pages.dev|Phishing.Database|Phishing
 u|index-hase.web.app|Phishing.Database|Phishing
-u|index-html.info/?rid=spxhjcu|OpenPhish|Phishing
 u|index-ndax-auth.webflow.io|Phishing.Database|Phishing
 u|index-server.com|Phishing.Database|Phishing
 u|index-service.secure.appleid.apple.com.mkjangmailbusiness.com|Phishing.Database|Phishing
@@ -236398,7 +236422,6 @@ u|indexratifyrequestapp.pages.dev|Phishing.Database|Phishing
 u|indexs.mysniperhex.repl.co|Phishing.Database|Phishing
 u|indextauingrs.c1.biz|Phishing.Database|Phishing
 u|indextext.standard.us-east-1.oortech.com|Phishing.Database|Phishing
-u|indexxjjo.vercel.app|OpenPhish|Phishing
 u|indexxverify.sytes.net|Phishing.Database|Phishing
 u|indexy7uuujj.vercel.app|Phishing.Database|Phishing
 u|indexzim.com|Phishing.Database|Phishing
@@ -238867,6 +238890,7 @@ u|instagram-clone-git-master-tludlow.vercel.app|Phishing.Database|Phishing
 u|instagram-clone-gray-eight.vercel.app|Phishing.Database|Phishing
 u|instagram-clone-gray-nine.vercel.app|Phishing.Database|Phishing
 u|instagram-clone-in.vercel.app|Phishing.Database|Phishing
+u|instagram-clone-konstantindev1.vercel.app|OpenPhish|Phishing
 u|instagram-clone-lake-seven.vercel.app|Phishing.Database|Phishing
 u|instagram-clone-lilac-eight.vercel.app|Phishing.Database|Phishing
 u|instagram-clone-lime-ten.vercel.app|Phishing.Database|Phishing
@@ -239121,6 +239145,7 @@ u|instagram-supporttt-copyrighthelpform.ml|Phishing.Database|Phishing
 u|instagram-system-voting001.blogspot.com|Phishing.Database|Phishing
 u|instagram-tastes-j6v64xwaq-tiago-11.vercel.app|Phishing.Database|Phishing
 u|instagram-telifhakki.cf|Phishing.Database|Phishing
+u|instagram-ten-nu.vercel.app|OpenPhish|Phishing
 u|instagram-terms-business-confirms.com|Phishing.Database|Phishing
 u|instagram-tick.servehttp.com|Phishing.Database|Phishing
 u|instagram-tk-copyright.tk|Phishing.Database|Phishing
@@ -242582,8 +242607,6 @@ u|is-kampanyakatiliim-turkiye.com|Phishing.Database|Phishing
 u|is-robinhood-trade.gitbook.io|Phishing.Database|Phishing
 u|is-start-trizor.webflow.io|Phishing.Database|Phishing
 u|is-wallt-phantnm.godaddysites.com|Phishing.Database|Phishing
-u|is.gd/arzbjf|OpenPhish|Phishing
-u|is.gd/xqgckd|OpenPhish|Phishing
 u|is.marcukesh.top|Phishing.Database|Phishing
 u|isa20q.webwave.dev|Phishing.Database|Phishing
 u|isaacbaccah.github.io|Phishing.Database|Phishing
@@ -243916,6 +243939,7 @@ u|itsharshgupta.com|Phishing.Database|Phishing
 u|itshelpdesk.sitey.me|Phishing.Database|Phishing
 u|itshields.com|Phishing.Database|Phishing
 u|itshimul.github.io|Phishing.Database|Phishing
+u|itshroy.github.io/spotify-clone|OpenPhish|Phishing
 u|itsjitu.github.io|Phishing.Database|Phishing
 u|itsjustcustom.com|Phishing.Database|Phishing
 u|itsleonbro.github.io|Phishing.Database|Phishing
@@ -244640,6 +244664,7 @@ u|j208e.xyz|Phishing.Database|Phishing
 u|j209g.xyz|Phishing.Database|Phishing
 u|j222k.xyz|Phishing.Database|Phishing
 u|j223sqqw.001www.com|Phishing.Database|Phishing
+u|j230n.vip|OpenPhish|Phishing
 u|j238g.xyz|Phishing.Database|Phishing
 u|j23n534o876345hcg987623c23.netlify.app|Phishing.Database|Phishing
 u|j270039-b.us-south.cf.appdomain.cloud|Phishing.Database|Phishing
@@ -244663,6 +244688,7 @@ u|j4bi4-yqaaa-aaaad-qddsa-cai.raw.ic0.app|Phishing.Database|Phishing
 u|j4c0b333.com|Phishing.Database|Phishing
 u|j4cch8.csb.app|Phishing.Database|Phishing
 u|j4dwmpd1iz.8974.gencmert.com|Phishing.Database|Phishing
+u|j4ht6c.top|OpenPhish|Phishing
 u|j4kfun.com|Phishing.Database|Phishing
 u|j4mn0r.webwave.dev|Phishing.Database|Phishing
 u|j4rn4-zyaaa-aaaad-qgc4a-cai.icp0.io|Phishing.Database|Phishing
@@ -246598,6 +246624,7 @@ u|jessicalynnvince.com|Phishing.Database|Phishing
 u|jessicamiller.kjjjjj.ca|Phishing.Database|Phishing
 u|jessicapattersonphoto.com|Phishing.Database|Phishing
 u|jessicapenati.it|Phishing.Database|Phishing
+u|jessicaruben.com|OpenPhish|Phishing
 u|jessicasdavis.typeform.com|Phishing.Database|Phishing
 u|jessicasproul.com|Phishing.Database|Phishing
 u|jessicasxcoats.top|Phishing.Database|Phishing
@@ -249394,6 +249421,7 @@ u|join.grup.whatsapp.18.hot.wan3.my.id|Phishing.Database|Phishing
 u|join.jamesolldteam.world|Phishing.Database|Phishing
 u|join.jamessnewteam.world|Phishing.Database|Phishing
 u|join.jammesolldteam.world|Phishing.Database|Phishing
+u|join.jarps.mp/chtw/sch/captcha.php?bdc410f92550ea79886c5dfab85fb61a=|OpenPhish|Phishing
 u|join.joingrub1842.duckdns.org|Phishing.Database|Phishing
 u|join.krafton-reward.com|Phishing.Database|Phishing
 u|join.new-eventz.ml|Phishing.Database|Phishing
@@ -251957,6 +251985,7 @@ u|js08m.crapkdtubgo.es|Phishing.Database|Phishing
 u|js18222.com|Phishing.Database|Phishing
 u|js4.367450.com|Phishing.Database|Phishing
 u|js82p-dubois.ghjigclbopy.es|Phishing.Database|Phishing
+u|js8713.com/natsu/index.html|OpenPhish|Phishing
 u|jsaeka35.pages.dev|Phishing.Database|Phishing
 u|jsajg16taatk51cfafvozl.wisuda.ump.ac.id|Phishing.Database|Phishing
 u|jsapab.com|Phishing.Database|Phishing
@@ -252073,7 +252102,6 @@ u|jsusuus6.ml|Phishing.Database|Phishing
 u|jsutherland.sexyasiantubes.com|Phishing.Database|Phishing
 u|jsuujyhncwylxkch-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|jsuwabf.pages.dev|Phishing.Database|Phishing
-u|jsv6d-4m6-v7ii-vs5jv-07-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|jsvvehfuqq.bond|Phishing.Database|Phishing
 u|jsweb.com.ar|Phishing.Database|Phishing
 u|jsweeirudjkewsj.weebly.com|Phishing.Database|Phishing
@@ -253432,6 +253460,7 @@ u|k4-7894232-com.preview-domain.com|Phishing.Database|Phishing
 u|k4488hxh.beget.tech|Phishing.Database|Phishing
 u|k46pfi.schaefer-overview.com|Phishing.Database|Phishing
 u|k4913c.gdkc9q.cn|Phishing.Database|Phishing
+u|k4bv1-txq-0ek8-bqq9w-09-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|k4ce3-hqaaa-aaaad-qdqqq-cai.raw.ic0.app|Phishing.Database|Phishing
 u|k4hk.hannahlay.com|Phishing.Database|Phishing
 u|k4itaccepro.com|Phishing.Database|Phishing
@@ -254766,6 +254795,7 @@ u|kdnyosvtwiwgzmfn-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|kdodcelelhdalkps-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|kdodtk.nbyxr.xyz|Phishing.Database|Phishing
 u|kdofupxscgicguvw-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
+u|kdokeeffe.github.io/spotter_sheet_demo7.1|OpenPhish|Phishing
 u|kdotts1.wixsite.com|Phishing.Database|Phishing
 u|kdpkpdmhmbqhyrmu-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|kdpyhkrxtx.duckdns.org|Phishing.Database|Phishing
@@ -254942,6 +254972,7 @@ u|kehjkbklbgtvrdoq-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|kehouban.top|Phishing.Database|Phishing
 u|kehu.onlinemaill.icu|Phishing.Database|Phishing
 u|kehutanan.umuslim.ac.id|Phishing.Database|Phishing
+u|kehv.gdmaoka.com|OpenPhish|Phishing
 u|kei-rich.lolipop.jp|Phishing.Database|Phishing
 u|keibaialchemist.com|Phishing.Database|Phishing
 u|keibc.mtyx.my.id|Phishing.Database|Phishing
@@ -255534,7 +255565,6 @@ u|kfzservice-werner.de|Phishing.Database|Phishing
 u|kfzxotknxnbxtzbh-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|kg2zlw8zr5g4qpap.workflow.jimpike.com.au|Phishing.Database|Phishing
 u|kga9szxosa.appspot.com|Phishing.Database|Phishing
-u|kgaaz-jq9-5qiz-o57mq-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|kgakizxozcx.us-south.cf.appdomain.cloud|Phishing.Database|Phishing
 u|kgame.anyuzhe.com|Phishing.Database|Phishing
 u|kganzomfvizqflor-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -255562,7 +255592,6 @@ u|kgimning_lkinglg.godaddysites.com|Phishing.Database|Phishing
 u|kginteriors.qa|Phishing.Database|Phishing
 u|kgipjmghlubmjiodgxybyqeavj-dot-gle39404049.rj.r.appspot.com|Phishing.Database|Phishing
 u|kgj0v.lahoudproductions.com|Phishing.Database|Phishing
-u|kgja.spheremama.com|OpenPhish|Phishing
 u|kgjkhdh.godaddysites.com|Phishing.Database|Phishing
 u|kgjph0nh0t.qwo231sdx.club|Phishing.Database|Phishing
 u|kgkgy.weebly.com|Phishing.Database|Phishing
@@ -255590,7 +255619,6 @@ u|kgsufwlnwr.duckdns.org|Phishing.Database|Phishing
 u|kgtgxlmrobbpvciemvcilgmdjcaxtgaulbjf-dot-offgl8876899977678.uk.r.appspot.com|Phishing.Database|Phishing
 u|kgtgxlmrobbpvciemvcilgmdjcaxtgaulbjf.offgl8876899977678.uk.r.appspot.com|Phishing.Database|Phishing
 u|kgti.co.kr|Phishing.Database|Phishing
-u|kgtujw.com|OpenPhish|Phishing
 u|kgursel.cursorltd.com|Phishing.Database|Phishing
 u|kgushduzfw.temp.swtest.ru|Phishing.Database|Phishing
 u|kgutjgdjdmlthice-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
@@ -256649,7 +256677,6 @@ u|kk04325.com|Phishing.Database|Phishing
 u|kk1793.com|Phishing.Database|Phishing
 u|kk1k-casefb421118.vercel.app|Phishing.Database|Phishing
 u|kk2zw.lahoudproductions.com|Phishing.Database|Phishing
-u|kk365756.com|OpenPhish|Phishing
 u|kk3a6g5d.xyz|Phishing.Database|Phishing
 u|kk60.cc|Phishing.Database|Phishing
 u|kk7003.com|Phishing.Database|Phishing
@@ -258278,7 +258305,6 @@ u|koyjyc9q.kokoo8899.com|Phishing.Database|Phishing
 u|koynikgvbxpgdvkn-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|koyoi.mujxk.com|Phishing.Database|Phishing
 u|koyok.pages.dev|Phishing.Database|Phishing
-u|koyup-c5a-jyne-ah2aq-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|koyxmr.com|Phishing.Database|Phishing
 u|kozaaz.beget.tech|Phishing.Database|Phishing
 u|kozakirtasiye.net|Phishing.Database|Phishing
@@ -258955,6 +258981,7 @@ u|krimmalam.000webhostapp.com|Phishing.Database|Phishing
 u|krimoni.com|Phishing.Database|Phishing
 u|krimshdgs-76787.firebaseapp.com|Phishing.Database|Phishing
 u|krimshdgs-76787.web.app|Phishing.Database|Phishing
+u|krin-fasp-tylo-362-glim-sprakel-vorn-908.pages.dev|OpenPhish|Phishing
 u|krin-meta-flop-biz.pages.dev|Phishing.Database|Phishing
 u|krin-meta-mulp-biz.pages.dev|Phishing.Database|Phishing
 u|krip-meta-glim-biz.pages.dev|Phishing.Database|Phishing
@@ -259023,6 +259050,7 @@ u|kritieducation.co.in|Phishing.Database|Phishing
 u|kriv-meta.pages.dev|Phishing.Database|Phishing
 u|krix-meta-lom-biz.pages.dev|Phishing.Database|Phishing
 u|krix-meta-lom.pages.dev|Phishing.Database|Phishing
+u|kriz-flim-spad-801-zrat-plinter-znob-594.pages.dev|OpenPhish|Phishing
 u|krj22y.webwave.dev|Phishing.Database|Phishing
 u|krjoias.com.br|Phishing.Database|Phishing
 u|krjphfnxgctql.ink|Phishing.Database|Phishing
@@ -263616,7 +263644,6 @@ u|ldzys0.cn|Phishing.Database|Phishing
 u|le-chat-libre.com|Phishing.Database|Phishing
 u|le-dg-er-wall3.netlify.app|Phishing.Database|Phishing
 u|le-diablotin-rouen.com|Phishing.Database|Phishing
-u|le-ger-live-desktop.pages.dev|OpenPhish|Phishing
 u|le-leng.github.io|Phishing.Database|Phishing
 u|le-site-web-de-33757130733.yolasite.com|Phishing.Database|Phishing
 u|le-site-web-de-assistance-orange.yolasite.com|Phishing.Database|Phishing
@@ -264088,7 +264115,6 @@ u|learningsure.org.uk|Phishing.Database|Phishing
 u|learningtlm.com|Phishing.Database|Phishing
 u|learningville.eu|Phishing.Database|Phishing
 u|learnio-trezbride.webflow.io|Phishing.Database|Phishing
-u|learnledgr-io-live.pages.dev|OpenPhish|Phishing
 u|learnlive-ledgr.pages.dev|Phishing.Database|Phishing
 u|learnmantterchoner.live|Phishing.Database|Phishing
 u|learnn-m-start--ledger-auth.webflow.io|Phishing.Database|Phishing
@@ -264246,7 +264272,6 @@ u|led-gdf-ret2.netlify.app|Phishing.Database|Phishing
 u|led-gdf-ret3.netlify.app|Phishing.Database|Phishing
 u|led-ger-live.netlify.app|Phishing.Database|Phishing
 u|led-ger.gr.com|Phishing.Database|Phishing
-u|led-gerlive-deskt.pages.dev|OpenPhish|Phishing
 u|led-net1-9cjf.vercel.app|Phishing.Database|Phishing
 u|led-net1-aa9u.vercel.app|Phishing.Database|Phishing
 u|led-ogledala.com|Phishing.Database|Phishing
@@ -264301,7 +264326,6 @@ u|ledgaer-live-wallett.webflow.io|Phishing.Database|Phishing
 u|ledgaer-livve-app.webflow.io|Phishing.Database|Phishing
 u|ledgaer-llive-download.webflow.io|Phishing.Database|Phishing
 u|ledgair-comstart.webflow.io|Phishing.Database|Phishing
-u|ledgar-desktop-info.pages.dev|OpenPhish|Phishing
 u|ledgar-wallet-live.pages.dev|Phishing.Database|Phishing
 u|ledgar-wallet-login.pages.dev|Phishing.Database|Phishing
 u|ledgarlive.dydx-logi.com|Phishing.Database|Phishing
@@ -264472,6 +264496,7 @@ u|ledger-lieve.webflow.io|Phishing.Database|Phishing
 u|ledger-liive-wallet.pages.dev|Phishing.Database|Phishing
 u|ledger-liivee-wallett.pages.dev|Phishing.Database|Phishing
 u|ledger-liivewallet-us.webflow.io|Phishing.Database|Phishing
+u|ledger-liv--desktop.pages.dev|OpenPhish|Phishing
 u|ledger-liv--loggin.webflow.io|Phishing.Database|Phishing
 u|ledger-live--downolds.webflow.io|Phishing.Database|Phishing
 u|ledger-live-acces.pages.dev|Phishing.Database|Phishing
@@ -264495,7 +264520,6 @@ u|ledger-live-download--s.webflow.io|Phishing.Database|Phishing
 u|ledger-live-download-conect-web.typedream.app|Phishing.Database|Phishing
 u|ledger-live-download-portal.webflow.io|Phishing.Database|Phishing
 u|ledger-live-downloadd.webflow.io|Phishing.Database|Phishing
-u|ledger-live-downloads.pages.dev|OpenPhish|Phishing
 u|ledger-live-en.net|Phishing.Database|Phishing
 u|ledger-live-en.org|Phishing.Database|Phishing
 u|ledger-live-eng.org|Phishing.Database|Phishing
@@ -264514,6 +264538,7 @@ u|ledger-live-logn-sso.pages.dev|Phishing.Database|Phishing
 u|ledger-live-my.com|Phishing.Database|Phishing
 u|ledger-live-stert.webflow.io|Phishing.Database|Phishing
 u|ledger-live-swap.teachable.com|Phishing.Database|Phishing
+u|ledger-live-us-desktop.pages.dev|OpenPhish|Phishing
 u|ledger-live-uscdn.teachable.com|Phishing.Database|Phishing
 u|ledger-live-walle.webflow.io|Phishing.Database|Phishing
 u|ledger-live-wallet-faq.webflow.io|Phishing.Database|Phishing
@@ -264865,10 +264890,10 @@ u|ledgerrr-download-wallet.webflow.io|Phishing.Database|Phishing
 u|ledgerrr-live-download.pages.dev|Phishing.Database|Phishing
 u|ledgerrr-live-logiiin.pages.dev|Phishing.Database|Phishing
 u|ledgerrr-live-web-wallet.webflow.io|Phishing.Database|Phishing
-u|ledgers-life.pages.dev|OpenPhish|Phishing
 u|ledgers-live-desktap.pages.dev|Phishing.Database|Phishing
 u|ledgers-start-ioo.webflow.io|Phishing.Database|Phishing
 u|ledgers-strts-coms.pages.dev|Phishing.Database|Phishing
+u|ledgers-u-liv.wasmer.app|OpenPhish|Phishing
 u|ledgers.at|Phishing.Database|Phishing
 u|ledgersafetyplatform.com|Phishing.Database|Phishing
 u|ledgersafetysystem.com|Phishing.Database|Phishing
@@ -264944,7 +264969,6 @@ u|ledgierr-live-wallet.webflow.io|Phishing.Database|Phishing
 u|ledgiest-zone.000webhostapp.com|Phishing.Database|Phishing
 u|ledgiirlivawallt.gitbook.io|Phishing.Database|Phishing
 u|ledgioui-walet.webflow.io|Phishing.Database|Phishing
-u|ledgjr-live.pages.dev|OpenPhish|Phishing
 u|ledgliesv-waiullet.webflow.io|Phishing.Database|Phishing
 u|ledglivadesktop.webflow.io|Phishing.Database|Phishing
 u|ledglive---app.webflow.io|Phishing.Database|Phishing
@@ -265546,6 +265570,7 @@ u|les-fonctionnalites.go.yj.fr|Phishing.Database|Phishing
 u|les-inds.weebly.com|Phishing.Database|Phishing
 u|les-sans-calottes.fr|Phishing.Database|Phishing
 u|les6886.wixsite.com|Phishing.Database|Phishing
+u|les9k-nwsiz-non-atagm-j8b.pages.dev|OpenPhish|Phishing
 u|lesadh.com|Phishing.Database|Phishing
 u|lesagitesdubiocal.fr|Phishing.Database|Phishing
 u|lesamend2024.blogspot.com|Phishing.Database|Phishing
@@ -265796,7 +265821,6 @@ u|leyuvip09.com|Phishing.Database|Phishing
 u|leywino.github.io|Phishing.Database|Phishing
 u|leyzmamcri.duckdns.org|Phishing.Database|Phishing
 u|lezhuai.top|Phishing.Database|Phishing
-u|lezjr-live.pages.dev|OpenPhish|Phishing
 u|lezter11.github.io|Phishing.Database|Phishing
 u|lf4na-yyaaa-aaaad-qd3fq-cai.raw.ic0.app|Phishing.Database|Phishing
 u|lf63p.galantis.xyz|Phishing.Database|Phishing
@@ -266060,7 +266084,6 @@ u|lhzrswfxjguhffknabmiixejyohczfogrxnw-dot-glenxpecial3009493.ey.r.appspot.com|P
 u|lhzvsdceypkhjpsr.53244ds.xyz|Phishing.Database|Phishing
 u|li-67.finandblock.com|Phishing.Database|Phishing
 u|li-927.pages.dev|Phishing.Database|Phishing
-u|li-ive-ledgr.pages.dev|OpenPhish|Phishing
 u|li-nxzv-z.herokuapp.com|Phishing.Database|Phishing
 u|li-op.com|Phishing.Database|Phishing
 u|li-yen.koh.purocueroecuador.com|Phishing.Database|Phishing
@@ -268161,7 +268184,6 @@ u|live-vvallet-oi.top|Phishing.Database|Phishing
 u|live-wall--m-ledger--auth---cdn.webflow.io|Phishing.Database|Phishing
 u|live-wallet-ledgere.webflow.io|Phishing.Database|Phishing
 u|live-wallets-connect.com|Phishing.Database|Phishing
-u|live-wemustcollectdemwith-onlline.vercel.app|OpenPhish|Phishing
 u|live.030.liveblog365.com|Phishing.Database|Phishing
 u|live.att.net.pg.p3c.xyz|Phishing.Database|Phishing
 u|live.com.se|Phishing.Database|Phishing
@@ -268684,7 +268706,6 @@ u|lko.cmd.mybluehost.me|Phishing.Database|Phishing
 u|lko888kh.org|Phishing.Database|Phishing
 u|lkoou-71.gq|Phishing.Database|Phishing
 u|lkop-0934-55287.web.app|Phishing.Database|Phishing
-u|lkpgc0d5hq-41efc45a48.vercel.app|OpenPhish|Phishing
 u|lkpiawpwofccnstf-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|lkpixikykezivuzklfsgtluvhsfrrphgthsy-dot-cedar-code-289917.nn.r.appspot.com|Phishing.Database|Phishing
 u|lkqbsyqdqf.duckdns.org|Phishing.Database|Phishing
@@ -270584,7 +270605,6 @@ u|login-exodius.webflow.io|Phishing.Database|Phishing
 u|login-f4728576-ionos-co-uk.jcmemoryscan.com|Phishing.Database|Phishing
 u|login-f8a17fd5-ionos-co-uk.jcmemoryscan.com|Phishing.Database|Phishing
 u|login-f8netflix.serveftp.com|Phishing.Database|Phishing
-u|login-facebook-clone.vercel.app|OpenPhish|Phishing
 u|login-facebook-customer-security-support-ticket-number-19544.regnumresource.com|Phishing.Database|Phishing
 u|login-facebook-customer-security-support-ticket-number-3464.toptrendbusiness.org|Phishing.Database|Phishing
 u|login-facebook-fad55.web.app|Phishing.Database|Phishing
@@ -271908,7 +271928,6 @@ u|loginsecurity-365online.com|Phishing.Database|Phishing
 u|loginsecurity.tonohost.com|Phishing.Database|Phishing
 u|loginservice.app|Phishing.Database|Phishing
 u|loginservice.cloud|Phishing.Database|Phishing
-u|loginservice.cloud/e.runs2ligbafqcahwrw?/g/personal/lhamerly_kentwa_gov/etvmue2hplppgskr0rfhg0sbk3kf43gwtcne26u0vw301g?e=rf2mfd|OpenPhish|Phishing
 u|loginservicessec.hostfree.pw|Phishing.Database|Phishing
 u|loginservicewebmailservauthentique.moonfruit.com|Phishing.Database|Phishing
 u|loginsforcusto.wpenginepowered.com|Phishing.Database|Phishing
@@ -274449,6 +274468,7 @@ u|lvdpmgkbzdadjgwj-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|lvdyhuynigapoyjhvoalyfotxgaayenqufww-dot-solar-vertex-285913.rj.r.appspot.com|Phishing.Database|Phishing
 u|lve1131.wixstudio.com|Phishing.Database|Phishing
 u|lve1131.wixstudio.io|Phishing.Database|Phishing
+u|lversan.github.io/facebookdupetask|OpenPhish|Phishing
 u|lvf.gwq.mybluehost.me|Phishing.Database|Phishing
 u|lvfaoovwsripenyj-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|lvfthiwwdg.duckdns.org|Phishing.Database|Phishing
@@ -274483,7 +274503,6 @@ u|lvps46-163-113-242.dedicated.hosteurope.de|Phishing.Database|Phishing
 u|lvpzw.top|Phishing.Database|Phishing
 u|lvq.nuchier.xyz|Phishing.Database|Phishing
 u|lvqhuydwcpzu.top|Phishing.Database|Phishing
-u|lvqng-0ws-mps3-7djz0-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|lvqxvn.dascoina.com|Phishing.Database|Phishing
 u|lvrh-wahtsapp.com|Phishing.Database|Phishing
 u|lvrtual-processdesbl.com|Phishing.Database|Phishing
@@ -275094,6 +275113,8 @@ u|m.3656.at|Phishing.Database|Phishing
 u|m.3656752.com|Phishing.Database|Phishing
 u|m.3659193.com|Phishing.Database|Phishing
 u|m.36595.at|Phishing.Database|Phishing
+u|m.365bet511.com/eng/home/index|OpenPhish|Phishing
+u|m.365bet944.com/eng/home/index|OpenPhish|Phishing
 u|m.3lo.com.au|Phishing.Database|Phishing
 u|m.487365.com|Phishing.Database|Phishing
 u|m.5115i5115.com|Phishing.Database|Phishing
@@ -276325,6 +276346,7 @@ u|m3poseidon.com|Phishing.Database|Phishing
 u|m3pvzra.duckdns.org|Phishing.Database|Phishing
 u|m3rc4dolibre.prohosts.org|Phishing.Database|Phishing
 u|m3ssagerie.weebly.com|Phishing.Database|Phishing
+u|m3tamsklognx.gitbook.io/us|OpenPhish|Phishing
 u|m3tazhijaze.github.io|Phishing.Database|Phishing
 u|m3tb.netlify.app|Phishing.Database|Phishing
 u|m3tiib.com|Phishing.Database|Phishing
@@ -277184,7 +277206,6 @@ u|magazineluizaecomerce.com|Phishing.Database|Phishing
 u|magazineluizahome.com|Phishing.Database|Phishing
 u|magazineluizaliquida.com|Phishing.Database|Phishing
 u|magazineluizalu2020.000webhostapp.com|Phishing.Database|Phishing
-u|magazineluizaofcc.netlify.app|OpenPhish|Phishing
 u|magazineluizaoferta.ddns.net|Phishing.Database|Phishing
 u|magazineluizaofertasbrasil.000webhostapp.com|Phishing.Database|Phishing
 u|magazineluizaoficial.com|Phishing.Database|Phishing
@@ -282880,6 +282901,7 @@ u|malaysia.answers.quantarchive.com|Phishing.Database|Phishing
 u|malaysia.ip1-kd.com|Phishing.Database|Phishing
 u|malaysia17-lucah.vvip1.my.id|Phishing.Database|Phishing
 u|malaysia6.viral-telegram.com|Phishing.Database|Phishing
+u|malaysiabiz.cyou|OpenPhish|Phishing
 u|malaysiadfh.pages.net.br|Phishing.Database|Phishing
 u|malaysiahot69.com|Phishing.Database|Phishing
 u|malaysianindian.com|Phishing.Database|Phishing
@@ -283227,8 +283249,6 @@ u|manage.apple.com-en.infoq39783restord.cerbinju.info|Phishing.Database|Phishing
 u|manage.apple.inc-auth.system.troubleside.com|Phishing.Database|Phishing
 u|manage.argusto.de|Phishing.Database|Phishing
 u|manage.authentic-appid.security.page.ddsdhgun.com|Phishing.Database|Phishing
-u|manage.casamarmol.com.ve/portal/users|OpenPhish|Phishing
-u|manage.casamarmol.com.ve/portal/users/main/sub.php|OpenPhish|Phishing
 u|manage.costume.kgv-lutherlinde.de|Phishing.Database|Phishing
 u|manage.data.account.locked.adminsqpllnvkdas.com|Phishing.Database|Phishing
 u|manage.famiinregic7.my.id|Phishing.Database|Phishing
@@ -285066,6 +285086,7 @@ u|marywilliamsdesigns.com|Phishing.Database|Phishing
 u|marywisdomharris.com|Phishing.Database|Phishing
 u|maryzthvjfivnuzbxrkenuhddd-dot-gle39404049.rj.r.appspot.com|Phishing.Database|Phishing
 u|marzanlogi.com|Phishing.Database|Phishing
+u|marzuni-mpt-felquro-c3d9me82.pages.dev|OpenPhish|Phishing
 u|mas-ec.com|Phishing.Database|Phishing
 u|mas-ericsson-regulation-rental.trycloudflare.com|Phishing.Database|Phishing
 u|mas-training.co.uk|Phishing.Database|Phishing
@@ -286435,7 +286456,6 @@ u|mc.knowledgeart.org|Phishing.Database|Phishing
 u|mc.yandex.ru|Phishing.Database|Phishing
 u|mc2-ten.vercel.app|Phishing.Database|Phishing
 u|mc2casgma3.temp.swtest.ru|Phishing.Database|Phishing
-u|mc2w-ys6-v3fh-tn7q-17u7gv.pages.dev|OpenPhish|Phishing
 u|mc4-two.vercel.app|Phishing.Database|Phishing
 u|mc69tb.glitch.me|Phishing.Database|Phishing
 u|mca88.satriakaryatinata.co.id|Phishing.Database|Phishing
@@ -287548,6 +287568,7 @@ u|megtamaskwallet.webflow.io|Phishing.Database|Phishing
 u|meguxuy.icu|Phishing.Database|Phishing
 u|mehaksethia.github.io|Phishing.Database|Phishing
 u|mehatrading.com|Phishing.Database|Phishing
+u|mehdi-bellache.github.io/javascript-amazon-project|OpenPhish|Phishing
 u|mehdi-vpn-config.mortezaakbaridp.workers.dev|Phishing.Database|Phishing
 u|mehdilam.000webhostapp.com|Phishing.Database|Phishing
 u|mehdipoormasih555.merel58662.workers.dev|Phishing.Database|Phishing
@@ -287647,7 +287668,6 @@ u|meinedk.cleverapps.io|Phishing.Database|Phishing
 u|meinepaket-ch.sytes.net|Phishing.Database|Phishing
 u|meineswisscom.bergstresserrealestate.com|Phishing.Database|Phishing
 u|meinfejla.com|Phishing.Database|Phishing
-u|meinhostingfa14r-qqhgpqtwdl.live-website.com/esat|OpenPhish|Phishing
 u|meinknt.ddns.net|Phishing.Database|Phishing
 u|meinkonto-telekom-f2u.pages.dev|Phishing.Database|Phishing
 u|meinkonto-telekom-sicherheist.pages.dev|Phishing.Database|Phishing
@@ -295357,7 +295377,6 @@ u|mfacebook.vn|Phishing.Database|Phishing
 u|mfacebookcom.vercel.app|Phishing.Database|Phishing
 u|mfacebookmobilrs.github.io|Phishing.Database|Phishing
 u|mfacebookrowaansheriff.com|Phishing.Database|Phishing
-u|mfacebooks.vn/pzb207jpnxk?gh|OpenPhish|Phishing
 u|mfacebookus-0010263724.mercamoron.com|Phishing.Database|Phishing
 u|mfacebookus-0489651855.promaltrasas.com|Phishing.Database|Phishing
 u|mfacebookus-0524653490.mercamoron.com|Phishing.Database|Phishing
@@ -295694,7 +295713,6 @@ u|mhh7.icu|Phishing.Database|Phishing
 u|mhh7.xyz|Phishing.Database|Phishing
 u|mhhhqqqrtjrsoykg-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|mhhlis.ml|Phishing.Database|Phishing
-u|mhhwrw.com|OpenPhish|Phishing
 u|mhi4usvt8rimjro.e8273.pro|Phishing.Database|Phishing
 u|mhinvite.cloudns.ch|Phishing.Database|Phishing
 u|mhjdhvzj.pqnsatfas.net|Phishing.Database|Phishing
@@ -296790,6 +296808,7 @@ u|miexc.com|Phishing.Database|Phishing
 u|mifaclku-dlsteswlta.trevuphubadr.com|Phishing.Database|Phishing
 u|mifallenfootfloat.com|Phishing.Database|Phishing
 u|mificohsasegurity.atwebpages.com|Phishing.Database|Phishing
+u|mifidelidad.help/bac.pa|OpenPhish|Phishing
 u|mifiladelfia.org|Phishing.Database|Phishing
 u|mifoatt-104021100272.weeblysite.com|Phishing.Database|Phishing
 u|mifqv.blogspot.sn|Phishing.Database|Phishing
@@ -298469,7 +298488,6 @@ u|mkhfvsebak.duckdns.org|Phishing.Database|Phishing
 u|mkhhnf.dns.army|Phishing.Database|Phishing
 u|mkhi.stxbamt.cn|Phishing.Database|Phishing
 u|mkhji4.gq|Phishing.Database|Phishing
-u|mkhl.gdmaoka.com|OpenPhish|Phishing
 u|mkhrwxnhflrsdnvjnblnwjhpko-dot-gleowayel400503.uc.r.appspot.com|Phishing.Database|Phishing
 u|mki.d6mkdjroey9wg.amplifyapp.com|Phishing.Database|Phishing
 u|mkicambs.wixsite.com.usrfiles.com|Phishing.Database|Phishing
@@ -298911,6 +298929,7 @@ u|mlspsdlgsglsgspgslgm.com|Phishing.Database|Phishing
 u|mlsqklqkl.vercel.app|Phishing.Database|Phishing
 u|mlstngtpzhbvixkcibgtyhekae-dot-gle39404049.rj.r.appspot.com|Phishing.Database|Phishing
 u|mltdolnglexkrnknkcndcvwfepuxwetirghk-dot-offglen.uk.r.appspot.com|Phishing.Database|Phishing
+u|mltgr-wyt-r7ni-x1woz-09-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|mltilb.online|Phishing.Database|Phishing
 u|mltkhom2x.weebly.com|Phishing.Database|Phishing
 u|mluizaoferta.online|Phishing.Database|Phishing
@@ -299497,7 +299516,6 @@ u|mnxcb.tk|Phishing.Database|Phishing
 u|mnxicvhewkjd54ds.buzz|Phishing.Database|Phishing
 u|mnxmnxmxvana090.buzz|Phishing.Database|Phishing
 u|mnxvntulwedluxwmmllllaiqpf-dot-gleowayel400503.uc.r.appspot.com|Phishing.Database|Phishing
-u|mnyet-omr-tsye-kq0ch-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|mnygv.blogspot.fi|Phishing.Database|Phishing
 u|mnyintel.in|Phishing.Database|Phishing
 u|mnynibxsoykuuvmitynaqjwutm-dot-gleowayel400503.uc.r.appspot.com|Phishing.Database|Phishing
@@ -301019,6 +301037,7 @@ u|monfrn.com|Phishing.Database|Phishing
 u|mongchonh.domainhieueuau.net|Phishing.Database|Phishing
 u|monggopinarak.vercel.app|Phishing.Database|Phishing
 u|monggoygmaulihatbokep2020.000webhostapp.com|Phishing.Database|Phishing
+u|mongo-db-amazon-clone-w1eu.vercel.app|OpenPhish|Phishing
 u|mongolaeri.temp.swtest.ru|Phishing.Database|Phishing
 u|mongolia-gold.com|Phishing.Database|Phishing
 u|mongomarket.com|Phishing.Database|Phishing
@@ -301381,7 +301400,6 @@ u|moqsocial.com|Phishing.Database|Phishing
 u|moqwujv837jdcew.biz.id|Phishing.Database|Phishing
 u|mor-globa.ga|Phishing.Database|Phishing
 u|mor1.s3.eu-west-3.amazonaws.com|Phishing.Database|Phishing
-u|mor5y.github.io|OpenPhish|Phishing
 u|moradascorretoresdeimoveis.com.br|Phishing.Database|Phishing
 u|moraesconcreto.com|Phishing.Database|Phishing
 u|moralbestplan--yosh89.repl.co|Phishing.Database|Phishing
@@ -301528,6 +301546,7 @@ u|moru55.com|Phishing.Database|Phishing
 u|moruqhwdvicx.servieventos.com.ec|Phishing.Database|Phishing
 u|morus.uz|Phishing.Database|Phishing
 u|morvariiiiiid.maxxis-edison.workers.dev|Phishing.Database|Phishing
+u|morvaxim-biz-lomqureta-y2m5pz43.pages.dev|OpenPhish|Phishing
 u|morvik-meta-biz-plevra.pages.dev|Phishing.Database|Phishing
 u|morytortas.com|Phishing.Database|Phishing
 u|morzezagadek.pl|Phishing.Database|Phishing
@@ -302299,6 +302318,7 @@ u|mrufimxibfshnaft-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|mrugjal.vercel.app|Phishing.Database|Phishing
 u|mruitmasslogan.webflow.io|Phishing.Database|Phishing
 u|mruitomasslogan.webflow.io|Phishing.Database|Phishing
+u|mrunalpatil16.github.io/amazon-clone|OpenPhish|Phishing
 u|mrunaltaware.github.io|Phishing.Database|Phishing
 u|mrurz10.github.io|Phishing.Database|Phishing
 u|mrutamaskwallt.webflow.io|Phishing.Database|Phishing
@@ -303550,11 +303570,6 @@ u|mtveriy.duckdns.org|Phishing.Database|Phishing
 u|mtvernongroup.com|Phishing.Database|Phishing
 u|mtvev.ddns.net|Phishing.Database|Phishing
 u|mtvfy001.com|Phishing.Database|Phishing
-u|mtvlj28xqw-qnkxzfyn-5i1k9d-mtv473.pages.dev|OpenPhish|Phishing
-u|mtvlj68kdo-qnkxz728-4i9j2g-mtv315.pages.dev|OpenPhish|Phishing
-u|mtvlj75nwr-hwcpslpw-6i1g9k-mtv283.pages.dev|OpenPhish|Phishing
-u|mtvlj76mnp-qnkxzplx-4k8j2d-mtv591.pages.dev|OpenPhish|Phishing
-u|mtvlj89xdo-qnkxzfyn-4j1k6g-mtv352.pages.dev|OpenPhish|Phishing
 u|mtvodemesi.com|Phishing.Database|Phishing
 u|mtw.ritolo.com|Phishing.Database|Phishing
 u|mtxaccshomecnfrm0log.github.io|Phishing.Database|Phishing
@@ -303726,7 +303741,6 @@ u|muhammadahmedd703.github.io|Phishing.Database|Phishing
 u|muhammadanas1112.github.io|Phishing.Database|Phishing
 u|muhammadaripratama.duckdns.org|Phishing.Database|Phishing
 u|muhammadasadmajeed.github.io|Phishing.Database|Phishing
-u|muhammadazaanabbasi72-netizen.github.io/testing|OpenPhish|Phishing
 u|muhammadbinirfan.github.io|Phishing.Database|Phishing
 u|muhammadhamza524727.github.io|Phishing.Database|Phishing
 u|muhammadhashir786.github.io|Phishing.Database|Phishing
@@ -304018,6 +304032,7 @@ u|multisystemcoinwallet.pages.dev|Phishing.Database|Phishing
 u|multitamp.pages.dev|Phishing.Database|Phishing
 u|multitaskforce.ddns.net|Phishing.Database|Phishing
 u|multitechinduaq.com|Phishing.Database|Phishing
+u|multitenant-church-ledger.pages.dev|OpenPhish|Phishing
 u|multitrustfixed.pages.dev|Phishing.Database|Phishing
 u|multiutilizing.pages.dev|Phishing.Database|Phishing
 u|multivariate-tar.000webhostapp.com|Phishing.Database|Phishing
@@ -305278,7 +305293,6 @@ u|my-kyc.info|Phishing.Database|Phishing
 u|my-lamp.biz.id|Phishing.Database|Phishing
 u|my-ldevice-status.live|Phishing.Database|Phishing
 u|my-ledger--start.teachable.com|Phishing.Database|Phishing
-u|my-ledger-live.pages.dev|OpenPhish|Phishing
 u|my-ledger.en-wallet.com|Phishing.Database|Phishing
 u|my-ledger.live|Phishing.Database|Phishing
 u|my-ledgerlive-log.webflow.io|Phishing.Database|Phishing
@@ -306332,7 +306346,6 @@ u|mydpd-arrange.com|Phishing.Database|Phishing
 u|mydpd-track.com|Phishing.Database|Phishing
 u|mydpd.chabej.homes|Phishing.Database|Phishing
 u|mydpd.chaber.homes|Phishing.Database|Phishing
-u|mydpd.fsrsh.xyz/track-ch|OpenPhish|Phishing
 u|mydpd.packeb.homes|Phishing.Database|Phishing
 u|mydpd.swissac.cfd|Phishing.Database|Phishing
 u|mydpd.swisscd.cfd|Phishing.Database|Phishing
@@ -306552,7 +306565,6 @@ u|mygcepxssssiilqp-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|mygemini.webflow.io|Phishing.Database|Phishing
 u|mygemini.work|Phishing.Database|Phishing
 u|mygeminii.webflow.io|Phishing.Database|Phishing
-u|mygeminiloignz.gitbook.io|OpenPhish|Phishing
 u|mygfnvcgtffyrozg-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|myggovids.github.io|Phishing.Database|Phishing
 u|myghsupport.weeblysite.com|Phishing.Database|Phishing
@@ -307199,7 +307211,6 @@ u|mynavy-aoauth-6b32.query12.workers.dev|Phishing.Database|Phishing
 u|mynavy-nfoauth-b8b0.query75.workers.dev|Phishing.Database|Phishing
 u|mynavy-src-resource.routin.workers.dev|Phishing.Database|Phishing
 u|myndaxlogans.webflow.io|Phishing.Database|Phishing
-u|myne-nine.vercel.app|OpenPhish|Phishing
 u|mynels.com|Phishing.Database|Phishing
 u|mynet-secure07.duckdns.org|Phishing.Database|Phishing
 u|mynetbank.application.online.snmarketingonline.com|Phishing.Database|Phishing
@@ -310670,7 +310681,6 @@ u|nervous-northcutt-dd2c97.netlify.app|Phishing.Database|Phishing
 u|nervous-proskuriakova.91-190-155-120.plesk.page|Phishing.Database|Phishing
 u|nervous-song.surge.sh|Phishing.Database|Phishing
 u|nervous-torvalds-1d5feb.netlify.app|Phishing.Database|Phishing
-u|nervqavi-mpt-fazruni-a7d3ka58.pages.dev|OpenPhish|Phishing
 u|nervsedetet.com|Phishing.Database|Phishing
 u|nes-capole.web.app|Phishing.Database|Phishing
 u|nes-linka.web.app|Phishing.Database|Phishing
@@ -311299,7 +311309,6 @@ u|netflix-clone-teal-phi.vercel.app|Phishing.Database|Phishing
 u|netflix-clone-teal-six.vercel.app|Phishing.Database|Phishing
 u|netflix-clone-telainicial.vercel.app|Phishing.Database|Phishing
 u|netflix-clone-ten-alpha.vercel.app|Phishing.Database|Phishing
-u|netflix-clone-ten-bice.vercel.app|OpenPhish|Phishing
 u|netflix-clone-theta-gold-69.vercel.app|Phishing.Database|Phishing
 u|netflix-clone-theta-inky.vercel.app|Phishing.Database|Phishing
 u|netflix-clone-three-alpha.vercel.app|Phishing.Database|Phishing
@@ -311873,7 +311882,6 @@ u|netflixcl-222dc.firebaseapp.com|Phishing.Database|Phishing
 u|netflixclon.vercel.app|Phishing.Database|Phishing
 u|netflixclone-ashy.vercel.app|Phishing.Database|Phishing
 u|netflixclone-beige-nine.vercel.app|Phishing.Database|Phishing
-u|netflixclone-drab.vercel.app|OpenPhish|Phishing
 u|netflixclone-frontend.vercel.app|Phishing.Database|Phishing
 u|netflixclone-git-main-alstonchan.vercel.app|Phishing.Database|Phishing
 u|netflixclone-git-master-allbertuu.vercel.app|Phishing.Database|Phishing
@@ -312396,6 +312404,7 @@ u|neulleurazena-4505.vercel.app|Phishing.Database|Phishing
 u|neumaticos-sava.info|Phishing.Database|Phishing
 u|neumondreme.web.app|Phishing.Database|Phishing
 u|neuqab.cn|Phishing.Database|Phishing
+u|neuricardo.click|OpenPhish|Phishing
 u|neurocirujanas.org|Phishing.Database|Phishing
 u|neurocoachingblueprint.com|Phishing.Database|Phishing
 u|neurofade.vercel.app|Phishing.Database|Phishing
@@ -313587,6 +313596,7 @@ u|newsbanglabd24.com|Phishing.Database|Phishing
 u|newsbrigade.com|Phishing.Database|Phishing
 u|newscandalxx2023.000webhostapp.com|Phishing.Database|Phishing
 u|newscaster.lk|Phishing.Database|Phishing
+u|newschicago.org/m/index.html|OpenPhish|Phishing
 u|newscnn.myshopify.com|Phishing.Database|Phishing
 u|newscw5v9vp.terbaru-xx-i.my.id|Phishing.Database|Phishing
 u|newsdanaaakagetidz.elephantnew.my.id|Phishing.Database|Phishing
@@ -313720,6 +313730,7 @@ u|newstupdateventpubg.mrslove.com|Phishing.Database|Phishing
 u|newsulaiman.angelfire.com|Phishing.Database|Phishing
 u|newsun-fitness.com|Phishing.Database|Phishing
 u|newsup78.in|Phishing.Database|Phishing
+u|newsupdatedmicrosof.vercel.app|OpenPhish|Phishing
 u|newsvdhd.hs-sites.com|Phishing.Database|Phishing
 u|newsw-coinbase.onthewifi.com|Phishing.Database|Phishing
 u|newswax.us|Phishing.Database|Phishing
@@ -314051,6 +314062,7 @@ u|nf6.online.nrt3.live|Phishing.Database|Phishing
 u|nf6szpb2l1.2301.gencmert.com|Phishing.Database|Phishing
 u|nf722.github.io|Phishing.Database|Phishing
 u|nf7mnemv85qc7k3.duckdns.org|Phishing.Database|Phishing
+u|nfacebook.vn/timbannaygap05112025us?wx|OpenPhish|Phishing
 u|nfanoefwep.tekot88473.workers.dev|Phishing.Database|Phishing
 u|nfaruebezjvcshuy-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|nfbe.jkub.com|Phishing.Database|Phishing
@@ -315245,6 +315257,7 @@ u|nilpoi.co.uk|Phishing.Database|Phishing
 u|nilqmtl.tokyo|Phishing.Database|Phishing
 u|nilsenconstruction.com|Phishing.Database|Phishing
 u|nilsesloft.com|Phishing.Database|Phishing
+u|nilsondebona1790684375357.2090313.meusitehostgator.com.br|OpenPhish|Phishing
 u|nilsonszylit.com.br|Phishing.Database|Phishing
 u|niltekbilisim.com|Phishing.Database|Phishing
 u|nilukoufrauloi-9127.vercel.app|Phishing.Database|Phishing
@@ -316856,6 +316869,7 @@ u|norwegian.myassignmentpro.com|Phishing.Database|Phishing
 u|norwerden.live-website.com|Phishing.Database|Phishing
 u|noryn-grid.pages.dev|Phishing.Database|Phishing
 u|noryn-hold.pages.dev|Phishing.Database|Phishing
+u|norzavi-mpt-qelquro-a8h4fe37.pages.dev|OpenPhish|Phishing
 u|nosawe.icu|Phishing.Database|Phishing
 u|nosclientcerticodpluscertificat.duckdns.org|Phishing.Database|Phishing
 u|noscompteslabanqdsp.is-certified.com|Phishing.Database|Phishing
@@ -318332,7 +318346,6 @@ u|nu-parcerias.onrender.com|Phishing.Database|Phishing
 u|nu-pro.co.za|Phishing.Database|Phishing
 u|nu-promo.com|Phishing.Database|Phishing
 u|nu-rabo.online|Phishing.Database|Phishing
-u|nu-ten-51.vercel.app|OpenPhish|Phishing
 u|nu.cejdqn2.sa.com|Phishing.Database|Phishing
 u|nu9y5441.firebaseapp.com|Phishing.Database|Phishing
 u|nuadvisory.id|Phishing.Database|Phishing
@@ -321575,7 +321588,6 @@ u|ogbsj.top|Phishing.Database|Phishing
 u|ogden-cronin.com|Phishing.Database|Phishing
 u|ogdenbeauty.com|Phishing.Database|Phishing
 u|ogdeno.cf|Phishing.Database|Phishing
-u|ogdtlo.com|OpenPhish|Phishing
 u|oge-qvd.run-eu-central1.goorm.io|Phishing.Database|Phishing
 u|oge.duckdns.org|Phishing.Database|Phishing
 u|oge1.ga|Phishing.Database|Phishing
@@ -322646,6 +322658,7 @@ u|omilqencdrdgewkb-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|ominous-minutes.000webhostapp.com|Phishing.Database|Phishing
 u|ominous-radio.000webhostapp.com|Phishing.Database|Phishing
 u|omiob.tk|Phishing.Database|Phishing
+u|omis-gules.vercel.app|OpenPhish|Phishing
 u|omisemisemi537s83hs7f26sg26s82jsd83ns6dtshjshshg3u8389fkj4.pages.dev|Phishing.Database|Phishing
 u|omit-blr.pages.dev|Phishing.Database|Phishing
 u|omiw.top|Phishing.Database|Phishing
@@ -324683,7 +324696,6 @@ u|open.clinicadentalplan.com|Phishing.Database|Phishing
 u|open.ddnsking.com|Phishing.Database|Phishing
 u|open.kavisan.net|Phishing.Database|Phishing
 u|open.myowabox.xyz|Phishing.Database|Phishing
-u|open.spotify.mint.89237892.com|OpenPhish|Phishing
 u|open1and1.000webhostapp.com|Phishing.Database|Phishing
 u|open24-alerts.com|Phishing.Database|Phishing
 u|open24.auth-id30.com|Phishing.Database|Phishing
@@ -327840,7 +327852,6 @@ u|owae.weebly.com|Phishing.Database|Phishing
 u|owaekivmditxbazw-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|owafmail.000webhostapp.com|Phishing.Database|Phishing
 u|owagfhwgtmzmiutu-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
-u|owais-gamer.github.io/netflix_clone|OpenPhish|Phishing
 u|owaliveoutlook.myportfolio.com|Phishing.Database|Phishing
 u|owalocgin.d6iilvvzv4kks.amplifyapp.com|Phishing.Database|Phishing
 u|owalook.web.app|Phishing.Database|Phishing
@@ -328477,6 +328488,7 @@ u|p4g3serticerpages4safetyupdatessafety.co.vu|Phishing.Database|Phishing
 u|p4ge5recoverynotifications5ystem.co.vu|Phishing.Database|Phishing
 u|p4gecmuntytermssupportid151698live.co.vu|Phishing.Database|Phishing
 u|p4geseprot2023s12rvic36s4curity.com|Phishing.Database|Phishing
+u|p4o16-cw6-1xjo-s5hf4-09-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|p4tbomz3ts8y6clu98q.hnioplmd.duckdns.org|Phishing.Database|Phishing
 u|p4tkbbl.kemdikbud.go.id|Phishing.Database|Phishing
 u|p4ylsh.top|Phishing.Database|Phishing
@@ -328485,6 +328497,10 @@ u|p54x.xyz|Phishing.Database|Phishing
 u|p551001.com|Phishing.Database|Phishing
 u|p551006.cc|Phishing.Database|Phishing
 u|p551006.com|Phishing.Database|Phishing
+u|p56e.top/downapp/r/p56e.top|OpenPhish|Phishing
+u|p56e.top/downapp/r/p56e.top/r/p56e.top|OpenPhish|Phishing
+u|p56e.top/downapp/r/p56e.top/r/p56e.topr/p56e.top|OpenPhish|Phishing
+u|p56e.top/downapp/r/p56e.topr/p56e.top|OpenPhish|Phishing
 u|p5dpbk.fat-fly.com|Phishing.Database|Phishing
 u|p5hqyung.firebaseapp.com|Phishing.Database|Phishing
 u|p5imy-nqaaa-aaaad-qc6za-cai.raw.ic0.app|Phishing.Database|Phishing
@@ -328553,7 +328569,6 @@ u|p998m.xbadiaeno.es|Phishing.Database|Phishing
 u|p9g.793.myftpupload.com|Phishing.Database|Phishing
 u|p9ihj.shop|Phishing.Database|Phishing
 u|p9ps11.com|Phishing.Database|Phishing
-u|p9wnb-o2o-wrw3-rwxjd-08-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|p9yp8hg.gdkc9q.cn|Phishing.Database|Phishing
 u|pa-asociados.com|Phishing.Database|Phishing
 u|pa-ncaak-swa-b.pages.dev|Phishing.Database|Phishing
@@ -332718,8 +332733,6 @@ u|paypal-verify-configuration-2f5f6e-409d-6c4901a5264-com.cf|Phishing.Database|P
 u|paypal-verify-secure.com|Phishing.Database|Phishing
 u|paypal-verify.carter-traders.com|Phishing.Database|Phishing
 u|paypal-verify.jovani.top|Phishing.Database|Phishing
-u|paypal-verify.vercel.app|OpenPhish|Phishing
-u|paypal-verify.vercel.app/auth/signin?callbackurl=https%3a%2f%2fpaypal-verify.vercel.app%2f|OpenPhish|Phishing
 u|paypal-verifyaccounts.africanbookbank.org|Phishing.Database|Phishing
 u|paypal-verifyagent.help|Phishing.Database|Phishing
 u|paypal-verifycentre.cc|Phishing.Database|Phishing
@@ -333141,7 +333154,6 @@ u|paypalco.org|Phishing.Database|Phishing
 u|paypalcom.nifaso.me|Phishing.Database|Phishing
 u|paypalconfirm.pythonanywhere.com|Phishing.Database|Phishing
 u|paypalconfirmation.emilysmaternity.com|Phishing.Database|Phishing
-u|paypaldashboard.app|OpenPhish|Phishing
 u|paypaldesign.com|Phishing.Database|Phishing
 u|paypale.rrofficesupplies.com|Phishing.Database|Phishing
 u|paypalespaniaticketnum7442.info|Phishing.Database|Phishing
@@ -335144,7 +335156,6 @@ u|permeliajohnsonconsultingservices.com|Phishing.Database|Phishing
 u|permesatul776511.duckdns.org|Phishing.Database|Phishing
 u|permira.befalcone.com|Phishing.Database|Phishing
 u|permis-configura.tonohost.com|Phishing.Database|Phishing
-u|permisioning-built-in-accessed.squarespace.com|OpenPhish|Phishing
 u|permission-resync-agent.vercel.app|Phishing.Database|Phishing
 u|permissionedchain.com|Phishing.Database|Phishing
 u|permissions-update-setting.vercel.app|Phishing.Database|Phishing
@@ -336540,7 +336551,6 @@ u|pichin-web.ihostfull.com|Phishing.Database|Phishing
 u|pichinca20202.tonohost.com|Phishing.Database|Phishing
 u|pichincalog00.ihostfull.com|Phishing.Database|Phishing
 u|pichinch-manejad.cf|Phishing.Database|Phishing
-u|pichinch-web--juanpila22222.replit.app|OpenPhish|Phishing
 u|pichinch0web.000webhostapp.com|Phishing.Database|Phishing
 u|pichinch3inf-001-site1.ctempurl.com|Phishing.Database|Phishing
 u|pichincha-logn.webcindario.com|Phishing.Database|Phishing
@@ -338222,7 +338232,6 @@ u|pnc1secures.zapto.org|Phishing.Database|Phishing
 u|pncpoupsqwuntglaohlqsyllhsetlfziggvw.offgl8876899977678.uk.r.appspot.com|Phishing.Database|Phishing
 u|pncrdnsnvehrz.careermpkp.com|Phishing.Database|Phishing
 u|pncrdnsnvehrz.wordfund-wealth.com|Phishing.Database|Phishing
-u|pncverify.pagekite.me|OpenPhish|Phishing
 u|pncxnamxfznvmikl-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|pncy5v.zgjcz.com.cn|Phishing.Database|Phishing
 u|pndhldnoticefifththird.duckdns.org|Phishing.Database|Phishing
@@ -338871,7 +338880,7 @@ u|policybuzzcreativesolutions.vercel.app|Phishing.Database|Phishing
 u|policycenter-auth-check.vercel.app|Phishing.Database|Phishing
 u|policycheckdigitalleads.vercel.app|Phishing.Database|Phishing
 u|policycheckengagesolutions.vercel.app|Phishing.Database|Phishing
-u|policycompliance-seven.vercel.app|OpenPhish|Phishing
+u|policycompliance-seven.vercel.app/careers.html|OpenPhish|Phishing
 u|policycomplianceadfusion.vercel.app|Phishing.Database|Phishing
 u|policycompliancealertbrandpulse.vercel.app|Phishing.Database|Phishing
 u|policycompliancerestricted.vercel.app|Phishing.Database|Phishing
@@ -342497,6 +342506,7 @@ u|pranshupare.github.io|Phishing.Database|Phishing
 u|prardhanatrust.org|Phishing.Database|Phishing
 u|prasad1912200.github.io|Phishing.Database|Phishing
 u|prasadgithubuser.github.io|Phishing.Database|Phishing
+u|prasadmhetre2005.github.io/spotify-clone|OpenPhish|Phishing
 u|prasadsapkal55.github.io|Phishing.Database|Phishing
 u|prasannthedeveloper.github.io|Phishing.Database|Phishing
 u|prasanthdeva18.github.io|Phishing.Database|Phishing
@@ -343096,7 +343106,6 @@ u|previewm.com|Phishing.Database|Phishing
 u|previewpdfoffice.dyynamic-360.workers.dev|Phishing.Database|Phishing
 u|previews.dropboxusercontent.com.rs-mcas.ms|Phishing.Database|Phishing
 u|previsaooutlookmail.dns.army|Phishing.Database|Phishing
-u|previsto.programadoagora.workers.dev|OpenPhish|Phishing
 u|previtia.com|Phishing.Database|Phishing
 u|prevorang1.firebaseapp.com|Phishing.Database|Phishing
 u|prevtek.com|Phishing.Database|Phishing
@@ -344302,8 +344311,6 @@ u|profile-mfacebook.help|Phishing.Database|Phishing
 u|profile-mobile.services|Phishing.Database|Phishing
 u|profile-ourtime.iriwasfulte.workers.dev|Phishing.Database|Phishing
 u|profile-ourtime.sambungiorot.workers.dev|Phishing.Database|Phishing
-u|profile-session.vercel.app|OpenPhish|Phishing
-u|profile-session.vercel.app/accounts-center|OpenPhish|Phishing
 u|profile-shawupdate.weebly.com|Phishing.Database|Phishing
 u|profile-submit-case-here.vercel.app|Phishing.Database|Phishing
 u|profile-u.atspace.com|Phishing.Database|Phishing
@@ -344902,6 +344909,7 @@ u|promocao-6meses.com|Phishing.Database|Phishing
 u|promocao-smartwatch.ml|Phishing.Database|Phishing
 u|promocao-todo-dia.com|Phishing.Database|Phishing
 u|promocao.magaziinedaluiiza.com|Phishing.Database|Phishing
+u|promocaoblackdaamazon-h9b5ceb6fghgbtdr.eastus2-01.azurewebsites.net|OpenPhish|Phishing
 u|promocaodeabrill.com|Phishing.Database|Phishing
 u|promocaodescontao.com|Phishing.Database|Phishing
 u|promocaodiadospais.epizy.com|Phishing.Database|Phishing
@@ -345947,7 +345955,6 @@ u|pt-br.facebook.com.https.s1.gvirabi.com|Phishing.Database|Phishing
 u|pt-cgd.top|Phishing.Database|Phishing
 u|pt-co-pilot-33d56d97.azurewebsites.net|Phishing.Database|Phishing
 u|pt-dana-indonesiaa.kk-id.com|Phishing.Database|Phishing
-u|pt-seguranca.com/?s09lgvuha98w|OpenPhish|Phishing
 u|pt-stones.com|Phishing.Database|Phishing
 u|pt-wa-75.blogspot.co.at|Phishing.Database|Phishing
 u|pt-wa-75.blogspot.com|Phishing.Database|Phishing
@@ -346091,7 +346098,6 @@ u|ptsbie-alert.net|Phishing.Database|Phishing
 u|ptsbloginprocess.com|Phishing.Database|Phishing
 u|ptsbopen24-services.com|Phishing.Database|Phishing
 u|ptscreative.com|Phishing.Database|Phishing
-u|ptshopeeei.blogspot.com|OpenPhish|Phishing
 u|ptsmonterrey.com|Phishing.Database|Phishing
 u|ptsrk-dpd.cfd|Phishing.Database|Phishing
 u|ptsrn-dpd.cfd|Phishing.Database|Phishing
@@ -353336,6 +353342,7 @@ u|puntoitech.com|Phishing.Database|Phishing
 u|puntos.oportunidadcambioahora.com|Phishing.Database|Phishing
 u|puntosmrcanje.digital|Phishing.Database|Phishing
 u|puntosurf.com.mx|Phishing.Database|Phishing
+u|puntosypremios.click/bac.pa|OpenPhish|Phishing
 u|puntoyapartecomunicacion.com|Phishing.Database|Phishing
 u|puntoyoga.com.mx|Phishing.Database|Phishing
 u|punuvenow.weebly.com|Phishing.Database|Phishing
@@ -354044,6 +354051,7 @@ u|pyncvgeicmzlkdfz-dot-auth-online-sevice.ey.r.appspot.com|Phishing.Database|Phi
 u|pynecapital-na.com|Phishing.Database|Phishing
 u|pyngffsieibprnvydzyuxfrpim-dot-gleowayel400503.uc.r.appspot.com|Phishing.Database|Phishing
 u|pynhubsmnb.peggy-smith.workers.dev|Phishing.Database|Phishing
+u|pynkj78rfv1-wlzgbwur-2m1m3b-pynk63p.pages.dev|OpenPhish|Phishing
 u|pyno.areu.ir|Phishing.Database|Phishing
 u|pynom.top|Phishing.Database|Phishing
 u|pynqjkg.cn|Phishing.Database|Phishing
@@ -354383,6 +354391,7 @@ u|qauvo.pages.dev|Phishing.Database|Phishing
 u|qauwmnczoz.duckdns.org|Phishing.Database|Phishing
 u|qauytevbsq2975.monitorminor.com.tr|Phishing.Database|Phishing
 u|qavgm4201zb7ve02ovu.suao.de|Phishing.Database|Phishing
+u|qavqelo-mpt-zemvuri-a8d5fe42.pages.dev|OpenPhish|Phishing
 u|qavqs.blogspot.com|Phishing.Database|Phishing
 u|qawahzubppnfgunxxaestyxeckzmdymlrqjs-dot-cedar-code-289917.nn.r.appspot.com|Phishing.Database|Phishing
 u|qaweeswq43.web.app|Phishing.Database|Phishing
@@ -354432,7 +354441,6 @@ u|qbioqobbsvyunxvjmbtbgexiyp-dot-gleowayel400503.uc.r.appspot.com|Phishing.Datab
 u|qbjjcynyxb.duckdns.org|Phishing.Database|Phishing
 u|qbjlfjjlyn.duckdns.org|Phishing.Database|Phishing
 u|qbkhign2e-dot-hip-informatics-295108.appspot.com|Phishing.Database|Phishing
-u|qbl-bd.com/wp-includes/document/adobe_cloud/po_samples/download.html|OpenPhish|Phishing
 u|qbl.io|Phishing.Database|Phishing
 u|qbmaylssvmjronzt-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|qbmlzodggwcwyqt.serveirc.com|Phishing.Database|Phishing
@@ -355277,9 +355285,6 @@ u|qnjgdptryt.temp.swtest.ru|Phishing.Database|Phishing
 u|qnjivxolerufmhiw-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|qnjtklnlgz.duckdns.org|Phishing.Database|Phishing
 u|qnjwlkievbsczasq-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
-u|qnkxz26wdo-zlkytqwe-7k1j5d-qnk468.pages.dev|OpenPhish|Phishing
-u|qnkxz65vdo-hwcpsqwe-9i3j7g-qnk258.pages.dev|OpenPhish|Phishing
-u|qnkxz94xdo-hwcpslpw-3i5j7d-qnk628.pages.dev|OpenPhish|Phishing
 u|qnl.dinj.pro|Phishing.Database|Phishing
 u|qnlk.ptic.ir|Phishing.Database|Phishing
 u|qnmhdznhuc.duckdns.org|Phishing.Database|Phishing
@@ -355545,6 +355550,7 @@ u|qqz36gs5.co|Phishing.Database|Phishing
 u|qqzfihoffkpumqiq-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|qqzhawewpn.web.app|Phishing.Database|Phishing
 u|qr-822be8d.pages.dev|Phishing.Database|Phishing
+u|qr-codes.io/p2fsw7|OpenPhish|Phishing
 u|qr-redirected-qhwwctbueygjx.us-ord-1.linodeobjects.com|Phishing.Database|Phishing
 u|qr-review-zqb.us-mia-1.linodeobjects.com|Phishing.Database|Phishing
 u|qr.codes|Phishing.Database|Phishing
@@ -357109,6 +357115,7 @@ u|ra.ragawa722.workers.dev|Phishing.Database|Phishing
 u|ra12s.hyperphp.com|Phishing.Database|Phishing
 u|ra6a0bc49354ufc29be3746.de.swtest.ru|Phishing.Database|Phishing
 u|ra6pad3jt1e36n8.duckdns.org|Phishing.Database|Phishing
+u|ra78utdo.6lnov0.cn|OpenPhish|Phishing
 u|raaaghavagrawal.github.io|Phishing.Database|Phishing
 u|raabt.com|Phishing.Database|Phishing
 u|raafissan.00webhostapp.com|Phishing.Database|Phishing
@@ -357594,7 +357601,6 @@ u|raifpilingd.com|Phishing.Database|Phishing
 u|raiftechnology.com|Phishing.Database|Phishing
 u|raighn.com|Phishing.Database|Phishing
 u|raihaenterprises.com|Phishing.Database|Phishing
-u|railbuyer.sbb.b-op.com/railbuyer|OpenPhish|Phishing
 u|railcargrandfather.com|Phishing.Database|Phishing
 u|railcartidy.com|Phishing.Database|Phishing
 u|railing44.com|Phishing.Database|Phishing
@@ -358965,8 +358971,8 @@ u|rbclogin-line.web.app|Phishing.Database|Phishing
 u|rbcmontgomery.com|Phishing.Database|Phishing
 u|rbcnakaocanada.crabdance.com|Phishing.Database|Phishing
 u|rbcnooamow2.ydns.eu|Phishing.Database|Phishing
-u|rbcode.net/v/9156df6be4c11d853a0a62c76cc060da|OpenPhish|Phishing
-u|rbcode.net/v/a8c38855aff4a9250b3140f293440ac6|OpenPhish|Phishing
+u|rbcode.net/v/07cfb96f2e282c688c7715f7040d5b21|OpenPhish|Phishing
+u|rbcode.net/v/aced86c9a0ab1a54a4e2f077f305819e|OpenPhish|Phishing
 u|rbconlinesecurity.ca|Phishing.Database|Phishing
 u|rbconlinewebchat.web.app|Phishing.Database|Phishing
 u|rbcroyal-alert.com|Phishing.Database|Phishing
@@ -359132,6 +359138,7 @@ u|rbx025k.blogspot.jp|Phishing.Database|Phishing
 u|rbx025k.blogspot.nl|Phishing.Database|Phishing
 u|rbx025k.blogspot.no|Phishing.Database|Phishing
 u|rbx025k.blogspot.tw|Phishing.Database|Phishing
+u|rbx1000dfthfhhfhu.blogspot.com|OpenPhish|Phishing
 u|rbx15.netlify.app|Phishing.Database|Phishing
 u|rbx2025k.blogspot.ba|Phishing.Database|Phishing
 u|rbx2025k.blogspot.co.id|Phishing.Database|Phishing
@@ -360195,7 +360202,6 @@ u|rebo.bahstewman.com|Phishing.Database|Phishing
 u|rebook-mypostage.com|Phishing.Database|Phishing
 u|rebornmta.com|Phishing.Database|Phishing
 u|reboucastecidos.com.br|Phishing.Database|Phishing
-u|rebrand.ly/rebrand.ly/tll9rvf|OpenPhish|Phishing
 u|rebrandboardscale.pages.dev|Phishing.Database|Phishing
 u|rebrandly-inc3874.vercel.app|Phishing.Database|Phishing
 u|rebrandzkcentralize.pages.dev|Phishing.Database|Phishing
@@ -360402,6 +360408,7 @@ u|recommendatory.xyz|Phishing.Database|Phishing
 u|recommit-myitem.com|Phishing.Database|Phishing
 u|recompences-exclusive.live-on.net|Phishing.Database|Phishing
 u|recompensa.wuaze.com|Phishing.Database|Phishing
+u|recompensasonline.click/bac.pa|OpenPhish|Phishing
 u|recompensaszurichsantander.com.mx|Phishing.Database|Phishing
 u|recomposition.info|Phishing.Database|Phishing
 u|recondite-abstracted-vise.glitch.me|Phishing.Database|Phishing
@@ -361220,7 +361227,6 @@ u|redwhatsapp.com|Phishing.Database|Phishing
 u|redwhatsapp.site|Phishing.Database|Phishing
 u|redwolvesfans.shop|Phishing.Database|Phishing
 u|redwx.ga|Phishing.Database|Phishing
-u|redysel.com/img/tl-wr840n/47684uyjkhv67954.html|OpenPhish|Phishing
 u|redzaredaba.blogspot.com|Phishing.Database|Phishing
 u|redzatedas.blogspot.com|Phishing.Database|Phishing
 u|reeactivaation22.hostfree.pw|Phishing.Database|Phishing
@@ -363418,7 +363424,6 @@ u|resend-eb282.web.app|Phishing.Database|Phishing
 u|resenderocha.com.br|Phishing.Database|Phishing
 u|resep-nikmat.com|Phishing.Database|Phishing
 u|resep.tf712.com|Phishing.Database|Phishing
-u|reser.pymnt.page.0auth2.50-6-192-75.cpanel.site/secure-3/loginbaru?auth_max_open=0&ref=1dmop5dtmpqyar532x7ukubr1fqftf35lmem3qc46a37ciqqkll7uzrgw3wu8xegzzlc5kaqz7pyulrwjhlrfy5ho4oixk5qqh8a|OpenPhish|Phishing
 u|reserevapruv.com|Phishing.Database|Phishing
 u|reservaellineapersona.atsnx.com|Phishing.Database|Phishing
 u|reservaequiposr.rf.gd|Phishing.Database|Phishing
@@ -364922,7 +364927,6 @@ u|reward.s11pubg.com|Phishing.Database|Phishing
 u|reward1235.blogspot.com|Phishing.Database|Phishing
 u|reward2053.linetotime150.agency|Phishing.Database|Phishing
 u|reward970-coinbase.web.app|Phishing.Database|Phishing
-u|rewardbuxclaimhere.blogspot.com|OpenPhish|Phishing
 u|rewardclaimservices.duckdns.org|Phishing.Database|Phishing
 u|rewardcoin.pages.dev|Phishing.Database|Phishing
 u|rewardeventff1.duckdns.org|Phishing.Database|Phishing
@@ -365096,6 +365100,7 @@ u|rfdfsdfdfsrdf.duckdns.org|Phishing.Database|Phishing
 u|rfdncdcr0crdfrn0d00q5r5qowa.fra1.cdn.digitaloceanspaces.com|Phishing.Database|Phishing
 u|rfdpszfsso.duckdns.org|Phishing.Database|Phishing
 u|rfdqntvz.justinlist.org|Phishing.Database|Phishing
+u|rfefcrcercfre.pages.dev|OpenPhish|Phishing
 u|rfelts.rfelts.theperfectpocketbook.com|Phishing.Database|Phishing
 u|rfepgut.africansafariexperience.co.nz|Phishing.Database|Phishing
 u|rfeugroup.com|Phishing.Database|Phishing
@@ -365171,7 +365176,6 @@ u|rfxkzwscnelupczu-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|rfxylaufmqautjhevdlxcrchuv-dot-gloff849483.uk.r.appspot.com|Phishing.Database|Phishing
 u|rfy.ludandong.cn|Phishing.Database|Phishing
 u|rfyfjzavqywjrbkx-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
-u|rfygcy.com|OpenPhish|Phishing
 u|rfysdfgfhgajhkjlrtywgjhjlutdygyh.weebly.com|Phishing.Database|Phishing
 u|rfznmpbj.baby|Phishing.Database|Phishing
 u|rg.jeansbestlawnservice.com|Phishing.Database|Phishing
@@ -366816,7 +366820,6 @@ u|rndm777-com.preview-domain.com|Phishing.Database|Phishing
 u|rndom-vifd01.duckdns.org|Phishing.Database|Phishing
 u|rndond-ee7d.ztwgzbwqlanuqnt.workers.dev|Phishing.Database|Phishing
 u|rndpayuajauwqifkdkobeckubotzwgumpfeg-dot-cryptic-now-290917.ey.r.appspot.com|Phishing.Database|Phishing
-u|rndphh.com|OpenPhish|Phishing
 u|rndtechnosoft.com|Phishing.Database|Phishing
 u|rne.wawpi.icu|Phishing.Database|Phishing
 u|rnegi0598.github.io|Phishing.Database|Phishing
@@ -366999,6 +367002,7 @@ u|rob-x1.blogspot.it|Phishing.Database|Phishing
 u|rob-x1.blogspot.nl|Phishing.Database|Phishing
 u|rob.expofranchise.com.br|Phishing.Database|Phishing
 u|rob.gray.ziziwork3.com|Phishing.Database|Phishing
+u|rob2x.pages.dev|OpenPhish|Phishing
 u|rob3m.netlify.app|Phishing.Database|Phishing
 u|robahunter.github.io|Phishing.Database|Phishing
 u|robal21.smarthost.pl|Phishing.Database|Phishing
@@ -367331,6 +367335,8 @@ u|roblading.000webhostapp.com|Phishing.Database|Phishing
 u|roblcx.com.kg|Phishing.Database|Phishing
 u|robllllrey.netlify.app|Phishing.Database|Phishing
 u|roblnhoodservform.nicegetfirs.info|Phishing.Database|Phishing
+u|roblokx.com.es/charts|OpenPhish|Phishing
+u|roblokx.com.es/login?returlurl=1410683999|OpenPhish|Phishing
 u|roblolox.000webhostapp.com|Phishing.Database|Phishing
 u|roblotx.com|Phishing.Database|Phishing
 u|roblox-3e6.pages.dev|Phishing.Database|Phishing
@@ -367341,53 +367347,46 @@ u|roblox-verification.com|Phishing.Database|Phishing
 u|roblox.cam|Phishing.Database|Phishing
 u|roblox.cd|Phishing.Database|Phishing
 u|roblox.com.ag|Phishing.Database|Phishing
-u|roblox.com.am/games/142823291/murder-mystery-2?privateserverlinkcode=785784326544185973868503252956|OpenPhish|Phishing
 u|roblox.com.do|Phishing.Database|Phishing
-u|roblox.com.et/communities/2440069478/justtylerfromd2k|OpenPhish|Phishing
-u|roblox.com.et/games/2317712696/the-wild-west?privateserverlinkcode=96832977286335283072826806209983|OpenPhish|Phishing
-u|roblox.com.et/games/82205993156224/walk-10000-stairs-for-neko-girl?privateserverlinkcode=00875934528466444198126125542965|OpenPhish|Phishing
-u|roblox.com.et/users/9835817242/profile|OpenPhish|Phishing
+u|roblox.com.et/games/108507818469136/?privateserverlinkcode=92612552630821900198124056412144|OpenPhish|Phishing
+u|roblox.com.et/games/116800853527473/backrooms-kat-infection?privateserverlinkcode=67290872946242764815068724158716|OpenPhish|Phishing
+u|roblox.com.et/games/18503970677/neko-girl-survival?privateserverlinkcode=67290872946242764815068724158716|OpenPhish|Phishing
+u|roblox.com.et/games/920587237/adopt-me?privateserverlinkcode=01726033733096778629679474667560|OpenPhish|Phishing
+u|roblox.com.et/users/1155811561/profile|OpenPhish|Phishing
+u|roblox.com.et/users/1404516348/profile|OpenPhish|Phishing
+u|roblox.com.et/users/229276653/profile#!#about|OpenPhish|Phishing
+u|roblox.com.et/users/580065616/profile|OpenPhish|Phishing
 u|roblox.com.ge|Phishing.Database|Phishing
-u|roblox.com.gr/games/125538696653169/showdown-anime-fps-jutsu-shooter|OpenPhish|Phishing
-u|roblox.com.kg/games/8737602449/pls-donate-?privateserverlinkcode=81192286360381257942898267335025|OpenPhish|Phishing
 u|roblox.com.kz|Phishing.Database|Phishing
 u|roblox.com.lk|Phishing.Database|Phishing
 u|roblox.com.lr|Phishing.Database|Phishing
 u|roblox.com.ly|Phishing.Database|Phishing
 u|roblox.com.mk|Phishing.Database|Phishing
 u|roblox.com.ml|Phishing.Database|Phishing
-u|roblox.com.ml/users/206830307895/profile|OpenPhish|Phishing
-u|roblox.com.ml/users/223430144953/profile|OpenPhish|Phishing
-u|roblox.com.ml/users/233626842675/profile|OpenPhish|Phishing
-u|roblox.com.ml/users/346887480126/profile|OpenPhish|Phishing
+u|roblox.com.ml/users/118673527115/profile|OpenPhish|Phishing
+u|roblox.com.ml/users/266281029408/profile|OpenPhish|Phishing
+u|roblox.com.ml/users/268214293748/profile|OpenPhish|Phishing
+u|roblox.com.ml/users/471533431543/profile|OpenPhish|Phishing
 u|roblox.com.ps|Phishing.Database|Phishing
-u|roblox.com.pt/communities/747427815000/starcons-keygroup|OpenPhish|Phishing
-u|roblox.com.pt/communities/857048303155/giveawaycomz|OpenPhish|Phishing
-u|roblox.com.pt/games/13600218266/my-movie?privateserverlinkcode=99382535900423182128231632453729&game_id=13600218266&game_name=my-movie|OpenPhish|Phishing
-u|roblox.com.pt/games/13621938427/akuma-untitled-boxing-game?privateserverlinkcode=03264968228988791063045888431532|OpenPhish|Phishing
-u|roblox.com.pt/users/282030707450/profile|OpenPhish|Phishing
-u|roblox.com.pt/users/415355223340/profile|OpenPhish|Phishing
-u|roblox.com.pt/users/744746132618/profile|OpenPhish|Phishing
-u|roblox.com.pt/users/853043936437/undefined|OpenPhish|Phishing
 u|roblox.com.py|Phishing.Database|Phishing
-u|roblox.com.ss/games/71007326530715/ai-town?privateserverlinkcode=82784263396558998656156236354580|OpenPhish|Phishing
-u|roblox.com.ss/games/9872472334/hlwn-evade?privateserverlinkcode=34610827082897918631470852351281|OpenPhish|Phishing
-u|roblox.com.ss/users/8070655915/profile|OpenPhish|Phishing
+u|roblox.com.ss/communities/9530979153/untitled-cons-group#!/about|OpenPhish|Phishing
+u|roblox.com.ss/users/1155811561/profile|OpenPhish|Phishing
+u|roblox.com.ss/users/5757654538/profile|OpenPhish|Phishing
 u|roblox.com.tg|Phishing.Database|Phishing
 u|roblox.com.vc|Phishing.Database|Phishing
-u|roblox.et/users/7758732793/profile|OpenPhish|Phishing
 u|roblox.fm|Phishing.Database|Phishing
 u|roblox.gf|Phishing.Database|Phishing
 u|roblox.gs|Phishing.Database|Phishing
-u|roblox.ly/games/14153443454/meet-a-neko?privateserverlinkcode=60606758548615559075198493138760|OpenPhish|Phishing
-u|roblox.ly/users/23038403/profile|OpenPhish|Phishing
-u|roblox.ly/users/7280036217/profile|OpenPhish|Phishing
-u|roblox.ly/users/7676313166/profile|OpenPhish|Phishing
+u|roblox.ly/games/8832438757/pvp-sword-fighting?privateserverlinkcode=71462887104835002601811763811327|OpenPhish|Phishing
+u|roblox.ly/users/1076679447/profile|OpenPhish|Phishing
+u|roblox.ly/users/1972656197/profile|OpenPhish|Phishing
+u|roblox.ly/users/5180089054/profile|OpenPhish|Phishing
+u|roblox.ly/users/6836110892/profile|OpenPhish|Phishing
+u|roblox.ly/users/7163617644/profile|OpenPhish|Phishing
+u|roblox.ly/users/8681968742/profile|OpenPhish|Phishing
 u|roblox.mk|Phishing.Database|Phishing
 u|roblox.mq|Phishing.Database|Phishing
-u|roblox.rw/users/282033694495/profile|OpenPhish|Phishing
-u|roblox.rw/users/441698548140/profile|OpenPhish|Phishing
-u|roblox.rw/users/939173219685/profile|OpenPhish|Phishing
+u|roblox.ss/users/7456588534/profile|OpenPhish|Phishing
 u|roblox.sytes.net|Phishing.Database|Phishing
 u|roblox.tc|Phishing.Database|Phishing
 u|roblox.tg|Phishing.Database|Phishing
@@ -367396,6 +367395,7 @@ u|robloxapp.pro|Phishing.Database|Phishing
 u|robloxassassinknifecodes2019.blogspot.ba|Phishing.Database|Phishing
 u|robloxassassinknifecodes2019.blogspot.com.uy|Phishing.Database|Phishing
 u|robloxassassinknifecodes2019.blogspot.si|Phishing.Database|Phishing
+u|robloxc.com.es/users/775450188/profile|OpenPhish|Phishing
 u|robloxcodes2019may.blogspot.hk|Phishing.Database|Phishing
 u|robloxcodes2019may.blogspot.li|Phishing.Database|Phishing
 u|robloxcrushercodes2019.blogspot.ba|Phishing.Database|Phishing
@@ -368183,7 +368183,6 @@ u|rootcanalyuma.com|Phishing.Database|Phishing
 u|rooterla.com|Phishing.Database|Phishing
 u|rootforge.za.com|Phishing.Database|Phishing
 u|rootsandwingsindia.com|Phishing.Database|Phishing
-u|rootsblowers.co.in/views/adobe_doc.html|OpenPhish|Phishing
 u|rootscamiseteria.com|Phishing.Database|Phishing
 u|rootscomm-com.bhartiyaservices.com|Phishing.Database|Phishing
 u|rootspest.com|Phishing.Database|Phishing
@@ -369555,6 +369554,7 @@ u|rsrkrqjuoquqybyo-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
 u|rsrnvuraczrfmtdv.s3.us-east-2.amazonaws.com|Phishing.Database|Phishing
 u|rsrony90.000webhostapp.com|Phishing.Database|Phishing
 u|rsrqdohiejsarnbw-dot-millinium.ey.r.appspot.com|Phishing.Database|Phishing
+u|rss.rasmes.at/go/y2d4v214/z274x264|OpenPhish|Phishing
 u|rss.sayler.at|Phishing.Database|Phishing
 u|rss2.sayler.at|Phishing.Database|Phishing
 u|rssd2783.webaccountserver.com|Phishing.Database|Phishing
@@ -370987,7 +370987,6 @@ u|s0rt1ngc3nt3r-c0mf1rm4t10n.000webhostapp.com|Phishing.Database|Phishing
 u|s0rt1ngc3nt3r-s3rv1c3s.000webhostapp.com|Phishing.Database|Phishing
 u|s0s9p0pspuser.df.r.appspot.com|Phishing.Database|Phishing
 u|s0somosbancolombia.zeabur.app|Phishing.Database|Phishing
-u|s0y59.com|OpenPhish|Phishing
 u|s1-eu.adformnet.akadns.net|Phishing.Database|Phishing
 u|s1.7qq1.com|Phishing.Database|Phishing
 u|s1.gtlikblalatbki.com|Phishing.Database|Phishing
@@ -371200,7 +371199,10 @@ u|s4nd777-com.preview-domain.com|Phishing.Database|Phishing
 u|s4nnur-modalsepuluhribu.blogspot.com|Phishing.Database|Phishing
 u|s4upaohy3xyvfp7u7bsigr3g.qwo231sdx.club|Phishing.Database|Phishing
 u|s4v3tyl0g-c0mf1rm4t10np4g3.000webhostapp.com|Phishing.Database|Phishing
-u|s4w.in/www-roblox-com-users-2068330307895-profile|OpenPhish|Phishing
+u|s4w.in/roblox-com-users-1102363654-profile|OpenPhish|Phishing
+u|s4w.in/www-roblox-com-sharecode=31c0dfe0761a1d4fbbb236f8eb715628-type=server|OpenPhish|Phishing
+u|s4w.in/www-roblox-com-user-1404516341-profile|OpenPhish|Phishing
+u|s4w.in/www-roblox-com-users-2068830307895-profile|OpenPhish|Phishing
 u|s4ya.mener1m4-kup0n.my.id|Phishing.Database|Phishing
 u|s5.contacflsaro.com|Phishing.Database|Phishing
 u|s5.contactlosderl.com|Phishing.Database|Phishing
@@ -374526,6 +374528,7 @@ u|saussicecarotte.cfd|Phishing.Database|Phishing
 u|saussoxeillova.vercel.app|Phishing.Database|Phishing
 u|sausyeeeddhss.xyz|Phishing.Database|Phishing
 u|sautrakohahau-7322.vercel.app|Phishing.Database|Phishing
+u|sauv.info/roundcube.zip|OpenPhish|Phishing
 u|sauwaihak.com|Phishing.Database|Phishing
 u|sav-came.com.usrfiles.com|Phishing.Database|Phishing
 u|sav-my-area.com|Phishing.Database|Phishing
@@ -375135,6 +375138,7 @@ u|sdlfkjsdf.com|Phishing.Database|Phishing
 u|sdna668.com|Phishing.Database|Phishing
 u|sdoq123.shop|Phishing.Database|Phishing
 u|sdply1901.hixtvgskmynz.es|Phishing.Database|Phishing
+u|sdr743low-nypktny-8s3r0g-sdr64c.pages.dev|OpenPhish|Phishing
 u|sdsa.ldhebd.cyou|Phishing.Database|Phishing
 u|sdsc1.demose.cc|Phishing.Database|Phishing
 u|sdsfasfasd.pages.dev|Phishing.Database|Phishing
@@ -375180,7 +375184,6 @@ u|sebin-johnson.github.io|Phishing.Database|Phishing
 u|sec.maichasha.ru.com|Phishing.Database|Phishing
 u|sec.shidesto.solutions|Phishing.Database|Phishing
 u|sec.wellsfgo.onlineweb.mittalslabglassware.com|Phishing.Database|Phishing
-u|secburlordfut.bid/inicio/b-14|OpenPhish|Phishing
 u|seccureenhhhh.pages.dev|Phishing.Database|Phishing
 u|seclink.cat|Phishing.Database|Phishing
 u|secmorots.pages.dev|Phishing.Database|Phishing
@@ -375640,7 +375643,6 @@ u|secure.caq.com.au|Phishing.Database|Phishing
 u|secure.current-news-alerts.com|Phishing.Database|Phishing
 u|secure.devidotcu.us|Phishing.Database|Phishing
 u|secure.dhlguestmanagement.com|Phishing.Database|Phishing
-u|secure.dhlguestmanagement.com/events2/login.cfm?ref=%2fevents2%2findex.cfm%3fauuid%3d5c1f61fc-b7d7-acc6-bdaec27453de6d5c%2f&statuscodeid=10|OpenPhish|Phishing
 u|secure.divertido.juegos|Phishing.Database|Phishing
 u|secure.dk-post-ppostnord.qpon|Phishing.Database|Phishing
 u|secure.drdsq.com|Phishing.Database|Phishing
@@ -375741,8 +375743,6 @@ u|security-lacamora.com|Phishing.Database|Phishing
 u|security-led-ger.live|Phishing.Database|Phishing
 u|security-patch-j7ny.vercel.app|Phishing.Database|Phishing
 u|security-privacy-case-meq9.vercel.app|Phishing.Database|Phishing
-u|security-server--jonijihome.replit.app|OpenPhish|Phishing
-u|security-server-stat-luo0.bolt.host|OpenPhish|Phishing
 u|security-update.org|Phishing.Database|Phishing
 u|security.home-19.35-88-210-91.cprapid.com|Phishing.Database|Phishing
 u|security.home-69.44-223-65-141.cprapid.com|Phishing.Database|Phishing
@@ -375774,6 +375774,7 @@ u|securtyy.xhx-icd.my.id|Phishing.Database|Phishing
 u|securyty-alerts-center.vercel.app|Phishing.Database|Phishing
 u|secushare.appssharepoonlinews.de|Phishing.Database|Phishing
 u|secvvicess.weebly.com|Phishing.Database|Phishing
+u|sedg.info/wc%22|OpenPhish|Phishing
 u|sedigitalads.com|Phishing.Database|Phishing
 u|seditco.com|Phishing.Database|Phishing
 u|sedjouippryvctlfomwxjc-t08bay-bdm10.vercel.app|Phishing.Database|Phishing
@@ -375841,6 +375842,7 @@ u|selfserve.decipherinc.com|Phishing.Database|Phishing
 u|selion-sol.pages.dev|Phishing.Database|Phishing
 u|selion-vision.pages.dev|Phishing.Database|Phishing
 u|selion-works.pages.dev|Phishing.Database|Phishing
+u|sell--amazon--co--uk---playtech-o12xjo.systemsharbor.com/cookieprefs|OpenPhish|Phishing
 u|sellaforte.sviluppo.host|Phishing.Database|Phishing
 u|sellcentere.vercel.app|Phishing.Database|Phishing
 u|seller.global-express.lol|Phishing.Database|Phishing
@@ -375857,11 +375859,13 @@ u|semana-selecionada.shop|Phishing.Database|Phishing
 u|semanasdosconsumidor.com|Phishing.Database|Phishing
 u|semanaselecionada.store|Phishing.Database|Phishing
 u|send-8u9.pages.dev|Phishing.Database|Phishing
+u|send-usdt-murex.vercel.app|OpenPhish|Phishing
 u|send.attollo.com.au|Phishing.Database|Phishing
 u|sendbdorequest.generaterequest.workers.dev|Phishing.Database|Phishing
 u|sendfiend.com|Phishing.Database|Phishing
 u|sendpicz.com|Phishing.Database|Phishing
 u|sendungpackstation.live|Phishing.Database|Phishing
+u|sendusdt-8-phi.vercel.app|OpenPhish|Phishing
 u|senkanlar.com|Phishing.Database|Phishing
 u|senoarkdigital.com|Phishing.Database|Phishing
 u|sensacionesgranadilla.com|Phishing.Database|Phishing
@@ -375920,6 +375924,7 @@ u|servasco.de|Phishing.Database|Phishing
 u|servebpil.co|Phishing.Database|Phishing
 u|serveolis.sbs|Phishing.Database|Phishing
 u|server-iuj-shop.fourthwall.com|Phishing.Database|Phishing
+u|server-security-page-2--barbnone.replit.app|OpenPhish|Phishing
 u|server-sg.luckymarzuki07.workers.dev|Phishing.Database|Phishing
 u|server-us-ledger-cdn.teachable.com|Phishing.Database|Phishing
 u|server.bruin.com.au|Phishing.Database|Phishing
@@ -376342,7 +376347,7 @@ u|sharefile-skybest.pages.dev|Phishing.Database|Phishing
 u|sharefile.transitioneast.com|Phishing.Database|Phishing
 u|sharefile8.pages.dev|Phishing.Database|Phishing
 u|shareitbyaudrey.com|Phishing.Database|Phishing
-u|sharemyhtml.com/p/6xwdtccfaf#toron7@12681b103cbc43a2b289c7a8176257870bfc.com|OpenPhish|Phishing
+u|sharemyhtml.com/p/z3wghmp012|OpenPhish|Phishing
 u|sharep-3254424235342353453.pages.dev|Phishing.Database|Phishing
 u|sharep0lnt-3289462387563487.pages.dev|Phishing.Database|Phishing
 u|sharepoint-32645543534534635.pages.dev|Phishing.Database|Phishing
@@ -376501,7 +376506,6 @@ u|shifilkb.github.io|Phishing.Database|Phishing
 u|shikhu127-bit.github.io|Phishing.Database|Phishing
 u|shilpa260.github.io|Phishing.Database|Phishing
 u|shilpachalla.github.io|Phishing.Database|Phishing
-u|shilpakotha.com/wp-admin/jss/ulyyyy.html#zenorz@104de40cba5b32efaf1cfacf41ed4b725e23.net|OpenPhish|Phishing
 u|shinadhmuhammed.github.io|Phishing.Database|Phishing
 u|shineousx.vercel.app|Phishing.Database|Phishing
 u|shiners-uae.com|Phishing.Database|Phishing
@@ -376607,9 +376611,7 @@ u|shopbm23.xyz|Phishing.Database|Phishing
 u|shopcashback.pro|Phishing.Database|Phishing
 u|shopee.uk.cc|Phishing.Database|Phishing
 u|shopee66688.com|Phishing.Database|Phishing
-u|shopee77bombastis.blogspot.com|OpenPhish|Phishing
 u|shopeebrasil-ofc.netlify.app|Phishing.Database|Phishing
-u|shopeejkt811.blogspot.com|OpenPhish|Phishing
 u|shopeemall.xyz|Phishing.Database|Phishing
 u|shopeemitraofficialjob.id|Phishing.Database|Phishing
 u|shopeeping.top|Phishing.Database|Phishing
@@ -377180,7 +377182,6 @@ u|slom-meta.pages.dev|Phishing.Database|Phishing
 u|slotsjjj.com|Phishing.Database|Phishing
 u|slotuna-1072.com|Phishing.Database|Phishing
 u|slow-spring-rapping.on-fleek.app|Phishing.Database|Phishing
-u|slowattik.top|OpenPhish|Phishing
 u|slru.top|Phishing.Database|Phishing
 u|slshop6.vip|Phishing.Database|Phishing
 u|sluggerts.azurewebsites.net|Phishing.Database|Phishing
@@ -377333,6 +377334,7 @@ u|snapchatapp.com-t.pl|Phishing.Database|Phishing
 u|snapchatapp.com-u.pl|Phishing.Database|Phishing
 u|snapchatapp.com-v.pl|Phishing.Database|Phishing
 u|snapchatapp.com-w.pl|Phishing.Database|Phishing
+u|snaply-khadir-salims-projects.vercel.app|OpenPhish|Phishing
 u|snapmeala.vercel.app|Phishing.Database|Phishing
 u|snappasse.fr|Phishing.Database|Phishing
 u|snappathaw.vercel.app|Phishing.Database|Phishing
@@ -377415,6 +377417,7 @@ u|social.smartzr.top|Phishing.Database|Phishing
 u|social.tojmg.top|Phishing.Database|Phishing
 u|social.wendyp.top|Phishing.Database|Phishing
 u|social.wpcxq.top|Phishing.Database|Phishing
+u|socialadvertising-growth-partners.vercel.app/required.html|OpenPhish|Phishing
 u|socialbook-frontend.vercel.app|Phishing.Database|Phishing
 u|socialearn.co|Phishing.Database|Phishing
 u|socialgururj.com|Phishing.Database|Phishing
@@ -377463,7 +377466,6 @@ u|soikot-shahriaar.github.io|Phishing.Database|Phishing
 u|soildly.xyz|Phishing.Database|Phishing
 u|soilvet.info|Phishing.Database|Phishing
 u|sokelikstenatecom.pages.dev|Phishing.Database|Phishing
-u|sokiogh.kesug.com/?naps|OpenPhish|Phishing
 u|sokyvxfnqo.duckdns.org|Phishing.Database|Phishing
 u|sol-govnode.pages.dev|Phishing.Database|Phishing
 u|solal0.github.io|Phishing.Database|Phishing
@@ -377678,29 +377680,30 @@ u|sp.requestingcheckprobussiness-guidenetpages.xyz|Phishing.Database|Phishing
 u|sp.settings-opinions.com|Phishing.Database|Phishing
 u|sp.system-engineering.credit|Phishing.Database|Phishing
 u|sp.zhabite.com|Phishing.Database|Phishing
-u|sp10ct10-kavmiko-biz-dorzeni.pages.dev|OpenPhish|Phishing
-u|sp10ct10-kelviro-biz-normako.pages.dev|OpenPhish|Phishing
-u|sp10ct10-kelzuni-biz-ravmelo.pages.dev|OpenPhish|Phishing
-u|sp10ct10-lavkuni-biz-zormelo.pages.dev|OpenPhish|Phishing
-u|sp10ct10-rulvemi-biz-zorkalo.pages.dev|OpenPhish|Phishing
-u|sp10ct10-rumvako-biz-melzuni.pages.dev|OpenPhish|Phishing
-u|sp10ct10-varkelo-biz-zumravi.pages.dev|OpenPhish|Phishing
-u|sp10ct10-vemlori-biz-kazruni.pages.dev|OpenPhish|Phishing
-u|sp10ct10-zemkaro-biz-ravluni.pages.dev|OpenPhish|Phishing
-u|sp10ct11-melzuni-biz-kavrevo.pages.dev|OpenPhish|Phishing
+u|sp10ct10-dormako-biz-vemzuni.pages.dev|OpenPhish|Phishing
+u|sp10ct10-dormani-biz-zorkelo.pages.dev|OpenPhish|Phishing
+u|sp10ct10-kavmari-biz-nulzelo.pages.dev|OpenPhish|Phishing
+u|sp10ct10-kelzaro-biz-lumviko.pages.dev|OpenPhish|Phishing
+u|sp10ct10-korvani-biz-zarkelo.pages.dev|OpenPhish|Phishing
+u|sp10ct10-korvilo-biz-vemrako.pages.dev|OpenPhish|Phishing
+u|sp10ct10-lavzaro-biz-vemkuni-ewv.pages.dev|OpenPhish|Phishing
+u|sp10ct10-melvani-biz-korzelo.pages.dev|OpenPhish|Phishing
+u|sp10ct10-ravkaro-biz-kelmavi.pages.dev|OpenPhish|Phishing
+u|sp10ct10-rumleko-biz-norvani.pages.dev|OpenPhish|Phishing
+u|sp10ct10-vemrako-biz-dazvilo.pages.dev|OpenPhish|Phishing
+u|sp10ct10-zarkelo-biz-dormavi.pages.dev|OpenPhish|Phishing
+u|sp10ct10-zulravi-biz-kavmelo.pages.dev|OpenPhish|Phishing
 u|sp117660.sitebeat.crazydomains.com|Phishing.Database|Phishing
-u|sp19ct7-darem-biz-kulex-vonis.pages.dev|OpenPhish|Phishing
+u|sp11ct-zavlor-biz8-felnik-prasor.pages.dev|OpenPhish|Phishing
+u|sp1ct10-kavzelo-biz-rumvaki.pages.dev|OpenPhish|Phishing
+u|sp1ct10-kelvani-biz-morvuzo.pages.dev|OpenPhish|Phishing
+u|sp1ct10-vemluki-biz-ranzelo.pages.dev|OpenPhish|Phishing
 u|sp245995.sitebeat.crazydomains.com|Phishing.Database|Phishing
-u|sp26ct-lunor-biz-vameq-zotek.pages.dev|OpenPhish|Phishing
-u|sp30ct-zavur-biz-kemix-lonad.pages.dev|OpenPhish|Phishing
-u|sp3ct10-davzaro-biz-korvemi-66x.pages.dev|OpenPhish|Phishing
-u|sp3ct10-kavzelo-biz-norvani.pages.dev|OpenPhish|Phishing
-u|sp3ct10-lavreko-biz-kavzuni.pages.dev|OpenPhish|Phishing
-u|sp3ct10-lavzaro-biz-norvemi-uen.pages.dev|OpenPhish|Phishing
-u|sp3ct10-ravkelo-biz-dumvani.pages.dev|OpenPhish|Phishing
-u|sp3ct10-rumvako-biz-melzaro-18z.pages.dev|OpenPhish|Phishing
-u|sp3ct10-varkelo-biz-melzuni-eug.pages.dev|OpenPhish|Phishing
-u|sp3ct10-varkuni-biz-davmelo-apt.pages.dev|OpenPhish|Phishing
+u|sp28ct5-furvi-biz-molun-zakro.pages.dev|OpenPhish|Phishing
+u|sp29ct-ravro-biz-nemak-zulti.pages.dev|OpenPhish|Phishing
+u|sp29ct-vemra-biz-nolki-zurto.pages.dev|OpenPhish|Phishing
+u|sp30ct10-rumzuni-biz-kavelo.pages.dev|OpenPhish|Phishing
+u|sp30ct10-zorvemi-biz-zurelo.pages.dev|OpenPhish|Phishing
 u|sp401527.sitebeat.crazydomains.com|Phishing.Database|Phishing
 u|sp483944.sitebeat.crazydomains.com|Phishing.Database|Phishing
 u|sp668002.sitebeat.crazydomains.com|Phishing.Database|Phishing
@@ -377777,6 +377780,7 @@ u|spellrutine.com|Phishing.Database|Phishing
 u|spencerlloydphoto.com|Phishing.Database|Phishing
 u|spendesk.co.com|Phishing.Database|Phishing
 u|spersonas-apps-bancolombia.com|Phishing.Database|Phishing
+u|spf19.com|OpenPhish|Phishing
 u|sphere-beamless-clustered.com|Phishing.Database|Phishing
 u|sphere-coreless-phase.com|Phishing.Database|Phishing
 u|spiced-billowy-tarsal.glitch.me|Phishing.Database|Phishing
@@ -377922,6 +377926,7 @@ u|spring-glitter-e38d.e36osck8.workers.dev|Phishing.Database|Phishing
 u|spring-pond-4903.fly.dev|Phishing.Database|Phishing
 u|spring.frestaici.ru.com|Phishing.Database|Phishing
 u|spritsto-bartolow-mewkumas9291.crabdance.com|Phishing.Database|Phishing
+u|sprl.me/azltsen|OpenPhish|Phishing
 u|spt-cee-last-fe2a.vercel.app|Phishing.Database|Phishing
 u|spurious-hill-gooseberry.glitch.me|Phishing.Database|Phishing
 u|spushtanapp.de|Phishing.Database|Phishing
@@ -379701,6 +379706,7 @@ u|store.communityartuser.com|Phishing.Database|Phishing
 u|store.communitybuildgame.com|Phishing.Database|Phishing
 u|store.communitybuilditem.com|Phishing.Database|Phishing
 u|store.communitychartgame.icu|Phishing.Database|Phishing
+u|store.communitycharts.com/workshop/brassbounds-fury|OpenPhish|Phishing
 u|store.communitycreatordev.com|Phishing.Database|Phishing
 u|store.communitydevart.com|Phishing.Database|Phishing
 u|store.communitydevsection.com|Phishing.Database|Phishing
@@ -380024,7 +380030,6 @@ u|submit-info-recheck.github.io|Phishing.Database|Phishing
 u|submit-instant-appeal-for-pages-terms-info-review.vercel.app|Phishing.Database|Phishing
 u|submit-review-for-blue-badge.wasmer.app|Phishing.Database|Phishing
 u|submit-ticket-for-free-fix.vercel.app|Phishing.Database|Phishing
-u|submit-today83868.sbs|OpenPhish|Phishing
 u|submit-verification-document-cien-n-three.vercel.app|Phishing.Database|Phishing
 u|submit-verification-documents-10-yo2y.vercel.app|Phishing.Database|Phishing
 u|submit-verification-documents-11-3a8s.vercel.app|Phishing.Database|Phishing
@@ -380178,7 +380183,6 @@ u|sujeethonnappagol.github.io|Phishing.Database|Phishing
 u|sujeetrk24.github.io|Phishing.Database|Phishing
 u|sujjalchhetri.github.io|Phishing.Database|Phishing
 u|sukhmansa.github.io|Phishing.Database|Phishing
-u|sukhpreetkaur2406.github.io/online-shopping-platform|OpenPhish|Phishing
 u|sukien2025.freefire-gerana.io.vn|Phishing.Database|Phishing
 u|sukienffvip.shop|Phishing.Database|Phishing
 u|sukshamrainaa.github.io|Phishing.Database|Phishing
@@ -380277,7 +380281,6 @@ u|sunpashlxe.cfd|Phishing.Database|Phishing
 u|sunpashlxv.cfd|Phishing.Database|Phishing
 u|sunpashlxx.cfd|Phishing.Database|Phishing
 u|sunpathze.vercel.app|Phishing.Database|Phishing
-u|sunrisemaillogin.flazio.online|OpenPhish|Phishing
 u|sunrisepreschoolthornbury.vic.edu.au|Phishing.Database|Phishing
 u|sunsgpsl.com|Phishing.Database|Phishing
 u|suntrailaq.vercel.app|Phishing.Database|Phishing
@@ -380929,6 +380932,7 @@ u|system.agency-partner-management.com|Phishing.Database|Phishing
 u|system.credits-center.com|Phishing.Database|Phishing
 u|systematic-scale.com|Phishing.Database|Phishing
 u|systembluecollars.com|Phishing.Database|Phishing
+u|systemecuzen--sistemeculo.replit.app|OpenPhish|Phishing
 u|systeminfo98563.wixsite.com|Phishing.Database|Phishing
 u|systemkeeperp-u17b11di-govguardio.pages.dev|Phishing.Database|Phishing
 u|systemkeepery-cagi17k11d-auditguardx.pages.dev|Phishing.Database|Phishing
@@ -381107,11 +381111,11 @@ u|t17-xcvnmbekwuhuweitmsnvoiqa.vercel.app|Phishing.Database|Phishing
 u|t1s3chlss.duckdns.org|Phishing.Database|Phishing
 u|t2.wistful2.com|Phishing.Database|Phishing
 u|t2fe0389a.emailsys2a.net|Phishing.Database|Phishing
-u|t2w7e-6xc-6ac9-mowkt-09-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|t2x3.biz.id|Phishing.Database|Phishing
 u|t40cob0tvjp-7ggu.vercel.app|Phishing.Database|Phishing
 u|t40cob0tvjp-ntag.vercel.app|Phishing.Database|Phishing
 u|t40cob0tvjp1-1oqx.vercel.app|Phishing.Database|Phishing
+u|t4c0d-q30-iv8r-uhwx9-09-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|t4rget.94c0r-b055ku.my.id|Phishing.Database|Phishing
 u|t4v89.thombloquan.ru|Phishing.Database|Phishing
 u|t4w.5c2.myftpupload.com|Phishing.Database|Phishing
@@ -381122,6 +381126,7 @@ u|t6hqn-innomotics.gksnhlbhkq.es|Phishing.Database|Phishing
 u|t87bb.top|Phishing.Database|Phishing
 u|t8dvzv-4a4epr-token.vercel.app|Phishing.Database|Phishing
 u|t951b-touchdownpr.ghjigclbopy.es|Phishing.Database|Phishing
+u|t9fta-c9v-0xqd-3nadj-10-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|tab.myreserp.com|Phishing.Database|Phishing
 u|tabegroup.nl|Phishing.Database|Phishing
 u|tabitha-cambodia.org|Phishing.Database|Phishing
@@ -381713,21 +381718,10 @@ u|tashkatech.com|Phishing.Database|Phishing
 u|tasinsa.com.gt|Phishing.Database|Phishing
 u|task-done-webhook.vercel.app|Phishing.Database|Phishing
 u|taskaorder.xyz|Phishing.Database|Phishing
-u|taskboard-aelthara-4a7a.s2499617.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-aquorix-dac7.s2499617.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-azelythor-d560.s2499621.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-lyvarnex-881f.s2499621.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-nyxalora-b74f.s2499621.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-nyzovian-39cc.s2499617.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-velqorath-8c37.s2499621.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskboard-xelthorin-7fbf.s2499621.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskflow-section-86e1.07614.workers.dev/analysis_center|OpenPhish|Phishing
 u|tasknode-syncpoint.pages.dev|Phishing.Database|Phishing
+u|taskportal-velnorith-29d8.s2499590.workers.dev/analysis_center|OpenPhish|Phishing
 u|taskslide.shop|Phishing.Database|Phishing
 u|taskslide.site|Phishing.Database|Phishing
-u|taskstation-aevoryn-1cba.s2499613.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskstation-lythavion-3d91.s2499613.workers.dev/analysis_center|OpenPhish|Phishing
-u|taskstation-zyverath-9645.s2499604.workers.dev/analysis_center|OpenPhish|Phishing
 u|taslyizawellnessherbs.my|Phishing.Database|Phishing
 u|tastemotions.com|Phishing.Database|Phishing
 u|taststt.weebly.com|Phishing.Database|Phishing
@@ -382012,7 +382006,6 @@ u|telllstraaa-today.weebly.com|Phishing.Database|Phishing
 u|telllstrabiggpoond001.weebly.com|Phishing.Database|Phishing
 u|tellmann-lifestyle.de|Phishing.Database|Phishing
 u|tellmeliu.github.io|Phishing.Database|Phishing
-u|telmavi-gld-felquni-r9t8dk24.pages.dev|OpenPhish|Phishing
 u|telschig.pro|Phishing.Database|Phishing
 u|telsgd.weebly.com|Phishing.Database|Phishing
 u|telsrawebmail-signin.framer.website|Phishing.Database|Phishing
@@ -382237,7 +382230,6 @@ u|test331.ecmpp.com|Phishing.Database|Phishing
 u|testafacil.shop|Phishing.Database|Phishing
 u|teste.conexaomkt.com|Phishing.Database|Phishing
 u|teste.raulkiyoshi.adv.br|Phishing.Database|Phishing
-u|teste3-hgh6fabxgvexc2fa.polandcentral-01.azurewebsites.net|OpenPhish|Phishing
 u|tested-isload.surge.sh|Phishing.Database|Phishing
 u|testestestblabla.com|Phishing.Database|Phishing
 u|testflix-nextjs.vercel.app|Phishing.Database|Phishing
@@ -382249,6 +382241,7 @@ u|testing.tklifemall.com|Phishing.Database|Phishing
 u|testing99442.com|Phishing.Database|Phishing
 u|testinggur.liveblog365.com|Phishing.Database|Phishing
 u|testingtrezor.pages.dev|Phishing.Database|Phishing
+u|testlanigs.blogspot.com|OpenPhish|Phishing
 u|testmeee.lol|Phishing.Database|Phishing
 u|testnet-fi.pages.dev|Phishing.Database|Phishing
 u|testraaaaa1111.weebly.com|Phishing.Database|Phishing
@@ -383030,6 +383023,7 @@ u|to-ke7p0zkgt.info|Phishing.Database|Phishing
 u|to-ki.click|Phishing.Database|Phishing
 u|to-ki.fun|Phishing.Database|Phishing
 u|to-ndaxlogi-ca.webflow.io|Phishing.Database|Phishing
+u|to-webmailtelstrasignin.weebly.com|OpenPhish|Phishing
 u|toagad.com|Phishing.Database|Phishing
 u|tobeblast.github.io|Phishing.Database|Phishing
 u|tochfreyuiwfwughpq4yuruiiwowoijkeo.pages.dev|Phishing.Database|Phishing
@@ -383039,7 +383033,6 @@ u|todayista.server1677.nognietactief.nl|Phishing.Database|Phishing
 u|todaylucky4you.xyz|Phishing.Database|Phishing
 u|toddymores-lettum.fwuhs.com|Phishing.Database|Phishing
 u|todoawuas-osmosis-invers-k4f9vui.gamma.site|Phishing.Database|Phishing
-u|todosobreinstagram.blogspot.com|OpenPhish|Phishing
 u|toeflevaluation.com|Phishing.Database|Phishing
 u|toeken.im|Phishing.Database|Phishing
 u|toeken.me|Phishing.Database|Phishing
@@ -383055,6 +383048,7 @@ u|tok.tkonb.com|Phishing.Database|Phishing
 u|tok.tkzhj.com|Phishing.Database|Phishing
 u|tok02.com|Phishing.Database|Phishing
 u|toka.im|Phishing.Database|Phishing
+u|tokaixen-cdn84-hk29.cfd|OpenPhish|Phishing
 u|tokayindiscussable.vercel.app|Phishing.Database|Phishing
 u|tokccn.im|Phishing.Database|Phishing
 u|tokeaon.im|Phishing.Database|Phishing
@@ -383062,7 +383056,10 @@ u|tokecnpocket.com|Phishing.Database|Phishing
 u|tokeenpocck.top|Phishing.Database|Phishing
 u|tokeenpoocket.pro|Phishing.Database|Phishing
 u|tokem.in|Phishing.Database|Phishing
+u|tokemev-cdn61-hk2.lol|OpenPhish|Phishing
 u|tokemi.im|Phishing.Database|Phishing
+u|tokemien-cdn6-hk65.click|OpenPhish|Phishing
+u|tokemine-cdn07-hk6.monster|OpenPhish|Phishing
 u|token-giftminting.vercel.app|Phishing.Database|Phishing
 u|token.hk.cn|Phishing.Database|Phishing
 u|token.im-v2.app|Phishing.Database|Phishing
@@ -383274,11 +383271,11 @@ u|tr-bilnnance.click|Phishing.Database|Phishing
 u|tr-binances.click|Phishing.Database|Phishing
 u|tr-ezor-suite-portal.typedream.app|Phishing.Database|Phishing
 u|tr.creativered7.com|Phishing.Database|Phishing
+u|tra-set069.com|OpenPhish|Phishing
 u|tra0f-kfjd-sksj.s3.eu-north-1.amazonaws.com|Phishing.Database|Phishing
 u|traazjirio-stiart.webflow.io|Phishing.Database|Phishing
 u|trabalhistadigital.com.br|Phishing.Database|Phishing
 u|trablino.vercel.app|Phishing.Database|Phishing
-u|track-dhl.pay-mx.com|OpenPhish|Phishing
 u|track-findmy.app|Phishing.Database|Phishing
 u|track-lsrael-post-il.com|Phishing.Database|Phishing
 u|track.loverythm.fun|Phishing.Database|Phishing
@@ -383477,7 +383474,6 @@ u|tradexexpertfxcourse.com|Phishing.Database|Phishing
 u|tradheyirweglet.webflow.io|Phishing.Database|Phishing
 u|trading-kucin-cdnn-enhelp.webflow.io|Phishing.Database|Phishing
 u|tradition-local-manage-82346175.vercel.app|Phishing.Database|Phishing
-u|traditional-grammar-840631.framer.app|OpenPhish|Phishing
 u|traent-lemon-qgn0q3.mystrikingly.com|Phishing.Database|Phishing
 u|traffic-ads-business.vercel.app|Phishing.Database|Phishing
 u|traffic-analysis-tool.vercel.app|Phishing.Database|Phishing
@@ -384692,6 +384688,7 @@ u|tubular-douhua-477f98.netlify.app|Phishing.Database|Phishing
 u|tubular-marshmallow-287771.netlify.app|Phishing.Database|Phishing
 u|tubulla.com|Phishing.Database|Phishing
 u|tucajadeahorrspa.web.app|Phishing.Database|Phishing
+u|tucanjebanistmo.click/bac.pa|OpenPhish|Phishing
 u|tucsonhatsusa.com|Phishing.Database|Phishing
 u|tudoalss.com|Phishing.Database|Phishing
 u|tuesdayfirst.pages.dev|Phishing.Database|Phishing
@@ -384872,8 +384869,9 @@ u|u-k-parking72.top|Phishing.Database|Phishing
 u|u-tronscan.com|Phishing.Database|Phishing
 u|u.cq1815.com|Phishing.Database|Phishing
 u|u.ethz.ch|Phishing.Database|Phishing
+u|u.gy/kcunta|OpenPhish|Phishing
+u|u.gy/rktbji|OpenPhish|Phishing
 u|u.pilot45.com|Phishing.Database|Phishing
-u|u.to/2rthig|OpenPhish|Phishing
 u|u0688998.plsk.regruhosting.ru|Phishing.Database|Phishing
 u|u06u.xyz|Phishing.Database|Phishing
 u|u0eyrt-cbcd20-xq7xh5s6qz.edgeone.app|Phishing.Database|Phishing
@@ -384999,6 +384997,7 @@ u|ucnlkw.cyou|Phishing.Database|Phishing
 u|uco.vymfbgzetfvc.es|Phishing.Database|Phishing
 u|ucrgusr.cn|Phishing.Database|Phishing
 u|ucs709.fanqier1.cn|Phishing.Database|Phishing
+u|ucsg365.vercel.app|OpenPhish|Phishing
 u|ud-coder.github.io|Phishing.Database|Phishing
 u|ud3j-bmmanager818288.vercel.app|Phishing.Database|Phishing
 u|udayk35.github.io|Phishing.Database|Phishing
@@ -385352,7 +385351,6 @@ u|up-huld-wallet-eng-support.pages.dev|Phishing.Database|Phishing
 u|up-service-update-spotify.ngrok.pro|Phishing.Database|Phishing
 u|up-shipping.com|Phishing.Database|Phishing
 u|up-trezor-hardware.teachable.com|Phishing.Database|Phishing
-u|up.gdmaoka.com|OpenPhish|Phishing
 u|upadhyayabhi9173.github.io|Phishing.Database|Phishing
 u|upbe684makler.b-cdn.net|Phishing.Database|Phishing
 u|upbeat-elion.34-125-197-109.plesk.page|Phishing.Database|Phishing
@@ -387358,8 +387356,6 @@ u|vaibhav841660.github.io|Phishing.Database|Phishing
 u|vaibhavdyestuff.com|Phishing.Database|Phishing
 u|vaibhavhackwhiz.github.io|Phishing.Database|Phishing
 u|vaibhavi608.github.io|Phishing.Database|Phishing
-u|vaibhavinayak10.github.io/amazondarkmode.github.io|OpenPhish|Phishing
-u|vaibhavinayak10.github.io/amazonproject.github.io|OpenPhish|Phishing
 u|vaibhavjoc.github.io|Phishing.Database|Phishing
 u|vaibhavlate92.github.io|Phishing.Database|Phishing
 u|vaibhavugratara.github.io|Phishing.Database|Phishing
@@ -387406,6 +387402,7 @@ u|valestrae-vault.pages.dev|Phishing.Database|Phishing
 u|valiant-core-1l4.pages.dev|Phishing.Database|Phishing
 u|validacaodados.ru.com|Phishing.Database|Phishing
 u|validacion7388239.netlify.app|Phishing.Database|Phishing
+u|validaciondeseguridads.iceiy.com/?i=1|OpenPhish|Phishing
 u|validaciones33e687ba.netlify.app|Phishing.Database|Phishing
 u|validacionoutlo0k.github.io|Phishing.Database|Phishing
 u|validar-informacion-www.weebly.com|Phishing.Database|Phishing
@@ -387781,7 +387778,6 @@ u|vhqpagzzcc.duckdns.org|Phishing.Database|Phishing
 u|vhs.wawpp.icu|Phishing.Database|Phishing
 u|vhswncnav.vercel.app|Phishing.Database|Phishing
 u|vhww.cxvzbc.com|Phishing.Database|Phishing
-u|vi5y3-ubn-q6un-efilf-14-10-2026-aa.pages.dev|OpenPhish|Phishing
 u|via-help-casse-x6sv.vercel.app|Phishing.Database|Phishing
 u|viab2b.com.br|Phishing.Database|Phishing
 u|viaceu.com.br|Phishing.Database|Phishing
@@ -388078,7 +388074,6 @@ u|vkz9b.keobazbxrt.es|Phishing.Database|Phishing
 u|vkzefm.secondhandparts.co.za|Phishing.Database|Phishing
 u|vladonsd.ru|Phishing.Database|Phishing
 u|vlage.cn|Phishing.Database|Phishing
-u|vlem-froz-spat-740-zrik-klandez-vaz-905.pages.dev|OpenPhish|Phishing
 u|vlen-meta-trup-biz.pages.dev|Phishing.Database|Phishing
 u|vlerwgt.cn|Phishing.Database|Phishing
 u|vless-32v.pages.dev|Phishing.Database|Phishing
@@ -388173,6 +388168,8 @@ u|voren-drykal-syren.pages.dev|Phishing.Database|Phishing
 u|vorentiax.vercel.app|Phishing.Database|Phishing
 u|vorin-salex-drilo.pages.dev|Phishing.Database|Phishing
 u|vorlic-meta-biz-melton.pages.dev|Phishing.Database|Phishing
+u|vormquri-mpt-belfani-p6x3ka51.pages.dev|OpenPhish|Phishing
+u|vormzelo-mpt-qorfuni-a4h7fe93.pages.dev|OpenPhish|Phishing
 u|vorn-meta-glip-biz.pages.dev|Phishing.Database|Phishing
 u|vorn-meta-slid-bizz.pages.dev|Phishing.Database|Phishing
 u|vorn-meta-slid.pages.dev|Phishing.Database|Phishing
@@ -388268,6 +388265,7 @@ u|vpass-jp.zhongnengtanhui.com|Phishing.Database|Phishing
 u|vpass-jp.zpuza.cn|Phishing.Database|Phishing
 u|vpass-jp.zsukc.cn|Phishing.Database|Phishing
 u|vpc26mdt29t3biwn.jimpike.com.au|Phishing.Database|Phishing
+u|vpcs-loltrauxaokhe.netlify.app|OpenPhish|Phishing
 u|vpevuwbsubdomain.a.bb.ccc.dddd.qldvvmc.com.au|Phishing.Database|Phishing
 u|vpfa.top|Phishing.Database|Phishing
 u|vpmlatvija.com|Phishing.Database|Phishing
@@ -388360,7 +388358,6 @@ u|vwwinterbank.pw|Phishing.Database|Phishing
 u|vwww-ankama.com|Phishing.Database|Phishing
 u|vwww-roblox.com.ru|Phishing.Database|Phishing
 u|vx.posioncify.ru|Phishing.Database|Phishing
-u|vxhm.oucx.beer/xid/p6|OpenPhish|Phishing
 u|vxnsh1.github.io|Phishing.Database|Phishing
 u|vxp-ui.github.io|Phishing.Database|Phishing
 u|vxrf-wahtsapp.com|Phishing.Database|Phishing
@@ -388471,6 +388468,7 @@ u|waavwaastsapp.top|Phishing.Database|Phishing
 u|wackytodacfreemyip-10fc023.ingress-erytho.ewp.live|Phishing.Database|Phishing
 u|wadffgh.wixsite.com|Phishing.Database|Phishing
 u|wadoodshaikh.github.io|Phishing.Database|Phishing
+u|waffle734.xyz|OpenPhish|Phishing
 u|wafw.top|Phishing.Database|Phishing
 u|wageholder.com|Phishing.Database|Phishing
 u|wagoto.info|Phishing.Database|Phishing
@@ -389083,7 +389081,6 @@ u|web3.rpcbrowser.xyz|Phishing.Database|Phishing
 u|web39847363att.weebly.com|Phishing.Database|Phishing
 u|web3connectvaults.com|Phishing.Database|Phishing
 u|web3dex.lol|Phishing.Database|Phishing
-u|web3dex.pages.dev/home/walletpage|OpenPhish|Phishing
 u|web3dx.pages.dev|Phishing.Database|Phishing
 u|web3fixnodesync.surge.sh|Phishing.Database|Phishing
 u|web3multichaintech.vercel.app|Phishing.Database|Phishing
@@ -389114,7 +389111,6 @@ u|webbsbayrntilrmizim045.xyz|Phishing.Database|Phishing
 u|webbsma.com|Phishing.Database|Phishing
 u|webcaption-8py9.vercel.app|Phishing.Database|Phishing
 u|webcaption-ys66.vercel.app|Phishing.Database|Phishing
-u|webchalan.xflhl.com|OpenPhish|Phishing
 u|webcome-sso-exodus.teachable.com|Phishing.Database|Phishing
 u|webctkkpn-3gla.vercel.app|Phishing.Database|Phishing
 u|webdatadata.pages.dev|Phishing.Database|Phishing
@@ -389153,7 +389149,6 @@ u|webinars.tech-institute.org|Phishing.Database|Phishing
 u|webinvoice.vercel.app|Phishing.Database|Phishing
 u|webjunostar.weebly.com|Phishing.Database|Phishing
 u|webkham.ru|Phishing.Database|Phishing
-u|webledger-live.pages.dev|OpenPhish|Phishing
 u|webmaiiissocloud87yug-cxew.web.app|Phishing.Database|Phishing
 u|webmaiilshaw.weebly.com|Phishing.Database|Phishing
 u|webmail-102691.square.site|Phishing.Database|Phishing
@@ -389448,7 +389443,6 @@ u|westbo.duckdns.org|Phishing.Database|Phishing
 u|westernautomobileassembly.com|Phishing.Database|Phishing
 u|westernunion-verification.com|Phishing.Database|Phishing
 u|westernunion.ubrd.us|Phishing.Database|Phishing
-u|westernunioncash.com|OpenPhish|Phishing
 u|westernwaliving.com|Phishing.Database|Phishing
 u|weston2255.github.io|Phishing.Database|Phishing
 u|westpacrecovery.com|Phishing.Database|Phishing
@@ -389471,7 +389465,6 @@ u|weweseaeweweseawewesaewewesaewe.weebly.com|Phishing.Database|Phishing
 u|wexauthau-reyk.firebaseapp.com|Phishing.Database|Phishing
 u|wexauthau-reyk.web.app|Phishing.Database|Phishing
 u|wexcv.weeblysite.com|Phishing.Database|Phishing
-u|wf.gdmaoka.com|OpenPhish|Phishing
 u|wf.managepci.com|Phishing.Database|Phishing
 u|wfauthcenter.pages.dev|Phishing.Database|Phishing
 u|wfauthservice.vercel.app|Phishing.Database|Phishing
@@ -390474,7 +390467,6 @@ u|wmwrf.pics|Phishing.Database|Phishing
 u|wmxvbehoxf.duckdns.org|Phishing.Database|Phishing
 u|wnaozle93.icu|Phishing.Database|Phishing
 u|wndoaylvjcvginisi54mraavgpeoafbcxvhot.dratassianaalves.com.br|Phishing.Database|Phishing
-u|wnep.vercel.app|OpenPhish|Phishing
 u|wnj8q.cyou|Phishing.Database|Phishing
 u|wnj8q.icu|Phishing.Database|Phishing
 u|wnmnw.crapkdtubgo.es|Phishing.Database|Phishing
@@ -390714,7 +390706,6 @@ u|ws.ndfsvtas.top|Phishing.Database|Phishing
 u|ws.teo53tas.top|Phishing.Database|Phishing
 u|ws.vo2cdtas.top|Phishing.Database|Phishing
 u|ws.whatsappa.hk|Phishing.Database|Phishing
-u|wsapexp.top|OpenPhish|Phishing
 u|wsaq2.bet365999555.com|Phishing.Database|Phishing
 u|wsctyoto.sbs|Phishing.Database|Phishing
 u|wscyeoto.icu|Phishing.Database|Phishing
@@ -391086,6 +391077,7 @@ u|x71k.xyz|Phishing.Database|Phishing
 u|x78b.xyz|Phishing.Database|Phishing
 u|x82t.xyz|Phishing.Database|Phishing
 u|x85h.xyz|Phishing.Database|Phishing
+u|x8p1m9-3k9a1x2-9z8p1k-qw18c24y.pages.dev/welcome_aboard?welcome=10009568686956300&token248=10009568686956300&name_token136=espumas%20chaideappeals%2fsubmit-appeal-form%2freturn%2f|OpenPhish|Phishing
 u|x8v2e.xyz|Phishing.Database|Phishing
 u|x90m-casefb549633.vercel.app|Phishing.Database|Phishing
 u|xalorjet.com|Phishing.Database|Phishing
@@ -391145,7 +391137,6 @@ u|xdzuot6a.ridistrict.com|Phishing.Database|Phishing
 u|xe22.xyz|Phishing.Database|Phishing
 u|xelaris-vault.pages.dev|Phishing.Database|Phishing
 u|xellon.xin|Phishing.Database|Phishing
-u|xelvani-mpt-zenmuro-c8h6de34.pages.dev|OpenPhish|Phishing
 u|xeniatalerwholesale.com|Phishing.Database|Phishing
 u|xenodochial-liskov.34-125-197-109.plesk.page|Phishing.Database|Phishing
 u|xenpcparicha.braincert.com|Phishing.Database|Phishing
@@ -391232,7 +391223,7 @@ u|xixiangtang.pilot45.com|Phishing.Database|Phishing
 u|xixpilot.world|Phishing.Database|Phishing
 u|xj-instagram.vercel.app|Phishing.Database|Phishing
 u|xji.acn.temporary.site|Phishing.Database|Phishing
-u|xjn39-117jw-qtz15-117re-8a2b4c-lpr47-117w.pages.dev|OpenPhish|Phishing
+u|xjn39-191kq-qtz15-191lo-6b3c5d-xjn39-191w.pages.dev/appeals/submit-appeal-form/return|OpenPhish|Phishing
 u|xjrsel.ywnhwmard.es|Phishing.Database|Phishing
 u|xjsmzkz.midasbuy-page.top|Phishing.Database|Phishing
 u|xk31wj8ie.sioquzosris.es|Phishing.Database|Phishing
@@ -391481,6 +391472,7 @@ u|y88i.xyz|Phishing.Database|Phishing
 u|y9.osiburis.ru|Phishing.Database|Phishing
 u|y90u.xyz|Phishing.Database|Phishing
 u|y97y.xyz|Phishing.Database|Phishing
+u|y99ho-tfi-zkcp-td1zb-09-09-2026-aa.pages.dev|OpenPhish|Phishing
 u|yaan.pilot45.com|Phishing.Database|Phishing
 u|yadafufa.com|Phishing.Database|Phishing
 u|yadanice.com|Phishing.Database|Phishing
@@ -391579,7 +391571,6 @@ u|yd4b-bmmanager114201.vercel.app|Phishing.Database|Phishing
 u|yddho.cn|Phishing.Database|Phishing
 u|ydfnte.secondhandparts.co.za|Phishing.Database|Phishing
 u|ydgkdkdj73536.iddiii.biz.id|Phishing.Database|Phishing
-u|ydktr80gpx-rvljh28qwx-8u3s6c-rvl91k.pages.dev|OpenPhish|Phishing
 u|ydms.automatedprocesssystems.com|Phishing.Database|Phishing
 u|ydms.gensyssystems.com|Phishing.Database|Phishing
 u|ydsjjsyew.weeblysite.com|Phishing.Database|Phishing
@@ -391897,6 +391888,7 @@ u|yzqil.cn|Phishing.Database|Phishing
 u|z-mail-webauth.netlify.app|Phishing.Database|Phishing
 u|z-protection.business-minagne.com|Phishing.Database|Phishing
 u|z09a.xyz|Phishing.Database|Phishing
+u|z09iy-lsg-9mp0-vm7od-10-09-2026-hh.pages.dev|OpenPhish|Phishing
 u|z09p.xyz|Phishing.Database|Phishing
 u|z0fpy-mtechg.qkipikpp.es|Phishing.Database|Phishing
 u|z0irjr.ezbuyfast.com|Phishing.Database|Phishing
@@ -391965,6 +391957,7 @@ u|zavod228.icu|Phishing.Database|Phishing
 u|zavod2281.icu|Phishing.Database|Phishing
 u|zavodik11.help|Phishing.Database|Phishing
 u|zavodka842.help|Phishing.Database|Phishing
+u|zavquro-mpt-belfuni-a5h8fe64.pages.dev|OpenPhish|Phishing
 u|zawix.net|Phishing.Database|Phishing
 u|zax34.netlify.app|Phishing.Database|Phishing
 u|zaxkii.buzz|Phishing.Database|Phishing
@@ -391987,7 +391980,6 @@ u|zeddexexchange.live|Phishing.Database|Phishing
 u|zeevandhara.shop|Phishing.Database|Phishing
 u|zehan2244.github.io|Phishing.Database|Phishing
 u|zelrvon.cfd|Phishing.Database|Phishing
-u|zemqavi-mpt-zorvuni-p5d8fe41.pages.dev|OpenPhish|Phishing
 u|zemuwire.com|Phishing.Database|Phishing
 u|zen-haven.pages.dev|Phishing.Database|Phishing
 u|zen88cf69.mx0.sspl.com.au|Phishing.Database|Phishing
@@ -392020,6 +392012,7 @@ u|zfboke.com|Phishing.Database|Phishing
 u|zfkrq1055kalklxmvox.peou.de|Phishing.Database|Phishing
 u|zfragancias.com|Phishing.Database|Phishing
 u|zfrbc.cn|Phishing.Database|Phishing
+u|zfrip-klim-vrop-759-vrik-fravox-zaz-427.pages.dev|OpenPhish|Phishing
 u|zfrwwussmr.duckdns.org|Phishing.Database|Phishing
 u|zg78-casefb156337.vercel.app|Phishing.Database|Phishing
 u|zgermnilogin.webflow.io|Phishing.Database|Phishing
@@ -392153,6 +392146,7 @@ u|zolotongo7.pages.dev|Phishing.Database|Phishing
 u|zolunexi-daxurine.pages.dev|Phishing.Database|Phishing
 u|zolunexi-fremotak.pages.dev|Phishing.Database|Phishing
 u|zona-segura.viabcp.sa.com|Phishing.Database|Phishing
+u|zonaderegalos.click/bac.pa|OpenPhish|Phishing
 u|zonconsidersfy.online|Phishing.Database|Phishing
 u|zoom-call29072025callerid9237xzue07930conference-secured.s3-bkk.nipa.cloud|Phishing.Database|Phishing
 u|zoom.readyex-eg.com|Phishing.Database|Phishing
@@ -392184,6 +392178,7 @@ u|zplatur.in|Phishing.Database|Phishing
 u|zqlwo.cn|Phishing.Database|Phishing
 u|zqruj.icu|Phishing.Database|Phishing
 u|zqs71.ieecaa.es|Phishing.Database|Phishing
+u|zr3d3nt14ls0uttr3.iceiy.com|OpenPhish|Phishing
 u|zr5l8-cosaction.ghjigclbopy.es|Phishing.Database|Phishing
 u|zram-meta.pages.dev|Phishing.Database|Phishing
 u|zrfmlrzxaihotfix-reporting.jimpike.com.au|Phishing.Database|Phishing
@@ -392204,6 +392199,7 @@ u|ztymnabbiw.duckdns.org|Phishing.Database|Phishing
 u|zubren.top|Phishing.Database|Phishing
 u|zugriffaufdas-web.online|Phishing.Database|Phishing
 u|zuiwd6-cancelar-ikqlbck6j.weebly.com|Phishing.Database|Phishing
+u|zuneerashaik.github.io/netflix|OpenPhish|Phishing
 u|zunyi.pilot45.com|Phishing.Database|Phishing
 u|zuoh.top|Phishing.Database|Phishing
 u|zup-meta-plon-biz.pages.dev|Phishing.Database|Phishing
