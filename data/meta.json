@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-26T13:32:38.142659+00:00",
-  "total": 392275,
+  "generated_at": "2026-11-27T13:29:26.121614+00:00",
+  "total": 392274,
   "stats": {
     "by_type": {
       "email": 0,
-      "url": 392275
+      "url": 392274
     },
     "by_source": {
       "Phishing.Database": 391977,
-      "OpenPhish": 298
+      "OpenPhish": 297
     },
     "by_category": {
-      "Phishing": 392275
+      "Phishing": 392274
     }
   },
   "sources": [
